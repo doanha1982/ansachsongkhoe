@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/</loc>
-		<lastmod>2020-07-27T09:39:39+00:00</lastmod>
+		<lastmod>2020-07-27T16:16:29+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/hello-world/</loc>
@@ -239,21 +239,21 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/dau-hieu-canh-bao-co-the-gia-di-nhanh-chong/</loc>
-		<lastmod>2020-07-27T09:25:42+00:00</lastmod>
-		<image:image>
-			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/co-the-ban-bat-dau-lao-hoa-tu-nam-bao-nhieu-tuoi-cau-tra-loi-la-20.jpg</image:loc>
-			<image:title><![CDATA[co-the-ban-bat-dau-lao-hoa-tu-nam-bao-nhieu-tuoi-cau-tra-loi-la-20]]></image:title>
-			<image:caption><![CDATA[Lão hóa cơ thể]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/8-loai-trai-cay-giau-canxi-cho-me-bau/</loc>
-		<lastmod>2020-07-27T09:39:39+00:00</lastmod>
+		<lastmod>2020-07-27T16:02:16+00:00</lastmod>
 		<image:image>
 			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/medium-shot-pregnant-woman-standing-window_23-2148252648.jpg</image:loc>
 			<image:title><![CDATA[medium-shot-pregnant-woman-standing-window_23-2148252648]]></image:title>
 			<image:caption><![CDATA[mẹ bầu ca cần nhiều canxi]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/dau-hieu-canh-bao-co-the-gia-di-nhanh-chong/</loc>
+		<lastmod>2020-07-27T16:16:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/co-the-ban-bat-dau-lao-hoa-tu-nam-bao-nhieu-tuoi-cau-tra-loi-la-20.jpg</image:loc>
+			<image:title><![CDATA[co-the-ban-bat-dau-lao-hoa-tu-nam-bao-nhieu-tuoi-cau-tra-loi-la-20]]></image:title>
+			<image:caption><![CDATA[Lão hóa cơ thể]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
@@ -263,5 +263,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading
 
-Served from: thuoc.info.test @ 2020-07-27 17:17:14 by W3 Total Cache
+Served from: thuoc.info.test @ 2020-07-27 23:23:16 by W3 Total Cache
 -->
