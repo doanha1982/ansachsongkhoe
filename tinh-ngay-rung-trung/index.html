@@ -238,7 +238,7 @@
     <main id="main" class="site-main">
         <div class="content-block content-block-1 clear">
             <div class="section-heading">
-                <h3 class="section-title">Công cụ tính ngày rụng trứng
+                <h3 class="section-title">Tính ngày rụng trứng
                 </h3>
                 <i>Công cụ này không nên được sử dụng như một hình thức kiểm soát sinh sản hoặc tránh thai ngoài ý
                     muốn.</i>
@@ -254,29 +254,29 @@
                         <p>
                             <label for="">Khoảng cách giữa hai chu kỳ kinh nguyệt của bạn là bao nhiêu ngày?</label>
                             <select id="ccycle" name="ccycle" class="bmi-input" style="text-align: center;font-size: 22px;width:300px">
-                                <option value="22">22 days</option>
-                                <option value="23">23 days</option>
-                                <option value="24">24 days</option>
-                                <option value="25">25 days</option>
-                                <option value="26">26 days</option>
-                                <option value="27">27 days</option>
-                                <option value="28">28 days</option>
-                                <option value="29">29 days</option>
-                                <option value="30" selected>30 days</option>
-                                <option value="31">31 days</option>
-                                <option value="32">32 days</option>
-                                <option value="33">33 days</option>
-                                <option value="34">34 days</option>
-                                <option value="35">35 days</option>
-                                <option value="36">36 days</option>
-                                <option value="37">37 days</option>
-                                <option value="38">38 days</option>
-                                <option value="39">39 days</option>
-                                <option value="40">40 days</option>
-                                <option value="41">41 days</option>
-                                <option value="42">42 days</option>
-                                <option value="43">43 days</option>
-                                <option value="44">44 days</option>
+                                <option value="22">22 ngày</option>
+                                <option value="23">23 ngày</option>
+                                <option value="24">24 ngày</option>
+                                <option value="25">25 ngày</option>
+                                <option value="26">26 ngày</option>
+                                <option value="27">27 ngày</option>
+                                <option value="28">28 ngày</option>
+                                <option value="29">29 ngày</option>
+                                <option value="30" selected>30 ngày</option>
+                                <option value="31">31 ngày</option>
+                                <option value="32">32 ngày</option>
+                                <option value="33">33 ngày</option>
+                                <option value="34">34 ngày</option>
+                                <option value="35">35 ngày</option>
+                                <option value="36">36 ngày</option>
+                                <option value="37">37 ngày</option>
+                                <option value="38">38 ngày</option>
+                                <option value="39">39 ngày</option>
+                                <option value="40">40 ngày</option>
+                                <option value="41">41 ngày</option>
+                                <option value="42">42 ngày</option>
+                                <option value="43">43 ngày</option>
+                                <option value="44">44 ngày</option>
                             </select>
                         </p>
                         <p>
@@ -285,7 +285,7 @@
                         </p>
                     </div>
                 </div>
-                <div class="bmi-notice" style="display: none">
+                <div id="div-result" class="bmi-notice" style="display: none">
                     <h4>Các ngày quan trọng của chu kỳ này</h4>
                     <table>
                         <tbody>
@@ -452,6 +452,7 @@
                         fdp.setDate(fdp.getDate() + period);
                     }
                     jQuery('.tbl-next-six').append(next_periods);
+                    document.getElementById('div-result').scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
                 })
             })
 

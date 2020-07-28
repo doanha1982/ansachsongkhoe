@@ -235,7 +235,7 @@
     <main id="main" class="site-main">
         <div class="content-block content-block-1 clear">
             <div class="section-heading">
-                <h3 class="section-title">Công cụ tính BMI
+                <h3 class="section-title">Tính chỉ số khối cơ thể
                 </h3>
             </div>
             <div class="page-content">
@@ -279,7 +279,7 @@
                 </div>
             </div>
         </div>
-        <div class="content-block content-block-1 bmi-response-form clear" style="display: none">
+        <div id="bmi-response-form" class="content-block content-block-1 bmi-response-form clear" style="display: none">
             <div class="bmi-container">
                 <div class="bmi-input-bar">
                     Theo cân nặng và chiều cao của bạn lần lượt là <span class="span-weight"></span> kg và <span class="span-height"></span> cm.
@@ -397,6 +397,7 @@
                     jQuery('.bmi-response-form ,.bmi-score-bar').show();
                     jQuery('.span-weight').text(w);
                     jQuery('.span-height').text(jQuery('#bmi-height').val());
+                    document.getElementById('bmi-response-form').scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
                 })
             })
 

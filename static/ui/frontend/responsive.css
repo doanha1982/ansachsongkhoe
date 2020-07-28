@@ -164,4 +164,8 @@
 	.feature_thumb {width: 100%;height: auto;}
 	.container-recent-posts .thumbnail-wrap {float: none;border-radius: 0;border: none;padding: 5px;}
 	.container-recent-posts .entry-header {padding-left: 0px;}
-	.bmi-form {width: 100%;float: none;}}
+	.bmi-form {width: 100%;float: none;}
+	.content-block .section-heading h3 {font-size: 16px;}
+	.bmr-result {width: 100%;}
+	.tool-block {width: 100%;max-width: 100%;margin: 0;}
+	.tool-block:first-child {margin-left: 0;}}

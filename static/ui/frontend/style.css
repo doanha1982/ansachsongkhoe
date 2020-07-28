@@ -538,3 +538,13 @@ ul.bxslider {list-style: none;}
 .container-recent-posts .thumbnail-wrap {float: left;border-radius: 8px;border: 1px solid #ddd;padding: 5px;}
 .container-recent-posts .entry-header {padding-left: 175px;}
 .container-recent-posts .entry-meta {float: none !important;}
+.tool-container {display: inline-block;}
+.tool-container:first-child {margin-left: 20px;}
+.tool-container:after {margin-right: 20px;}
+.tool-block {display: inline-block;float: left;margin-left: 20px;max-width: 200px;}
+.tool-block:first-child {margin-left: 20px;}
+.tool-block img {width: 150px;height: 150px;border-radius: 6px;border: solid 1px #ddd;padding: 5px;}
+.tool-block img:hover {background-color: #ddd;}
+.tool-block h5 {text-align: center;color: #0091cd;}
+.tool-block a:hover {text-decoration: none;color: #004b79;}
+#app-content {text-align: center;}

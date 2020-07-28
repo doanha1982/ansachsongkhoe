@@ -234,7 +234,7 @@
         <main id="main" class="site-main">
             <div class="content-block clear">
                 <div class="section-heading">
-                    <h3 class="section-title">Công cụ tính mức tiêu hao năng lượng
+                    <h3 class="section-title">Tính mức tiêu hao năng lượng
                     </h3>
                 </div>
                 <div class="bmr-form page-content clear">
@@ -277,7 +277,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="bmr-result-form page-content clear" style="display: none">
+                <div id="bmr-result-form" class="bmr-result-form page-content clear" style="display: none">
                     <h4 style="text-align: center; text-transform: uppercase">Kết quả đo BMR</h4>
                     <div class="bmr-result">
                         <div style="text-align: center;font-weight: bold">Chỉ số BMR của bạn là
@@ -359,6 +359,7 @@
                         jQuery('.bmr_level_5').text((bmr * 1.7).toFixed(0).toLocaleString());
                         jQuery('.bmr_level_6').text((bmr * 1.9).toFixed(0).toLocaleString());
                         jQuery('.bmr-result-form').css('display', 'block');
+                        document.getElementById('bmr-result-form').scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
                     })
                 })
 	            function reset_form(){

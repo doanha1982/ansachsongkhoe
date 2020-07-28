@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/</loc>
-		<lastmod>2020-07-27T16:16:29+00:00</lastmod>
+		<lastmod>2020-07-28T09:57:47+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/hello-world/</loc>
@@ -120,14 +120,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/thap-dinh-duong/</loc>
-		<lastmod>2020-07-23T15:42:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/280916_043859thap_ntt_ngang_6.7.2016-01-scaled.jpg</image:loc>
-			<image:title><![CDATA[280916_043859thap_ntt_ngang_6.7.2016-01]]></image:title>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/huong-dan-lam-dep-khi-mang-thai/</loc>
 		<lastmod>2020-07-23T16:26:21+00:00</lastmod>
 		<image:image>
@@ -146,15 +138,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/10-cach-don-gian-an-sach/</loc>
-		<lastmod>2020-07-25T09:20:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/variety-fresh-tasty-vegetables-dark_1220-4444.jpg</image:loc>
-			<image:title><![CDATA[variety-fresh-tasty-vegetables-dark_1220-4444]]></image:title>
-			<image:caption><![CDATA[chế độ ăn nhiều rau, thực phẩm không chế biến]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/dau-hieu-mang-thai-som/</loc>
 		<lastmod>2020-07-26T10:22:56+00:00</lastmod>
 		<image:image>
@@ -166,15 +149,6 @@
 	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/neat/</loc>
 		<lastmod>2020-07-26T10:58:51+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/dot-chay-calo-ma-khong-can-tap/</loc>
-		<lastmod>2020-07-27T04:05:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/women-are-doing-housework-preparing-food-royalty-free-illustration-1573648745.jpg</image:loc>
-			<image:title><![CDATA[women-are-doing-housework-preparing-food-royalty-free-illustration-1573648745]]></image:title>
-			<image:caption><![CDATA[Đốt cháy calories mà không cần tập thể thao]]></image:caption>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/vaccine-my-hieu-qua-voi-ncovid/</loc>
@@ -201,15 +175,6 @@
 			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/ncovid.jpg</image:loc>
 			<image:title><![CDATA[ncovid]]></image:title>
 			<image:caption><![CDATA[Mô hình virus ncovid-19]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/10-nguyen-nhan-khien-ban-met-moi-ca-ngay/</loc>
-		<lastmod>2020-07-27T09:20:55+00:00</lastmod>
-		<image:image>
-			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/tired-businessman-character_1133-376.jpg</image:loc>
-			<image:title><![CDATA[tired-businessman-character_1133-376]]></image:title>
-			<image:caption><![CDATA[Nguyện nhân khiến cơ thể mệt mỏi]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -248,12 +213,47 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/thap-dinh-duong/</loc>
+		<lastmod>2020-07-28T03:30:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/280916_043859thap_ntt_ngang_6.7.2016-01-scaled.jpg</image:loc>
+			<image:title><![CDATA[280916_043859thap_ntt_ngang_6.7.2016-01]]></image:title>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/dau-hieu-canh-bao-co-the-gia-di-nhanh-chong/</loc>
-		<lastmod>2020-07-27T16:16:29+00:00</lastmod>
+		<lastmod>2020-07-28T08:58:03+00:00</lastmod>
 		<image:image>
 			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/co-the-ban-bat-dau-lao-hoa-tu-nam-bao-nhieu-tuoi-cau-tra-loi-la-20.jpg</image:loc>
 			<image:title><![CDATA[co-the-ban-bat-dau-lao-hoa-tu-nam-bao-nhieu-tuoi-cau-tra-loi-la-20]]></image:title>
 			<image:caption><![CDATA[Lão hóa cơ thể]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/10-nguyen-nhan-khien-ban-met-moi-ca-ngay/</loc>
+		<lastmod>2020-07-28T09:29:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/tired-businessman-character_1133-376.jpg</image:loc>
+			<image:title><![CDATA[tired-businessman-character_1133-376]]></image:title>
+			<image:caption><![CDATA[Nguyện nhân khiến cơ thể mệt mỏi]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/dot-chay-calo-ma-khong-can-tap/</loc>
+		<lastmod>2020-07-28T09:34:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/women-are-doing-housework-preparing-food-royalty-free-illustration-1573648745.jpg</image:loc>
+			<image:title><![CDATA[women-are-doing-housework-preparing-food-royalty-free-illustration-1573648745]]></image:title>
+			<image:caption><![CDATA[Đốt cháy calories mà không cần tập thể thao]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/10-cach-don-gian-an-sach/</loc>
+		<lastmod>2020-07-28T09:57:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/variety-fresh-tasty-vegetables-dark_1220-4444.jpg</image:loc>
+			<image:title><![CDATA[variety-fresh-tasty-vegetables-dark_1220-4444]]></image:title>
+			<image:caption><![CDATA[chế độ ăn nhiều rau, thực phẩm không chế biến]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
@@ -263,5 +263,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading
 
-Served from: thuoc.info.test @ 2020-07-28 09:19:09 by W3 Total Cache
+Served from: thuoc.info.test @ 2020-07-28 17:02:40 by W3 Total Cache
 -->
