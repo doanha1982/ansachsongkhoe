@@ -150,7 +150,8 @@
 	.content-loop .entry-comment {display: none;}
 	.content-loop .entry-summary {display: block;clear: both;}
 	.single h1.entry-title {font-size: 26px;}
-	.bmi-form {width: 100%;float: none;}}
+	.bmi-form {width: 100%;float: none;}
+	.hot-tag-bar ul li {width: 100%;}}
 @media only screen and (max-width: 479px) {.site-title {font-size: 22px;}
 	.container {padding-left: 2%;padding-right: 2%;}
 	#featured-content .featured-slide .entry-title a {font-size: 18px;}
@@ -172,4 +173,5 @@
 	.content-block .section-heading h3 {font-size: 16px;}
 	.bmr-result {width: 100%;}
 	.tool-block {width: 100%;max-width: 100%;margin: 0;}
-	.tool-block:first-child {margin-left: 0;}}
+	.tool-block:first-child {margin-left: 0;}
+	.hot-tag-bar ul li {width: 100%;}}

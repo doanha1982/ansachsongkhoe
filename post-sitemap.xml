@@ -2,47 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/</loc>
-		<lastmod>2020-07-29T04:50:47+00:00</lastmod>
+		<lastmod>2020-07-29T08:47:20+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/hello-world/</loc>
 		<lastmod>2020-07-15T03:21:12+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/benh-cham/</loc>
-		<lastmod>2020-07-20T08:09:03+00:00</lastmod>
-		<image:image>
-			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/benh-cham-1.jpg</image:loc>
-			<image:caption><![CDATA[Chàm]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/benh-cham-5.jpg</image:loc>
-			<image:caption><![CDATA[bệnh chàm vi khuẩn]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/benh-cham-4.jpg</image:loc>
-			<image:caption><![CDATA[bệnh chàm đồng tiền]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/benh-cham-3.jpg</image:loc>
-			<image:caption><![CDATA[Chàm thể tạng]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/benh-cham-2.jpg</image:loc>
-			<image:caption><![CDATA[Chàm tiếp xúc]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/u-hat-nhiem-khuan/</loc>
-		<lastmod>2020-07-20T08:10:07+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/men-gan/</loc>
-		<lastmod>2020-07-20T08:10:31+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/viem-quanh-mong/</loc>
-		<lastmod>2020-07-20T08:10:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/hoi-mieng-halitosis/</loc>
@@ -265,15 +229,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/infographic-tinh-hinh-dich-ncovid-19/</loc>
-		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/infographic-2807.png</image:loc>
-			<image:title><![CDATA[infographic-2807]]></image:title>
-			<image:caption><![CDATA[Infographic - Cập nhật tình hình NCOVID-19 ngày 28/07/2020]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/da-nang-cach-ly-xa-hoi/</loc>
 		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
 	</url>
@@ -319,8 +274,77 @@
 		<lastmod>2020-07-29T04:46:41+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/ung-pho-voi-bach-hau-co-nguy-co-bung-phat/</loc>
+		<lastmod>2020-07-29T07:09:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/viem-quanh-mong/</loc>
+		<lastmod>2020-07-29T07:20:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/u-hat-nhiem-khuan/</loc>
+		<lastmod>2020-07-29T07:21:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/benh-cham/</loc>
+		<lastmod>2020-07-29T07:21:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/benh-cham-1.jpg</image:loc>
+			<image:caption><![CDATA[Chàm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/benh-cham-5.jpg</image:loc>
+			<image:caption><![CDATA[bệnh chàm vi khuẩn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/benh-cham-4.jpg</image:loc>
+			<image:caption><![CDATA[bệnh chàm đồng tiền]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/benh-cham-3.jpg</image:loc>
+			<image:caption><![CDATA[Chàm thể tạng]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/benh-cham-2.jpg</image:loc>
+			<image:caption><![CDATA[Chàm tiếp xúc]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/men-gan/</loc>
+		<lastmod>2020-07-29T07:22:11+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/4-tinh-tay-nguyen-da-ghi-nhan-78-ca-benh-bach-hau-cap-bach-ngan-chan-dich-bung-phat/</loc>
+		<lastmod>2020-07-29T07:43:40+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/dap-thuoc-dieu-tri-chung-dai-dam-o-tre/</loc>
-		<lastmod>2020-07-29T04:50:47+00:00</lastmod>
+		<lastmod>2020-07-29T07:45:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/cac-dau-hieu-nhan-biet-benh-bach-hau/</loc>
+		<lastmod>2020-07-29T07:56:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/infographic-tinh-hinh-dich-ncovid-19/</loc>
+		<lastmod>2020-07-29T08:05:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/infographic-2807.png</image:loc>
+			<image:title><![CDATA[infographic-2807]]></image:title>
+			<image:caption><![CDATA[Infographic - Cập nhật tình hình NCOVID-19 ngày 28/07/2020]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/benh-vien-quoc-te-city-ngung-tiep-nhan-benh-nhan-do-ca-nghi-nhiem-ncov/</loc>
+		<lastmod>2020-07-29T08:10:33+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/truc-nhi-dieu-nhi-cuoi-dua-tinh-tao/</loc>
+		<lastmod>2020-07-29T08:15:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/29-07-2020-them-8-ca-mac-moi-tai-da-nang/</loc>
+		<lastmod>2020-07-29T08:47:20+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
@@ -329,5 +353,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading
 
-Served from: thuoc.info.test @ 2020-07-29 11:57:47 by W3 Total Cache
+Served from: thuoc.info.test @ 2020-07-29 16:23:13 by W3 Total Cache
 -->
