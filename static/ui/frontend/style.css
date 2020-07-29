@@ -548,3 +548,14 @@ ul.bxslider {list-style: none;}
 .tool-block h5 {text-align: center;color: #0091cd;}
 .tool-block a:hover {text-decoration: none;color: #004b79;}
 #app-content {text-align: center;}
+.div-no-thumbnail {display: block;width: 150px;height: 150px;text-align: center;font-size: 30px;text-transform: uppercase;padding-top: 60px;font-weight: bold;}
+.home-no-thumbnail {display: block;width: 130px;height: 87px;text-align: center;font-size: 30px;text-transform: uppercase;font-weight: bold;}
+.hot-tag-bar {margin-top: 10px;display: block;position: relative;padding: 20px;text-align: center;background-color: #004b79;}
+.hot-tag-bar ul {list-style: none;display: inline-block;}
+.hot-tag-bar ul li {width: 50%;text-align: left;float: left;margin-bottom: 10px;min-height: 55px;}
+.hot-tag-bar ul li a {color: #fff;cursor: pointer;}
+.hot-tag-bar ul li a:hover {color: red;text-decoration: none;}
+.hot-tag-bar ul li a span {width: 20px;display: inline-block;text-align: center;font-weight: bold;font-size: 20px;}
+.hot-tag-bar h4 {color: white;text-transform: uppercase;}
+.hentry:nth-of-type(odd) {padding-left: 5px;}
+.hentry:nth-of-type(even) {padding-right: 5px;}

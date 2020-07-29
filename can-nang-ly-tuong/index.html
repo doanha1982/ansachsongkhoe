@@ -228,7 +228,15 @@
 								
 
 	</header>
-
+    <div class="hot-tag-bar container clear">
+        <h4>Cập Nhật Tình Hình Dịch COVID-19</h4>
+        <ul>
+                                <li><a href="https://doanha1982.github.io/ansachsongkhoe/ho-tro-dieu-tri-benh-nhan-covid-19-tai-da-nang/"><span>»</span>PGS.TS Lương Ngọc Khuê: Nhiều biện pháp hỗ trợ điều trị bệnh nhân COVID-19 tại Đà Nẵng</a></li>
+                                <li><a href="https://doanha1982.github.io/ansachsongkhoe/lap-them-tau-tu-da-nang-di-ha-noi-dam-bao-an-toan-cho-khach/"><span>»</span>COVID-19: Lập thêm tàu từ Đà Nẵng đi Hà Nội, Sài Gòn đảm bảo an toàn cho hành khách</a></li>
+                                <li><a href="https://doanha1982.github.io/ansachsongkhoe/28-07-2020-them-7-ca-mac-covid-19-tai-quang-nam-da-nang/"><span>»</span>28/07/2020 Thêm 7 ca mắc COVID-19 mới tại Quảng Nam, Đà Nẵng</a></li>
+                                <li><a href="https://doanha1982.github.io/ansachsongkhoe/66-don-vi-duoc-xet-nghiem-covid-19/"><span>»</span>Cập nhật 66 đơn vị y tế được xét nghiệm COVID-19</a></li>
+                    </ul>
+    </div>
 	<div id="content" class="site-content container clear">
 <div class="content-area">
     <main id="main" class="site-main">
@@ -239,7 +247,7 @@
             </div>
             <div class="page-content">
                 <h4>Cân nặng dựa trên chiều cao và chỉ số BMI cân bằng</h4>
-                <div class="bmi-request-form clear">
+                <div id="bmi-request-form" class="bmi-request-form clear">
                     <div class="bmi-form">
                         <p>
                             <label for="">Chiều cao (centimet)</label>
@@ -285,7 +293,9 @@
             })
 
             function reset_form() {
+                jQuery('#bmi-height').val('');
                 jQuery('.bmi-notice').css('display', 'none');
+                document.getElementById('bmi-request-form').scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"});
             }
         </script>
     </main>

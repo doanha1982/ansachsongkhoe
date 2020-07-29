@@ -2,15 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/</loc>
-		<lastmod>2020-07-28T09:57:47+00:00</lastmod>
+		<lastmod>2020-07-29T04:50:47+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/hello-world/</loc>
 		<lastmod>2020-07-15T03:21:12+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/ablysinol/</loc>
-		<lastmod>2020-07-16T09:18:51+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/benh-cham/</loc>
@@ -151,42 +147,6 @@
 		<lastmod>2020-07-26T10:58:51+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/vaccine-my-hieu-qua-voi-ncovid/</loc>
-		<lastmod>2020-07-27T09:13:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/covid19.jpeg</image:loc>
-			<image:title><![CDATA[covid19]]></image:title>
-			<image:caption><![CDATA[ncovid-19 virus]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/ncovid-viet-nam-tang-toc-xet-nghiem/</loc>
-		<lastmod>2020-07-27T09:16:32+00:00</lastmod>
-		<image:image>
-			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/xet-nghiem.jpg</image:loc>
-			<image:title><![CDATA[xet-nghiem]]></image:title>
-			<image:caption><![CDATA[Việt nam tăng tốc xét nghiệm n-covid]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/ncov-lay-nhiem-dang-nang-thuoc-chung-moi/</loc>
-		<lastmod>2020-07-27T09:18:07+00:00</lastmod>
-		<image:image>
-			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/ncovid.jpg</image:loc>
-			<image:title><![CDATA[ncovid]]></image:title>
-			<image:caption><![CDATA[Mô hình virus ncovid-19]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/quang-ngai-cach-ly-300-nguoi-cung-khu-pho/</loc>
-		<lastmod>2020-07-27T09:22:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/cach-ly-quang-ngai.jpg</image:loc>
-			<image:title><![CDATA[cach-ly-quang-ngai]]></image:title>
-			<image:caption><![CDATA[Kiểm tra thân nhiệt một đoàn hành khách trên cao tốc Đà Nẵng - Quảng Ngãi]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/phong-tap-gym-di-dong/</loc>
 		<lastmod>2020-07-27T09:23:52+00:00</lastmod>
 		<image:image>
@@ -256,6 +216,112 @@
 			<image:caption><![CDATA[chế độ ăn nhiều rau, thực phẩm không chế biến]]></image:caption>
 		</image:image>
 	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/lap-them-tau-tu-da-nang-di-ha-noi-dam-bao-an-toan-cho-khach/</loc>
+		<lastmod>2020-07-28T15:11:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/ho-tro-dieu-tri-benh-nhan-covid-19-tai-da-nang/</loc>
+		<lastmod>2020-07-28T15:20:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/28-07-2020-them-7-ca-mac-covid-19-tai-quang-nam-da-nang/</loc>
+		<lastmod>2020-07-28T15:21:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/ncovid-viet-nam-tang-toc-xet-nghiem/</loc>
+		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/xet-nghiem.jpg</image:loc>
+			<image:title><![CDATA[xet-nghiem]]></image:title>
+			<image:caption><![CDATA[Việt nam tăng tốc xét nghiệm n-covid]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/quang-ngai-cach-ly-300-nguoi-cung-khu-pho/</loc>
+		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/cach-ly-quang-ngai.jpg</image:loc>
+			<image:title><![CDATA[cach-ly-quang-ngai]]></image:title>
+			<image:caption><![CDATA[Kiểm tra thân nhiệt một đoàn hành khách trên cao tốc Đà Nẵng - Quảng Ngãi]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/vaccine-my-hieu-qua-voi-ncovid/</loc>
+		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/covid19.jpeg</image:loc>
+			<image:title><![CDATA[covid19]]></image:title>
+			<image:caption><![CDATA[ncovid-19 virus]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/27-08-2020-them-11-ca-mac-ncovid-19-tai-da-nang/</loc>
+		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/cach-ly-da-nang.jpg</image:loc>
+			<image:title><![CDATA[cach-ly-da-nang]]></image:title>
+			<image:caption><![CDATA[Thực hiện nghiêm cách ly Đà Nẵng]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/infographic-tinh-hinh-dich-ncovid-19/</loc>
+		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/infographic-2807.png</image:loc>
+			<image:title><![CDATA[infographic-2807]]></image:title>
+			<image:caption><![CDATA[Infographic - Cập nhật tình hình NCOVID-19 ngày 28/07/2020]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/da-nang-cach-ly-xa-hoi/</loc>
+		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/66-don-vi-duoc-xet-nghiem-covid-19/</loc>
+		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/ncov-lay-nhiem-dang-nang-thuoc-chung-moi/</loc>
+		<lastmod>2020-07-28T15:22:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/ncovid.jpg</image:loc>
+			<image:title><![CDATA[ncovid]]></image:title>
+			<image:caption><![CDATA[Mô hình virus ncovid-19]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/dinh-duong-cho-nguoi-cao-tuoi/</loc>
+		<lastmod>2020-07-29T02:25:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/vi-sao-cuc-mau-dong-la-qua-bom-hen-gio/</loc>
+		<lastmod>2020-07-29T02:36:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/ablysinol/</loc>
+		<lastmod>2020-07-29T03:34:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/mon-an-tu-thit-de-chua-xuat-tinh-som/</loc>
+		<lastmod>2020-07-29T04:26:07+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/hanh-vi-gioi-tinh-theo-lua-tuoi-cua-tre/</loc>
+		<lastmod>2020-07-29T04:31:55+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/giao-duc-gioi-tinh-cho-con-gai/</loc>
+		<lastmod>2020-07-29T04:38:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/xoa-bop-giam-beo-bung/</loc>
+		<lastmod>2020-07-29T04:46:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/dap-thuoc-dieu-tri-chung-dai-dam-o-tre/</loc>
+		<lastmod>2020-07-29T04:50:47+00:00</lastmod>
+	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
 <!--
@@ -263,5 +329,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading
 
-Served from: thuoc.info.test @ 2020-07-28 17:02:40 by W3 Total Cache
+Served from: thuoc.info.test @ 2020-07-29 11:57:47 by W3 Total Cache
 -->
