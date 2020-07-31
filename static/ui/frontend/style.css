@@ -560,3 +560,6 @@ ul.bxslider {list-style: none;}
 .hentry:nth-of-type(odd) {padding-left: 5px;}
 .hentry:nth-of-type(even) {padding-right: 5px;}
 .content-block .hentry {min-height: 95px;}
+.post-small .entry-header {min-height: 90px;}
+.container-recent-clips {display: block;margin: 5px;width: 32%;float: left;height: 228px;}
+.container-recent-clips .thumbnail-wrap {float: left;border-radius: 8px;border: 1px solid #ddd;padding: 5px;}
