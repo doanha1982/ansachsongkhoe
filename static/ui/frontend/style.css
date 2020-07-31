@@ -543,7 +543,7 @@ ul.bxslider {list-style: none;}
 .tool-container:after {margin-right: 20px;}
 .tool-block {display: inline-block;float: left;margin-left: 20px;max-width: 200px;}
 .tool-block:first-child {margin-left: 20px;}
-.tool-block img {width: 150px;height: 150px;border-radius: 6px;padding: 5px;}
+.tool-block img {width: 150px;height: 150px;border-radius: 20px;padding: 5px;}
 .tool-block img:hover {background-color: #ddd;}
 .tool-block h5 {text-align: center;color: #0091cd;}
 .tool-block a:hover {text-decoration: none;color: #004b79;}
@@ -559,4 +559,4 @@ ul.bxslider {list-style: none;}
 .hot-tag-bar h1 {font-size: 26px;color: white;text-transform: uppercase;margin-bottom: 20px;}
 .hentry:nth-of-type(odd) {padding-left: 5px;}
 .hentry:nth-of-type(even) {padding-right: 5px;}
-.content-block .hentry {min-height: 90px;}
+.content-block .hentry {min-height: 95px;}

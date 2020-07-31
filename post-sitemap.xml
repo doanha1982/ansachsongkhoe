@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/</loc>
-		<lastmod>2020-07-30T10:19:21+00:00</lastmod>
+		<lastmod>2020-07-31T01:50:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/hello-world/</loc>
@@ -181,18 +181,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/lap-them-tau-tu-da-nang-di-ha-noi-dam-bao-an-toan-cho-khach/</loc>
-		<lastmod>2020-07-28T15:11:18+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/ho-tro-dieu-tri-benh-nhan-covid-19-tai-da-nang/</loc>
-		<lastmod>2020-07-28T15:20:31+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/28-07-2020-them-7-ca-mac-covid-19-tai-quang-nam-da-nang/</loc>
-		<lastmod>2020-07-28T15:21:46+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/ncovid-viet-nam-tang-toc-xet-nghiem/</loc>
 		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
 		<image:image>
@@ -218,23 +206,6 @@
 			<image:title><![CDATA[covid19]]></image:title>
 			<image:caption><![CDATA[ncovid-19 virus]]></image:caption>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/27-08-2020-them-11-ca-mac-ncovid-19-tai-da-nang/</loc>
-		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/cach-ly-da-nang.jpg</image:loc>
-			<image:title><![CDATA[cach-ly-da-nang]]></image:title>
-			<image:caption><![CDATA[Thực hiện nghiêm cách ly Đà Nẵng]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/da-nang-cach-ly-xa-hoi/</loc>
-		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/66-don-vi-duoc-xet-nghiem-covid-19/</loc>
-		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/ncov-lay-nhiem-dang-nang-thuoc-chung-moi/</loc>
@@ -274,10 +245,6 @@
 		<lastmod>2020-07-29T04:46:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/ung-pho-voi-bach-hau-co-nguy-co-bung-phat/</loc>
-		<lastmod>2020-07-29T07:09:16+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/viem-quanh-mong/</loc>
 		<lastmod>2020-07-29T07:20:57+00:00</lastmod>
 	</url>
@@ -314,10 +281,6 @@
 		<lastmod>2020-07-29T07:22:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/4-tinh-tay-nguyen-da-ghi-nhan-78-ca-benh-bach-hau-cap-bach-ngan-chan-dich-bung-phat/</loc>
-		<lastmod>2020-07-29T07:43:40+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/dap-thuoc-dieu-tri-chung-dai-dam-o-tre/</loc>
 		<lastmod>2020-07-29T07:45:29+00:00</lastmod>
 	</url>
@@ -326,29 +289,74 @@
 		<lastmod>2020-07-29T07:56:49+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/benh-vien-quoc-te-city-ngung-tiep-nhan-benh-nhan-do-ca-nghi-nhiem-ncov/</loc>
-		<lastmod>2020-07-29T08:10:33+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/truc-nhi-dieu-nhi-cuoi-dua-tinh-tao/</loc>
-		<lastmod>2020-07-29T08:15:09+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://doanha1982.github.io/ansachsongkhoe/29-07-2020-them-8-ca-mac-moi-tai-da-nang/</loc>
-		<lastmod>2020-07-29T08:47:20+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/infographic-tinh-hinh-dich-ncovid-19/</loc>
-		<lastmod>2020-07-30T10:13:40+00:00</lastmod>
+		<lastmod>2020-07-31T01:45:33+00:00</lastmod>
 		<image:image>
-			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/infographic-2807.png</image:loc>
-			<image:title><![CDATA[infographic-2807]]></image:title>
-			<image:caption><![CDATA[Infographic - Cập nhật tình hình NCOVID-19 ngày 28/07/2020]]></image:caption>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733.jpg</image:loc>
+			<image:title><![CDATA[covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733]]></image:title>
+			<image:caption><![CDATA[COVID-19 Virus]]></image:caption>
 		</image:image>
 	</url>
 	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/da-nang-lap-benh-vien-da-chien-chong-covid-19/</loc>
+		<lastmod>2020-07-31T01:47:01+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/them-45-nguoi-da-nang-nhiem-ncov/</loc>
+		<lastmod>2020-07-31T01:47:13+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://doanha1982.github.io/ansachsongkhoe/30-07-2020-them-9-ca-mac-moi-covid-19/</loc>
-		<lastmod>2020-07-30T10:19:21+00:00</lastmod>
+		<lastmod>2020-07-31T01:47:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/29-07-2020-them-8-ca-mac-moi-tai-da-nang/</loc>
+		<lastmod>2020-07-31T01:47:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/truc-nhi-dieu-nhi-cuoi-dua-tinh-tao/</loc>
+		<lastmod>2020-07-31T01:47:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/benh-vien-quoc-te-city-ngung-tiep-nhan-benh-nhan-do-ca-nghi-nhiem-ncov/</loc>
+		<lastmod>2020-07-31T01:48:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/4-tinh-tay-nguyen-da-ghi-nhan-78-ca-benh-bach-hau-cap-bach-ngan-chan-dich-bung-phat/</loc>
+		<lastmod>2020-07-31T01:48:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/ung-pho-voi-bach-hau-co-nguy-co-bung-phat/</loc>
+		<lastmod>2020-07-31T01:48:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/lap-them-tau-tu-da-nang-di-ha-noi-dam-bao-an-toan-cho-khach/</loc>
+		<lastmod>2020-07-31T01:48:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/ho-tro-dieu-tri-benh-nhan-covid-19-tai-da-nang/</loc>
+		<lastmod>2020-07-31T01:49:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/28-07-2020-them-7-ca-mac-covid-19-tai-quang-nam-da-nang/</loc>
+		<lastmod>2020-07-31T01:49:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/66-don-vi-duoc-xet-nghiem-covid-19/</loc>
+		<lastmod>2020-07-31T01:49:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/da-nang-cach-ly-xa-hoi/</loc>
+		<lastmod>2020-07-31T01:49:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://doanha1982.github.io/ansachsongkhoe/27-08-2020-them-11-ca-mac-ncovid-19-tai-da-nang/</loc>
+		<lastmod>2020-07-31T01:50:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://doanha1982.github.io/ansachsongkhoe/static/uploads/2020/07/cach-ly-da-nang.jpg</image:loc>
+			<image:title><![CDATA[cach-ly-da-nang]]></image:title>
+			<image:caption><![CDATA[Thực hiện nghiêm cách ly Đà Nẵng]]></image:caption>
+		</image:image>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
@@ -357,5 +365,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading
 
-Served from: thuoc.info.test @ 2020-07-30 17:38:09 by W3 Total Cache
+Served from: thuoc.info.test @ 2020-07-31 08:53:40 by W3 Total Cache
 -->
