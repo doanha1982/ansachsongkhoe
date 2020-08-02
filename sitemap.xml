@@ -2,7 +2,7 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>https://yeusong.com/post-sitemap.xml</loc>
-		<lastmod>2020-07-31T07:31:09+00:00</lastmod>
+		<lastmod>2020-08-02T00:40:09+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://yeusong.com/page-sitemap.xml</loc>
@@ -14,11 +14,11 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://yeusong.com/category-sitemap.xml</loc>
-		<lastmod>2020-07-31T07:31:09+00:00</lastmod>
+		<lastmod>2020-08-02T00:40:09+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://yeusong.com/post_tag-sitemap.xml</loc>
-		<lastmod>2020-07-31T06:52:31+00:00</lastmod>
+		<lastmod>2020-08-02T00:29:06+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://yeusong.com/author-sitemap.xml</loc>
@@ -31,5 +31,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading
 
-Served from: thuoc.info.test @ 2020-08-01 14:19:42 by W3 Total Cache
+Served from: thuoc.info.test @ 2020-08-02 08:46:21 by W3 Total Cache
 -->

@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-07-31T07:31:09+00:00</lastmod>
+		<lastmod>2020-08-02T00:40:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -181,6 +181,15 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://yeusong.com/ncovid-viet-nam-tang-toc-xet-nghiem/</loc>
+		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/xet-nghiem.jpg</image:loc>
+			<image:title><![CDATA[xet-nghiem]]></image:title>
+			<image:caption><![CDATA[Việt nam tăng tốc xét nghiệm n-covid]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://yeusong.com/quang-ngai-cach-ly-300-nguoi-cung-khu-pho/</loc>
 		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
 		<image:image>
@@ -196,15 +205,6 @@
 			<image:loc>https://yeusong.com/static/uploads/2020/07/covid19.jpeg</image:loc>
 			<image:title><![CDATA[covid19]]></image:title>
 			<image:caption><![CDATA[ncovid-19 virus]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/ncovid-viet-nam-tang-toc-xet-nghiem/</loc>
-		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/xet-nghiem.jpg</image:loc>
-			<image:title><![CDATA[xet-nghiem]]></image:title>
-			<image:caption><![CDATA[Việt nam tăng tốc xét nghiệm n-covid]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -281,14 +281,6 @@
 		<lastmod>2020-07-29T07:22:11+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/dap-thuoc-dieu-tri-chung-dai-dam-o-tre/</loc>
-		<lastmod>2020-07-29T07:45:29+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/cac-dau-hieu-nhan-biet-benh-bach-hau/</loc>
-		<lastmod>2020-07-29T07:56:49+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://yeusong.com/infographic-tinh-hinh-dich-ncovid-19/</loc>
 		<lastmod>2020-07-31T01:45:33+00:00</lastmod>
 		<image:image>
@@ -296,38 +288,6 @@
 			<image:title><![CDATA[covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733]]></image:title>
 			<image:caption><![CDATA[COVID-19 Virus]]></image:caption>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/da-nang-lap-benh-vien-da-chien-chong-covid-19/</loc>
-		<lastmod>2020-07-31T01:47:01+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/them-45-nguoi-da-nang-nhiem-ncov/</loc>
-		<lastmod>2020-07-31T01:47:13+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/30-07-2020-them-9-ca-mac-moi-covid-19/</loc>
-		<lastmod>2020-07-31T01:47:22+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/29-07-2020-them-8-ca-mac-moi-tai-da-nang/</loc>
-		<lastmod>2020-07-31T01:47:32+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/truc-nhi-dieu-nhi-cuoi-dua-tinh-tao/</loc>
-		<lastmod>2020-07-31T01:47:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/benh-vien-quoc-te-city-ngung-tiep-nhan-benh-nhan-do-ca-nghi-nhiem-ncov/</loc>
-		<lastmod>2020-07-31T01:48:02+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/4-tinh-tay-nguyen-da-ghi-nhan-78-ca-benh-bach-hau-cap-bach-ngan-chan-dich-bung-phat/</loc>
-		<lastmod>2020-07-31T01:48:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/ung-pho-voi-bach-hau-co-nguy-co-bung-phat/</loc>
-		<lastmod>2020-07-31T01:48:34+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/lap-them-tau-tu-da-nang-di-ha-noi-dam-bao-an-toan-cho-khach/</loc>
@@ -359,28 +319,112 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/10-su-that-xung-quanh-ta-khong-phai-ai-cung-biet/</loc>
-		<lastmod>2020-07-31T04:38:14+00:00</lastmod>
+		<loc>https://yeusong.com/be-gai-20-thang-tuoi-mac-covid-19/</loc>
+		<lastmod>2020-08-01T11:19:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/ngam-nu-cuoi-dang-yeu-cua-dieu-nhi-sau-khi-cai-may-tho/</loc>
-		<lastmod>2020-07-31T04:50:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/5-thuc-pham-tang-cuong-mien-dich-cho-nguoi-mac-benh-tieu-duong/</loc>
-		<lastmod>2020-07-31T05:02:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/tinh-nguoi-da-nang-trong-tam-dich-covid-19/</loc>
-		<lastmod>2020-07-31T06:52:31+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/loi-ich-cua-omega-3-voi-nguoi-chay-bo/</loc>
-		<lastmod>2020-07-31T06:58:02+00:00</lastmod>
+		<loc>https://yeusong.com/ba-su-co-nhiem-covid-19-lien-quan-den-benh-nhan-461/</loc>
+		<lastmod>2020-08-01T11:19:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/11-thuc-pham-tot-cho-nguoi-chay-bo/</loc>
-		<lastmod>2020-07-31T07:31:09+00:00</lastmod>
+		<lastmod>2020-08-01T11:19:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/da-nang-lap-benh-vien-da-chien-chong-covid-19/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-vien-quoc-te-city-ngung-tiep-nhan-benh-nhan-do-ca-nghi-nhiem-ncov/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/truc-nhi-dieu-nhi-cuoi-dua-tinh-tao/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/29-07-2020-them-8-ca-mac-moi-tai-da-nang/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/30-07-2020-them-9-ca-mac-moi-covid-19/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/them-45-nguoi-da-nang-nhiem-ncov/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/10-su-that-xung-quanh-ta-khong-phai-ai-cung-biet/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/ngam-nu-cuoi-dang-yeu-cua-dieu-nhi-sau-khi-cai-may-tho/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/5-thuc-pham-tang-cuong-mien-dich-cho-nguoi-mac-benh-tieu-duong/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/tinh-nguoi-da-nang-trong-tam-dich-covid-19/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/loi-ich-cua-omega-3-voi-nguoi-chay-bo/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/dap-thuoc-dieu-tri-chung-dai-dam-o-tre/</loc>
+		<lastmod>2020-08-01T11:19:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/4-tinh-tay-nguyen-da-ghi-nhan-78-ca-benh-bach-hau-cap-bach-ngan-chan-dich-bung-phat/</loc>
+		<lastmod>2020-08-01T11:19:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cac-dau-hieu-nhan-biet-benh-bach-hau/</loc>
+		<lastmod>2020-08-01T11:19:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/ung-pho-voi-bach-hau-co-nguy-co-bung-phat/</loc>
+		<lastmod>2020-08-01T11:19:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/01-08-2020-viet-nam-co-them-12-ca-ca-duong-tinh-voi-virus-covid-19/</loc>
+		<lastmod>2020-08-01T15:44:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/lam-dong-giam-doc-nguoi-nhat-duong-tinh-voi-covid-19-cach-ly-23-nhan-vien/</loc>
+		<lastmod>2020-08-01T16:48:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/huy-hang-loat-chuyen-bay-do-bao-so-2/</loc>
+		<lastmod>2020-08-01T17:04:15+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/tp-hcm-2-nu-benh-nhan-nhiem-covid-19-moi-deu-khong-co-trieu-chung/</loc>
+		<lastmod>2020-08-01T17:05:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-vien-cho-ray-lai-cach-ly-nhan-vien-vi-benh-nhan-covid-19-thu-517/</loc>
+		<lastmod>2020-08-01T17:07:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/tp-hcm-phong-toa-chung-cu-thai-an-2-noi-bn567-tung-sinh-song/</loc>
+		<lastmod>2020-08-02T00:29:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/image.jpeg</image:loc>
+			<image:caption><![CDATA[Các biện pháp phòng chống dịch COVID-19]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cac-loai-thuc-pham-len-men-tot-cho-suc-khoe/</loc>
+		<lastmod>2020-08-02T00:35:37+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/xu-tri-chung-tao-bon/</loc>
+		<lastmod>2020-08-02T00:40:09+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
@@ -389,5 +433,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading
 
-Served from: thuoc.info.test @ 2020-08-01 14:19:40 by W3 Total Cache
+Served from: thuoc.info.test @ 2020-08-02 08:46:17 by W3 Total Cache
 -->
