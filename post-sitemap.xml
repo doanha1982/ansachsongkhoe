@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-02T11:21:53+00:00</lastmod>
+		<lastmod>2020-08-02T14:45:57+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -41,10 +41,6 @@
 			<image:loc>https://yeusong.com/static/uploads/2020/07/15116-scaled.jpg</image:loc>
 			<image:title><![CDATA[Dissatisfied blonde female model frowns face, has disgusting expression, shows tongue, expresses non-compliance, irritated with somebody, rejects do something. People and negative facial expressions]]></image:title>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/an-phu-tang-dong-vat/</loc>
-		<lastmod>2020-07-23T15:42:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/8-loi-khuyen-an-uong-lanh-manh/</loc>
@@ -181,68 +177,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/quang-ngai-cach-ly-300-nguoi-cung-khu-pho/</loc>
-		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/cach-ly-quang-ngai.jpg</image:loc>
-			<image:title><![CDATA[cach-ly-quang-ngai]]></image:title>
-			<image:caption><![CDATA[Kiểm tra thân nhiệt một đoàn hành khách trên cao tốc Đà Nẵng - Quảng Ngãi]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/vaccine-my-hieu-qua-voi-ncovid/</loc>
-		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/covid19.jpeg</image:loc>
-			<image:title><![CDATA[covid19]]></image:title>
-			<image:caption><![CDATA[ncovid-19 virus]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/ncovid-viet-nam-tang-toc-xet-nghiem/</loc>
-		<lastmod>2020-07-28T15:22:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/xet-nghiem.jpg</image:loc>
-			<image:title><![CDATA[xet-nghiem]]></image:title>
-			<image:caption><![CDATA[Việt nam tăng tốc xét nghiệm n-covid]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/ncov-lay-nhiem-dang-nang-thuoc-chung-moi/</loc>
-		<lastmod>2020-07-28T15:22:17+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/ncovid.jpg</image:loc>
-			<image:title><![CDATA[ncovid]]></image:title>
-			<image:caption><![CDATA[Mô hình virus ncovid-19]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/dinh-duong-cho-nguoi-cao-tuoi/</loc>
-		<lastmod>2020-07-29T02:25:06+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/vi-sao-cuc-mau-dong-la-qua-bom-hen-gio/</loc>
-		<lastmod>2020-07-29T02:36:26+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://yeusong.com/ablysinol/</loc>
 		<lastmod>2020-07-29T03:34:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/mon-an-tu-thit-de-chua-xuat-tinh-som/</loc>
-		<lastmod>2020-07-29T04:26:07+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/hanh-vi-gioi-tinh-theo-lua-tuoi-cua-tre/</loc>
-		<lastmod>2020-07-29T04:31:55+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/giao-duc-gioi-tinh-cho-con-gai/</loc>
-		<lastmod>2020-07-29T04:38:14+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/xoa-bop-giam-beo-bung/</loc>
-		<lastmod>2020-07-29T04:46:41+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/viem-quanh-mong/</loc>
@@ -310,31 +246,15 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/be-gai-20-thang-tuoi-mac-covid-19/</loc>
-		<lastmod>2020-08-01T11:19:42+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://yeusong.com/ba-su-co-nhiem-covid-19-lien-quan-den-benh-nhan-461/</loc>
 		<lastmod>2020-08-01T11:19:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/11-thuc-pham-tot-cho-nguoi-chay-bo/</loc>
+		<loc>https://yeusong.com/be-gai-20-thang-tuoi-mac-covid-19/</loc>
 		<lastmod>2020-08-01T11:19:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/loi-ich-cua-omega-3-voi-nguoi-chay-bo/</loc>
-		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://yeusong.com/30-07-2020-them-9-ca-mac-moi-covid-19/</loc>
-		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/benh-vien-quoc-te-city-ngung-tiep-nhan-benh-nhan-do-ca-nghi-nhiem-ncov/</loc>
-		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/truc-nhi-dieu-nhi-cuoi-dua-tinh-tao/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
@@ -342,7 +262,11 @@
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/tinh-nguoi-da-nang-trong-tam-dich-covid-19/</loc>
+		<loc>https://yeusong.com/truc-nhi-dieu-nhi-cuoi-dua-tinh-tao/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-vien-quoc-te-city-ngung-tiep-nhan-benh-nhan-do-ca-nghi-nhiem-ncov/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
@@ -362,7 +286,7 @@
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/5-thuc-pham-tang-cuong-mien-dich-cho-nguoi-mac-benh-tieu-duong/</loc>
+		<loc>https://yeusong.com/tinh-nguoi-da-nang-trong-tam-dich-covid-19/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
@@ -370,15 +294,7 @@
 		<lastmod>2020-08-01T11:19:44+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/cac-dau-hieu-nhan-biet-benh-bach-hau/</loc>
-		<lastmod>2020-08-01T11:19:44+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://yeusong.com/4-tinh-tay-nguyen-da-ghi-nhan-78-ca-benh-bach-hau-cap-bach-ngan-chan-dich-bung-phat/</loc>
-		<lastmod>2020-08-01T11:19:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/dap-thuoc-dieu-tri-chung-dai-dam-o-tre/</loc>
 		<lastmod>2020-08-01T11:19:44+00:00</lastmod>
 	</url>
 	<url>
@@ -410,14 +326,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/cac-loai-thuc-pham-len-men-tot-cho-suc-khoe/</loc>
-		<lastmod>2020-08-02T00:35:37+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/xu-tri-chung-tao-bon/</loc>
-		<lastmod>2020-08-02T00:40:09+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://yeusong.com/thu-hoi-thuoc-genpharmason-do-vi-pham-chat-luong-muc-do-2/</loc>
 		<lastmod>2020-08-02T02:00:24+00:00</lastmod>
 		<image:image>
@@ -427,47 +335,314 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/cach-giam-thieu-tre-mac-viem-phe-quan/</loc>
-		<lastmod>2020-08-02T02:11:50+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/bronchitis.jpg</image:loc>
-			<image:title><![CDATA[bronchitis]]></image:title>
-			<image:caption><![CDATA[Viêm phế quản]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/covid-19-02-08-thong-bao-ve-4-ca-mac-covid-19/</loc>
 		<lastmod>2020-08-02T06:50:58+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/infographic-tinh-hinh-dich-ncovid-19/</loc>
-		<lastmod>2020-08-02T06:55:35+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733.jpg</image:loc>
-			<image:title><![CDATA[covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733]]></image:title>
-			<image:caption><![CDATA[COVID-19 Virus]]></image:caption>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://yeusong.com/them-2-benh-nhan-covid-19-tu-vong/</loc>
 		<lastmod>2020-08-02T09:27:22+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://yeusong.com/muc-cholesterol-trong-co-the-phan-anh-nguy-co-ve-suc-khoe/</loc>
+		<lastmod>2020-08-02T13:34:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fat-patient-visiting-doctor_74855-6454.jpg</image:loc>
+			<image:title><![CDATA[fat-patient-visiting-doctor_74855-6454]]></image:title>
+			<image:caption><![CDATA[Càng lớn tuổi lượng choleterol càng cao]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/diagram-showing-cholesterol-blocking-artery-human-body_1308-43348.jpg</image:loc>
+			<image:caption><![CDATA[Lượng cholesterol cao trong máu gây tắc nghên mạch máu.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/colorful-delicious-vegetables-arrangement_23-2148290786.jpg</image:loc>
+			<image:caption><![CDATA[Tăng cường chất xơ trong khẩu phần ăn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/green-olives-oil_144627-26921.jpg</image:loc>
+			<image:caption><![CDATA[Quả oliu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/man-holding-beef-burger-lettuce-cheese-tomato-cucumber-egg-side-view_141793-12296.jpg</image:loc>
+			<image:caption><![CDATA[Hạn chế chất béo gây hại]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tasting-illustration-concept_114360-774.jpg</image:loc>
+			<image:caption><![CDATA[uống rượu điều độ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/pilates-concept-illustration_114360-1111.jpg</image:loc>
+			<image:caption><![CDATA[Tập luyện thể thao]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://yeusong.com/5-loai-do-uong-buoi-sang-giup-tang-kha-nang-mien-dich-cho-ban/</loc>
-		<lastmod>2020-08-02T09:37:36+00:00</lastmod>
+		<lastmod>2020-08-02T13:39:40+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/realistic-poster-with-citrus-fruits-glasses-cold-fresh-juice-white_1284-33363.jpg</image:loc>
 			<image:title><![CDATA[realistic-poster-with-citrus-fruits-glasses-cold-fresh-juice-white_1284-33363]]></image:title>
 			<image:caption><![CDATA[5 loại đồ uống buổi sáng giúp tăng khả năng miễn dịch cho bạn]]></image:caption>
 		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/lemonade-glass-with-lemons-cutting-board-high-angle-view-white-plaster_176474-7386.jpg</image:loc>
+			<image:caption><![CDATA[Uống nước chanh vào buổi sáng]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/aloe-vera-fresh-leaves-with-slices-gel-wooden-spoon-aloe-vera-is-natural-herb-use-beauty_1150-21842.jpg</image:loc>
+			<image:caption><![CDATA[Nha đam (còn gọi là lô hội) có nhiều lợi ích cho sức khỏe]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/carrot-juice-template_98292-7018.jpg</image:loc>
+			<image:caption><![CDATA[nước ép cà rốt và nước ép củ cải đường là nguồn cung cấp vitamin phong phú]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/matcha-tea-collection_23-2148598336.jpg</image:loc>
+			<image:caption><![CDATA[Trà xanh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hand-drawn-coconut-cocktail-background_23-2148143679.jpg</image:loc>
+			<image:caption><![CDATA[Nước dừa tốt cho cơ thể]]></image:caption>
+		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/muc-cholesterol-trong-co-the-phan-anh-nguy-co-ve-suc-khoe/</loc>
-		<lastmod>2020-08-02T11:21:53+00:00</lastmod>
+		<loc>https://yeusong.com/cach-giam-thieu-tre-mac-viem-phe-quan/</loc>
+		<lastmod>2020-08-02T13:45:37+00:00</lastmod>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/fat-patient-visiting-doctor_74855-6454.jpg</image:loc>
-			<image:title><![CDATA[fat-patient-visiting-doctor_74855-6454]]></image:title>
-			<image:caption><![CDATA[Càng lớn tuổi lượng choleterol càng cao]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bronchitis.jpg</image:loc>
+			<image:title><![CDATA[bronchitis]]></image:title>
+			<image:caption><![CDATA[Viêm phế quản]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mo-hinh-tre-em-viem-phe-quang.jpg</image:loc>
+			<image:caption><![CDATA[Viêm phế quản thường gặp ở trẻ em.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/xu-tri-chung-tao-bon/</loc>
+		<lastmod>2020-08-02T13:48:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/asian-boy-sitting-toilet-bowl-holding-tissue-paper-health-problem-concept_1150-6594.jpg</image:loc>
+			<image:title><![CDATA[asian-boy-sitting-toilet-bowl-holding-tissue-paper-health-problem-concept_1150-6594]]></image:title>
+			<image:caption><![CDATA[Táo bón ở trẻ em]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/X_tri_khi_b_tao_bon__resize.jpg</image:loc>
+			<image:caption><![CDATA[Rau xanh, hoa quả chứa nhiều chất xơ và pectin, tạo điều kiện thuận lợi cho các chủng vi khuẩn có lợi trong đường ruột phát triển.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cac-loai-thuc-pham-len-men-tot-cho-suc-khoe/</loc>
+		<lastmod>2020-08-02T13:53:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cabbage-kimchi-tomatoes-marinated-sauerkraut-sour-glass-jars-rustic-kitchen-table_2829-18677.jpg</image:loc>
+			<image:title><![CDATA[cabbage-kimchi-tomatoes-marinated-sauerkraut-sour-glass-jars-rustic-kitchen-table_2829-18677]]></image:title>
+			<image:caption><![CDATA[Thực phẩm lên men]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/thuc_pham_len_men.jpg</image:loc>
+			<image:caption><![CDATA[Thực phẩm lên men]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/chinese-food-soup-beautiful-bowl_169016-3377.jpg</image:loc>
+			<image:caption><![CDATA[Miso và tempeh là những thực phẩm lên men có nguồn gốc từ đậu nành]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/rau_muoi_chua.jpg</image:loc>
+			<image:caption><![CDATA[Các loại rau muối chua chứa nhiều men vi sinh.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/11-thuc-pham-tot-cho-nguoi-chay-bo/</loc>
+		<lastmod>2020-08-02T13:56:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/girl-granola-honey-blue-white-natural_1428-679.jpg</image:loc>
+			<image:title><![CDATA[girl-granola-honey-blue-white-natural_1428-679]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/loi-ich-cua-omega-3-voi-nguoi-chay-bo/</loc>
+		<lastmod>2020-08-02T13:58:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/top-view-spoon-with-medical-capsules_23-2148529746.jpg</image:loc>
+			<image:title><![CDATA[top-view-spoon-with-medical-capsules_23-2148529746]]></image:title>
+			<image:caption><![CDATA[Omega3 có nhiều trong cá có dầu như cá hồi, cá trích]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/shutterstock-357530405-2759-1595854266.jpg</image:loc>
+			<image:caption><![CDATA[Axit béo omega 3 được xếp vào loại chất béo tốt]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/5-thuc-pham-tang-cuong-mien-dich-cho-nguoi-mac-benh-tieu-duong/</loc>
+		<lastmod>2020-08-02T14:02:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hand-holding-blood-glucose-meter-measuring-blood-sugar-background-is-stethoscope-chart-file_1387-942.jpg</image:loc>
+			<image:title><![CDATA[Hand holding a blood glucose meter measuring blood sugar, the background is a stethoscope and chart file]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/high-angle-view-green-yellow-red-bell-peppers-white-background_23-2147927257.jpg</image:loc>
+			<image:caption><![CDATA[Ớt chuông chứa vitamin C và ít carbs]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/carrots-ready-eat_1205-49.jpg</image:loc>
+			<image:caption><![CDATA[Cà rốt chứa nhiều vitamin A và chỉ số đường huyết (glycemin) thấp]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/green-soybeans_1368-9421.jpg</image:loc>
+			<image:caption><![CDATA[Đậu xanh cung cấp chất xơ satiating và kẽm giúp tăng cường miễn dịch]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fresh-walnut_144627-16154.jpg</image:loc>
+			<image:caption><![CDATA[Quả óc chó cung cấp Vitamin E và chất béo lành mạnh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/lentils_1368-8869.jpg</image:loc>
+			<image:caption><![CDATA[Đậu lăng chứa nhiều kẽm và chất xơ]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/vaccine-my-hieu-qua-voi-ncovid/</loc>
+		<lastmod>2020-08-02T14:10:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/covid19.jpeg</image:loc>
+			<image:title><![CDATA[covid19]]></image:title>
+			<image:caption><![CDATA[ncovid-19 virus]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/quang-ngai-cach-ly-300-nguoi-cung-khu-pho/</loc>
+		<lastmod>2020-08-02T14:10:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/cach-ly-quang-ngai.jpg</image:loc>
+			<image:title><![CDATA[cach-ly-quang-ngai]]></image:title>
+			<image:caption><![CDATA[Kiểm tra thân nhiệt một đoàn hành khách trên cao tốc Đà Nẵng - Quảng Ngãi]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/ncovid-viet-nam-tang-toc-xet-nghiem/</loc>
+		<lastmod>2020-08-02T14:10:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/xet-nghiem.jpg</image:loc>
+			<image:title><![CDATA[xet-nghiem]]></image:title>
+			<image:caption><![CDATA[Việt nam tăng tốc xét nghiệm n-covid]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/ncov-lay-nhiem-dang-nang-thuoc-chung-moi/</loc>
+		<lastmod>2020-08-02T14:10:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/ncovid.jpg</image:loc>
+			<image:title><![CDATA[ncovid]]></image:title>
+			<image:caption><![CDATA[Mô hình virus ncovid-19]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cac-dau-hieu-nhan-biet-benh-bach-hau/</loc>
+		<lastmod>2020-08-02T14:12:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/diphtheria.jpg</image:loc>
+			<image:title><![CDATA[diphtheria]]></image:title>
+			<image:caption><![CDATA[bệnh bạch hầu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/global-diphtheria-vaccine-market.jpg</image:loc>
+			<image:caption><![CDATA[Tiêm vắc xin phòng bệnh bạch hầu]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/dap-thuoc-dieu-tri-chung-dai-dam-o-tre/</loc>
+		<lastmod>2020-08-02T14:15:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tre-may-tuoi-thi-het-dai-dam-1-86f5.jpg</image:loc>
+			<image:title><![CDATA[tre-may-tuoi-thi-het-dai-dam-1-86f5]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tang_phieu.jpg</image:loc>
+			<image:caption><![CDATA[Tang phiêu tiêu bổ thận, cố tinh kết hợp với 1 số vị thuốc khác trị đái dầm ở trẻ em.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ich_tri_nhan.jpg</image:loc>
+			<image:caption><![CDATA[https://media.suckhoedoisong.vn/Images/nguyenkhanh/2020/05/07/ich_tri_nhan.jpg]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/xoa-bop-giam-beo-bung/</loc>
+		<lastmod>2020-08-02T14:19:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/woman-having-abdomen-massage-by-professional-osteopathy-therapist_1139-1123.jpg</image:loc>
+			<image:title><![CDATA[woman-having-abdomen-massage-by-professional-osteopathy-therapist_1139-1123]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/giao-duc-gioi-tinh-cho-con-gai/</loc>
+		<lastmod>2020-08-02T14:22:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nghi-luan-ve-van-de-giao-duc-gioi-tinh-voi-tuoi-vi-thanh-nien-hien-nay.jpg</image:loc>
+			<image:title><![CDATA[nghi-luan-ve-van-de-giao-duc-gioi-tinh-voi-tuoi-vi-thanh-nien-hien-nay]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cach-giao-duc-gioi-tinh_resize.jpg</image:loc>
+			<image:caption><![CDATA[giáo dục giới tính càng sớm càng tốt song không được vội vã]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/hanh-vi-gioi-tinh-theo-lua-tuoi-cua-tre/</loc>
+		<lastmod>2020-08-02T14:28:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1591681846747637386171-0-24-390-648-crop-1591681995186514324715.jpg</image:loc>
+			<image:title><![CDATA[1591681846747637386171-0-24-390-648-crop-1591681995186514324715]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/depviet.jpg</image:loc>
+			<image:caption><![CDATA[Nhận thức về giới tính hình thành tự nhiên ngay từ khi còn nhỏ.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/4816_depression_quvj.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/mon-an-tu-thit-de-chua-xuat-tinh-som/</loc>
+		<lastmod>2020-08-02T14:30:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/close-up-shot-white-brown-goat-with-long-ears-horns-with-head-wooden-fence_181624-3915.jpg</image:loc>
+			<image:title><![CDATA[close-up-shot-white-brown-goat-with-long-ears-horns-with-head-wooden-fence_181624-3915]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/vi-sao-cuc-mau-dong-la-qua-bom-hen-gio/</loc>
+		<lastmod>2020-08-02T14:31:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/photo1523432946668-15234329466681799151617.jpg</image:loc>
+			<image:title><![CDATA[photo1523432946668-15234329466681799151617]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/dinh-duong-cho-nguoi-cao-tuoi/</loc>
+		<lastmod>2020-08-02T14:32:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/senior-couple-having-breakfast-garden_23-2148060213.jpg</image:loc>
+			<image:title><![CDATA[senior-couple-having-breakfast-garden_23-2148060213]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/an-phu-tang-dong-vat/</loc>
+		<lastmod>2020-08-02T14:33:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/noi-tang-dong-vat-nguy-co-gay-ung-thu-tiem-an11477043562.jpg</image:loc>
+			<image:title><![CDATA[noi-tang-dong-vat-nguy-co-gay-ung-thu-tiem-an11477043562]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-nhan-covid-19-thu-6-tu-vong/</loc>
+		<lastmod>2020-08-02T14:38:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/infographic-tinh-hinh-dich-ncovid-19/</loc>
+		<lastmod>2020-08-02T14:45:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733.jpg</image:loc>
+			<image:title><![CDATA[covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733]]></image:title>
+			<image:caption><![CDATA[COVID-19 Virus]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
