@@ -426,7 +426,7 @@
 		
         	</span>
 
-</article>                                    <div class="content-block content-block-1 same-cat-posts clear">
+</article>                                    <div id="same-cat-posts" class="content-block content-block-1 same-cat-posts clear">
                 <div class="section-heading">
                     <h3 class="section-title"><a href="https://yeusong.com/category/thuoc/">Bài viết cùng chuyên mục</a>
                     </h3>
@@ -452,7 +452,15 @@
                         </div>
                                             </div>
                             </div>
-                </main>
+            <script type="text/javascript">
+                var page = 1;
+                jQuery(document).ready(function(){
+                    if (page > 1)
+                        document.getElementById('same-cat-posts').scrollIntoView({behavior: "smooth", block: "end", inline: "start"});
+                });
+            </script>
+            
+    </main>
     </div>
 
 

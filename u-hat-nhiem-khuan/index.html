@@ -339,7 +339,7 @@
         	</span>
 
 </article>                    <p style="display: block; margin: 20px 5px;">Các bài viết của YEUSONG.COM chỉ có tính chất tham khảo, không thể thay thế cho việc chẩn đoán hoặc điều trị y khoa. Nếu bạn có vấn đề bất ổn với cơ thể hãy lập tức liên hệ với chuyên gia y tế để được trợ giúp.</p>
-                                    <div class="content-block content-block-1 same-cat-posts clear">
+                                    <div id="same-cat-posts" class="content-block content-block-1 same-cat-posts clear">
                 <div class="section-heading">
                     <h3 class="section-title"><a href="https://yeusong.com/category/tu-dien-y-khoa/">Bài viết cùng chuyên mục</a>
                     </h3>
@@ -417,7 +417,15 @@ Bệnh chàm – Eczema thường...                            </div>
                         </div>
                                             </div>
                             </div>
-                </main>
+            <script type="text/javascript">
+                var page = 1;
+                jQuery(document).ready(function(){
+                    if (page > 1)
+                        document.getElementById('same-cat-posts').scrollIntoView({behavior: "smooth", block: "end", inline: "start"});
+                });
+            </script>
+            
+    </main>
     </div>
 
 
