@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-03T01:54:56+00:00</lastmod>
+		<lastmod>2020-08-03T03:16:23+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -682,6 +682,23 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/young-woman-feeling-sick-home_23-2147953286.jpg</image:loc>
 			<image:caption><![CDATA[Ngộ độc thức ăn do vi khuẩn]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/uong-mot-lon-nuoc-ngot-moi-ngay-coi-chung-ban-mac-nhung-benh-sau/</loc>
+		<lastmod>2020-08-03T03:16:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cokedrinkingmain.jpg</image:loc>
+			<image:title><![CDATA[cokedrinkingmain]]></image:title>
+			<image:caption><![CDATA[Uống nhiều nước ngọt có gaz không tốt cho sức khỏe]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/little-boy-drinking-from-cup_1308-46196.jpg</image:loc>
+			<image:caption><![CDATA[nước ngọt là một loại thức uống chứa nước, cacbon dioxide bão hòa, chất làm ngọt, và hương liệu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fresh-cola-drink-with-green-lime_144627-12396-1.jpg</image:loc>
+			<image:caption><![CDATA[tiêu thụ 1 lon nước ngọt có ga mỗi ngày có thể làm tăng 6.75kg cân nặng trong một năm]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
