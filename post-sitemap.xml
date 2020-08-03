@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-03T04:08:06+00:00</lastmod>
+		<lastmod>2020-08-03T08:15:48+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -254,6 +254,14 @@
 		<lastmod>2020-08-01T11:19:42+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://yeusong.com/da-nang-lap-benh-vien-da-chien-chong-covid-19/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-vien-quoc-te-city-ngung-tiep-nhan-benh-nhan-do-ca-nghi-nhiem-ncov/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://yeusong.com/truc-nhi-dieu-nhi-cuoi-dua-tinh-tao/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
@@ -262,11 +270,11 @@
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/them-45-nguoi-da-nang-nhiem-ncov/</loc>
+		<loc>https://yeusong.com/30-07-2020-them-9-ca-mac-moi-covid-19/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/da-nang-lap-benh-vien-da-chien-chong-covid-19/</loc>
+		<loc>https://yeusong.com/them-45-nguoi-da-nang-nhiem-ncov/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
@@ -279,14 +287,6 @@
 	</url>
 	<url>
 		<loc>https://yeusong.com/tinh-nguoi-da-nang-trong-tam-dich-covid-19/</loc>
-		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/30-07-2020-them-9-ca-mac-moi-covid-19/</loc>
-		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/benh-vien-quoc-te-city-ngung-tiep-nhan-benh-nhan-do-ca-nghi-nhiem-ncov/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
@@ -756,6 +756,38 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/pilates-concept-illustration_114360-1111.jpg</image:loc>
 			<image:caption><![CDATA[Tập luyện thể thao]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/ban-tin-dich-covid-19-den-14h-thoi-diem-quyet-dinh-de-ngan-chan-dich-bung-phat/</loc>
+		<lastmod>2020-08-03T07:56:37+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/flat-design-coronavirus-spread-illustration_23-2148473778.jpg</image:loc>
+			<image:title><![CDATA[flat-design-coronavirus-spread-illustration_23-2148473778]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/bi-quyet-de-tre-co-chieu-cao-vuot-troi/</loc>
+		<lastmod>2020-08-03T08:08:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tall-kid-1-768x530-1.jpg</image:loc>
+			<image:title><![CDATA[tall-kid-1-768x530]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/boy-growth-scale_53876-15451.jpg</image:loc>
+			<image:caption><![CDATA[yếu tố dinh dưỡng, sinh hoạt và luyện tập thể dục thể thao cũng góp phần quan trọng để trẻ có chiều cao lý tưởng]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/boy-girl-doing-jumprope-park_1308-46173.jpg</image:loc>
+			<image:caption><![CDATA[Nên cho bé chơi các môn thể thao như bơi lội, bóng chuyền, bóng rổ, yoga, đạp xe]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/thuoc-uc-che-chon-loc-cox-2-chong-viem-vi-sao-ngay-cang-it-duoc-su-dung/</loc>
+		<lastmod>2020-08-03T08:15:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/celebrex-200-mg-30-tablets.jpg</image:loc>
+			<image:title><![CDATA[celebrex-200-mg-30-tablets]]></image:title>
 		</image:image>
 	</url>
 </urlset>
