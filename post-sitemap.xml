@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-03T03:16:23+00:00</lastmod>
+		<lastmod>2020-08-03T04:08:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -246,15 +246,19 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/ba-su-co-nhiem-covid-19-lien-quan-den-benh-nhan-461/</loc>
-		<lastmod>2020-08-01T11:19:42+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://yeusong.com/be-gai-20-thang-tuoi-mac-covid-19/</loc>
 		<lastmod>2020-08-01T11:19:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/30-07-2020-them-9-ca-mac-moi-covid-19/</loc>
+		<loc>https://yeusong.com/ba-su-co-nhiem-covid-19-lien-quan-den-benh-nhan-461/</loc>
+		<lastmod>2020-08-01T11:19:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/truc-nhi-dieu-nhi-cuoi-dua-tinh-tao/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/29-07-2020-them-8-ca-mac-moi-tai-da-nang/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
@@ -278,15 +282,11 @@
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/29-07-2020-them-8-ca-mac-moi-tai-da-nang/</loc>
+		<loc>https://yeusong.com/30-07-2020-them-9-ca-mac-moi-covid-19/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/benh-vien-quoc-te-city-ngung-tiep-nhan-benh-nhan-do-ca-nghi-nhiem-ncov/</loc>
-		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/truc-nhi-dieu-nhi-cuoi-dua-tinh-tao/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
@@ -341,39 +341,6 @@
 	<url>
 		<loc>https://yeusong.com/them-2-benh-nhan-covid-19-tu-vong/</loc>
 		<lastmod>2020-08-02T09:27:22+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/muc-cholesterol-trong-co-the-phan-anh-nguy-co-ve-suc-khoe/</loc>
-		<lastmod>2020-08-02T13:34:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/fat-patient-visiting-doctor_74855-6454.jpg</image:loc>
-			<image:title><![CDATA[fat-patient-visiting-doctor_74855-6454]]></image:title>
-			<image:caption><![CDATA[Càng lớn tuổi lượng choleterol càng cao]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/diagram-showing-cholesterol-blocking-artery-human-body_1308-43348.jpg</image:loc>
-			<image:caption><![CDATA[Lượng cholesterol cao trong máu gây tắc nghên mạch máu.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/colorful-delicious-vegetables-arrangement_23-2148290786.jpg</image:loc>
-			<image:caption><![CDATA[Tăng cường chất xơ trong khẩu phần ăn]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/green-olives-oil_144627-26921.jpg</image:loc>
-			<image:caption><![CDATA[Quả oliu]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/man-holding-beef-burger-lettuce-cheese-tomato-cucumber-egg-side-view_141793-12296.jpg</image:loc>
-			<image:caption><![CDATA[Hạn chế chất béo gây hại]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tasting-illustration-concept_114360-774.jpg</image:loc>
-			<image:caption><![CDATA[uống rượu điều độ]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/pilates-concept-illustration_114360-1111.jpg</image:loc>
-			<image:caption><![CDATA[Tập luyện thể thao]]></image:caption>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://yeusong.com/5-loai-do-uong-buoi-sang-giup-tang-kha-nang-mien-dich-cho-ban/</loc>
@@ -699,6 +666,96 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/fresh-cola-drink-with-green-lime_144627-12396-1.jpg</image:loc>
 			<image:caption><![CDATA[tiêu thụ 1 lon nước ngọt có ga mỗi ngày có thể làm tăng 6.75kg cân nặng trong một năm]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/5-loai-thuc-pham-giup-tang-cuong-suc-khoe-phoi/</loc>
+		<lastmod>2020-08-03T03:49:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/phoi-khoe-manh-1-15913188164471179908694-99-339-945-1692-crop-1591319403509948372941.jpg</image:loc>
+			<image:title><![CDATA[phoi-khoe-manh-1-15913188164471179908694-99-339-945-1692-crop-1591319403509948372941]]></image:title>
+			<image:caption><![CDATA[5 loại thực phẩm giúp tăng cường sức khỏe phổi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fresh-walnut_144627-16154.jpg</image:loc>
+			<image:caption><![CDATA[Quả óc chó cung cấp Vitamin E và chất béo lành mạnh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mix-beans_1339-254.jpg</image:loc>
+			<image:caption><![CDATA[Đậu cung cấp chất chống oxi hóa chống lại các gốc tự do gây hại cho phổi.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/wreath-with-various-mixberry-fruits-vibrant-color-illustration-template_83728-929-1.jpg</image:loc>
+			<image:caption><![CDATA[Các loại quả mọng cũng là nguồn chứa chất chống ô xy hóa dồi dào, rất có lợi cho phổi.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/side-view-green-apples-basket-with-whole-cut-apples-wooden-surface_141793-11388.jpg</image:loc>
+			<image:caption><![CDATA[Táo chứa nhiều vitamin C, E và beta-carotene phong phú]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fresh-broccoli-isolated_144627-30009.jpg</image:loc>
+			<image:caption><![CDATA[Bông cải xanh giàu chất chống ô xy hóa]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/do-uong-giup-giam-mo-bung/</loc>
+		<lastmod>2020-08-03T04:02:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/portrait-healthy-smiling-woman-pajamas_171337-5888.jpg</image:loc>
+			<image:title><![CDATA[portrait-healthy-smiling-woman-pajamas_171337-5888]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/close-up-hand-holding-water-glass_23-2148504561.jpg</image:loc>
+			<image:caption><![CDATA[Uống một ly nước 30 phút trước bữa ăn có thể khiến bạn cảm thấy no hơn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fresh-apple-juice-close-up-shot_53876-65292.jpg</image:loc>
+			<image:caption><![CDATA[axit axetic trong giấm táo có thể giúp ngăn ngừa tăng cân bằng cách giảm tốc độ tích tụ chất béo trong gan và dạ dày.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/herbal-tea-glass-cup-with-leaves-lime-side-view-white-grungy_176474-7359.jpg</image:loc>
+			<image:caption><![CDATA[Trà xanh chứa epigallocatechin (EGCG)]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/lemonade-glass-with-lemons-cutting-board-high-angle-view-white-plaster_176474-7386-1.jpg</image:loc>
+			<image:caption><![CDATA[Trong trái chanh có nhiều acid citric – loại acid hữu cơ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cup-tea-ginger-plants-wooden-board_114579-5092.jpg</image:loc>
+			<image:caption><![CDATA[trà gừng nóng làm giảm cảm giác đói, từ đó giúp kiểm soát căn bệnh béo phì]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/muc-cholesterol-trong-co-the-phan-anh-nguy-co-ve-suc-khoe/</loc>
+		<lastmod>2020-08-03T04:08:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fat-patient-visiting-doctor_74855-6454.jpg</image:loc>
+			<image:title><![CDATA[fat-patient-visiting-doctor_74855-6454]]></image:title>
+			<image:caption><![CDATA[Càng lớn tuổi lượng choleterol càng cao]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/diagram-showing-cholesterol-blocking-artery-human-body_1308-43348.jpg</image:loc>
+			<image:caption><![CDATA[Lượng cholesterol cao trong máu gây tắc nghên mạch máu.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/colorful-delicious-vegetables-arrangement_23-2148290786.jpg</image:loc>
+			<image:caption><![CDATA[Tăng cường chất xơ trong khẩu phần ăn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/green-olives-oil_144627-26921.jpg</image:loc>
+			<image:caption><![CDATA[Quả oliu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/man-holding-beef-burger-lettuce-cheese-tomato-cucumber-egg-side-view_141793-12296.jpg</image:loc>
+			<image:caption><![CDATA[Hạn chế chất béo gây hại]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tasting-illustration-concept_114360-774.jpg</image:loc>
+			<image:caption><![CDATA[uống rượu điều độ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/pilates-concept-illustration_114360-1111.jpg</image:loc>
+			<image:caption><![CDATA[Tập luyện thể thao]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
