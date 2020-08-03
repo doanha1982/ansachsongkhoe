@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-02T14:45:57+00:00</lastmod>
+		<lastmod>2020-08-03T01:54:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -43,15 +43,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/8-loi-khuyen-an-uong-lanh-manh/</loc>
-		<lastmod>2020-07-23T15:42:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/8-loi-khuyen.jpg</image:loc>
-			<image:title><![CDATA[8-loi-khuyen]]></image:title>
-			<image:caption><![CDATA[8 loi khuyen an uong lanh manh]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/cam-nang-tang-can-hieu-qua/</loc>
 		<lastmod>2020-07-23T15:42:57+00:00</lastmod>
 		<image:image>
@@ -73,6 +64,15 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/07/workout-composition-with-healthy-food_23-2147692092.jpg</image:loc>
 			<image:title><![CDATA[workout-composition-with-healthy-food_23-2147692092]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/8-loi-khuyen-an-uong-lanh-manh/</loc>
+		<lastmod>2020-07-23T15:42:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/8-loi-khuyen.jpg</image:loc>
+			<image:title><![CDATA[8-loi-khuyen]]></image:title>
+			<image:caption><![CDATA[8 loi khuyen an uong lanh manh]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -258,18 +258,6 @@
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/29-07-2020-them-8-ca-mac-moi-tai-da-nang/</loc>
-		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/truc-nhi-dieu-nhi-cuoi-dua-tinh-tao/</loc>
-		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/benh-vien-quoc-te-city-ngung-tiep-nhan-benh-nhan-do-ca-nghi-nhiem-ncov/</loc>
-		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://yeusong.com/them-45-nguoi-da-nang-nhiem-ncov/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
@@ -287,6 +275,18 @@
 	</url>
 	<url>
 		<loc>https://yeusong.com/tinh-nguoi-da-nang-trong-tam-dich-covid-19/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/29-07-2020-them-8-ca-mac-moi-tai-da-nang/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-vien-quoc-te-city-ngung-tiep-nhan-benh-nhan-do-ca-nghi-nhiem-ncov/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/truc-nhi-dieu-nhi-cuoi-dua-tinh-tao/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
@@ -643,6 +643,45 @@
 			<image:loc>https://yeusong.com/static/uploads/2020/07/covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733.jpg</image:loc>
 			<image:title><![CDATA[covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733]]></image:title>
 			<image:caption><![CDATA[COVID-19 Virus]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/covid-19-cach-ly-xa-hoi-thanh-pho-buon-ma-thuot-dak-lak/</loc>
+		<lastmod>2020-08-03T01:38:07+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/bai-tap-keo-gian-ngua-dau-lung-duoi/</loc>
+		<lastmod>2020-08-03T01:44:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/close-up-man-rubbing-his-painful-back-isolated-white-background_1150-2931.jpg</image:loc>
+			<image:title><![CDATA[close-up-man-rubbing-his-painful-back-isolated-white-background_1150-2931]]></image:title>
+			<image:caption><![CDATA[Đau lưng dưới là tình trạng khá phổ biến]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/t_th_em_be.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cobra_strech.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/t_th_chim-cho.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/than-trong-voi-ngo-doc-thuc-an/</loc>
+		<lastmod>2020-08-03T01:54:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/unhealthy-junk-food-harmful-effects-warning-retro-cartoon-poster-with-hamburger-sick-looking-chi_1284-16147.jpg</image:loc>
+			<image:title><![CDATA[unhealthy-junk-food-harmful-effects-warning-retro-cartoon-poster-with-hamburger-sick-looking-chi_1284-16147]]></image:title>
+			<image:caption><![CDATA[Ngộ độc thức ăn do vi khuẩn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/funny-cartoon-germs-set_74855-6475.jpg</image:loc>
+			<image:caption><![CDATA[nếu thực phẩm được đưa ra ngoài tủ lạnh lâu và sau đó nấu lại rồi giữ ở nhiệt độ phòng, vi khuẩn sẽ có cơ hội tạo độc tố ruột.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/young-woman-feeling-sick-home_23-2147953286.jpg</image:loc>
+			<image:caption><![CDATA[Ngộ độc thức ăn do vi khuẩn]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
