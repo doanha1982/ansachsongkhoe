@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-04T08:30:00+00:00</lastmod>
+		<lastmod>2020-08-04T10:08:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -246,15 +246,23 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/ba-su-co-nhiem-covid-19-lien-quan-den-benh-nhan-461/</loc>
-		<lastmod>2020-08-01T11:19:42+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://yeusong.com/be-gai-20-thang-tuoi-mac-covid-19/</loc>
 		<lastmod>2020-08-01T11:19:42+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://yeusong.com/ba-su-co-nhiem-covid-19-lien-quan-den-benh-nhan-461/</loc>
+		<lastmod>2020-08-01T11:19:42+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://yeusong.com/benh-vien-quoc-te-city-ngung-tiep-nhan-benh-nhan-do-ca-nghi-nhiem-ncov/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/truc-nhi-dieu-nhi-cuoi-dua-tinh-tao/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/29-07-2020-them-8-ca-mac-moi-tai-da-nang/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
@@ -279,14 +287,6 @@
 	</url>
 	<url>
 		<loc>https://yeusong.com/tinh-nguoi-da-nang-trong-tam-dich-covid-19/</loc>
-		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/truc-nhi-dieu-nhi-cuoi-dua-tinh-tao/</loc>
-		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/29-07-2020-them-8-ca-mac-moi-tai-da-nang/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
@@ -952,6 +952,77 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/water-balance-illustration-with-human-body-flat-isolated_1284-30174.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/9-truong-hop-cam-ky-khong-duoc-an-toi/</loc>
+		<lastmod>2020-08-04T09:38:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/unpeeled-garlic_144627-12048.jpg</image:loc>
+			<image:title><![CDATA[unpeeled-garlic_144627-12048]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/man-with-stomach-pain_144627-10069.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/raw-chicken-breasts-wooden-cutting-board_1150-13465-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/nuoc-ep-oi-co-tac-dung-gi-va-cach-uong-nuoc-ep-oi/</loc>
+		<lastmod>2020-08-04T09:47:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nuoc-ep-oi-co-tac-dung-gi-va-cach-uong-nuoc-ep-oi-b540e37aa15d4a39829a59e438d4f6bd_15762103106841598-1596523408-11-width700height700.jpg</image:loc>
+			<image:title><![CDATA[nuoc-ep-oi-co-tac-dung-gi-va-cach-uong-nuoc-ep-oi-b540e37aa15d4a39829a59e438d4f6bd_15762103106841598-1596523408-11-width700height700]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fruit-juice-ad-template_52683-4015-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/7-loai-thuc-pham-dung-an-khi-bung-rong-keo-hai-da-day/</loc>
+		<lastmod>2020-08-04T09:58:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/avatar1596470924411-15964709248491389499878.jpg</image:loc>
+			<image:title><![CDATA[avatar1596470924411-15964709248491389499878]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/peach-table_144627-17515-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/7-loai-thuc-pham-tha-doi-chu-nhat-quyet-dung-an-khi-bung-rong-uong-nuoc-lanh-1-650x373-1596448912-127-width600height411.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/realistic-banana-set-with-various-isolated-images-fresh-banana-fruit-with-skin-leaves-slices_1284-29361.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sweet-potatoes_144627-33702.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/orange-white-white_144627-16571-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/flaming-hot-chili-pepper-pod-image_1284-9755.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/nhung-thuc-pham-chua-chat-cuc-doc-gay-ung-thu-gan-nguoi-viet-van-an-moi-ngay/</loc>
+		<lastmod>2020-08-04T10:08:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/3-thoi-quen-gay-ung-thu-gan-khong-phai-ai-cung-de-y-1-745x497-1.jpg</image:loc>
+			<image:title><![CDATA[3-thoi-quen-gay-ung-thu-gan-khong-phai-ai-cung-de-y-1-745x497]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cat-ear-musroom-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/chopsticks-holding-sushi-roll-isolated_1441-3786.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/wooden-chopping-board-with-puzzle-frame-isolated-white-table_181624-6957.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/chat-doc-gay-ung-thu-gan-ton-tai-trong-thuc-pham-nguoi-viet-an-hang-ngay-4-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
