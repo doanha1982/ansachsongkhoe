@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-04T03:26:35+00:00</lastmod>
+		<lastmod>2020-08-04T07:44:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -43,15 +43,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/8-loi-khuyen-an-uong-lanh-manh/</loc>
-		<lastmod>2020-07-23T15:42:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/8-loi-khuyen.jpg</image:loc>
-			<image:title><![CDATA[8-loi-khuyen]]></image:title>
-			<image:caption><![CDATA[8 loi khuyen an uong lanh manh]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/cam-nang-tang-can-hieu-qua/</loc>
 		<lastmod>2020-07-23T15:42:57+00:00</lastmod>
 		<image:image>
@@ -73,6 +64,15 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/07/workout-composition-with-healthy-food_23-2147692092.jpg</image:loc>
 			<image:title><![CDATA[workout-composition-with-healthy-food_23-2147692092]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/8-loi-khuyen-an-uong-lanh-manh/</loc>
+		<lastmod>2020-07-23T15:42:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/8-loi-khuyen.jpg</image:loc>
+			<image:title><![CDATA[8-loi-khuyen]]></image:title>
+			<image:caption><![CDATA[8 loi khuyen an uong lanh manh]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -254,23 +254,7 @@
 		<lastmod>2020-08-01T11:19:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/truc-nhi-dieu-nhi-cuoi-dua-tinh-tao/</loc>
-		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/benh-vien-quoc-te-city-ngung-tiep-nhan-benh-nhan-do-ca-nghi-nhiem-ncov/</loc>
-		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/tinh-nguoi-da-nang-trong-tam-dich-covid-19/</loc>
-		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/ngam-nu-cuoi-dang-yeu-cua-dieu-nhi-sau-khi-cai-may-tho/</loc>
-		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/10-su-that-xung-quanh-ta-khong-phai-ai-cung-biet/</loc>
+		<loc>https://yeusong.com/them-45-nguoi-da-nang-nhiem-ncov/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
@@ -278,15 +262,31 @@
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/them-45-nguoi-da-nang-nhiem-ncov/</loc>
+		<loc>https://yeusong.com/10-su-that-xung-quanh-ta-khong-phai-ai-cung-biet/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/30-07-2020-them-9-ca-mac-moi-covid-19/</loc>
+		<loc>https://yeusong.com/ngam-nu-cuoi-dang-yeu-cua-dieu-nhi-sau-khi-cai-may-tho/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/tinh-nguoi-da-nang-trong-tam-dich-covid-19/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-vien-quoc-te-city-ngung-tiep-nhan-benh-nhan-do-ca-nghi-nhiem-ncov/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/truc-nhi-dieu-nhi-cuoi-dua-tinh-tao/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/29-07-2020-them-8-ca-mac-moi-tai-da-nang/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/30-07-2020-them-9-ca-mac-moi-covid-19/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
@@ -861,6 +861,60 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/fresh-broccoli-isolated_144627-30009.jpg</image:loc>
 			<image:caption><![CDATA[Bông cải xanh giàu chất chống ô xy hóa]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/thuoc-va-ruou-nhung-he-luy-khon-luong/</loc>
+		<lastmod>2020-08-04T07:20:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/woman-goblet-smelling-vapor-smoking-turquoise-liquid_23-2147908435.jpg</image:loc>
+			<image:title><![CDATA[woman-goblet-smelling-vapor-smoking-turquoise-liquid_23-2147908435]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/lovely-couple_144627-35031.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/thuoc_va_ruou_nhung_he_luy_1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/thuoc_va_ruou_nhung_he_luy_3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/bon-dau-hieu-cho-thay-ban-dang-giam-can-dot-mo-dung-cach/</loc>
+		<lastmod>2020-08-04T07:34:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/frustrated-young-casual-woman-pointing-weights_171337-8414.jpg</image:loc>
+			<image:title><![CDATA[frustrated-young-casual-woman-pointing-weights_171337-8414]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/attractive-dark-haired-guy-sitting-cafe-looking-with-happy-expression-sandwich-being-happy-eat-something-after-all-day-work-hungry-man-going-eat-burger_176420-9171.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/workout-concept-illustration_114360-1120-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/portrait-happy-aged-woman-with-big-jeans-dumbbell_144627-32317.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/an-bo-cach-nay-vua-mat-het-chat-bo-vua-ha-doc-suc-khoe-nhanh-khung-khiep/</loc>
+		<lastmod>2020-08-04T07:44:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/smoothie-with-avocado-banana_144627-33264.jpg</image:loc>
+			<image:title><![CDATA[smoothie-with-avocado-banana_144627-33264]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/macro-shot-avocado-isolated-white-background_53876-14904.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/newborn-baby-sleeping-hands-mother-nose-collided_1150-19520.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/man-with-stomach-pain_144627-10069.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/man-holds-his-fat-tummy_144627-2211.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
