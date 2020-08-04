@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-04T07:44:17+00:00</lastmod>
+		<lastmod>2020-08-04T08:30:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -43,6 +43,15 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://yeusong.com/8-loi-khuyen-an-uong-lanh-manh/</loc>
+		<lastmod>2020-07-23T15:42:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/8-loi-khuyen.jpg</image:loc>
+			<image:title><![CDATA[8-loi-khuyen]]></image:title>
+			<image:caption><![CDATA[8 loi khuyen an uong lanh manh]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://yeusong.com/cam-nang-tang-can-hieu-qua/</loc>
 		<lastmod>2020-07-23T15:42:57+00:00</lastmod>
 		<image:image>
@@ -64,15 +73,6 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/07/workout-composition-with-healthy-food_23-2147692092.jpg</image:loc>
 			<image:title><![CDATA[workout-composition-with-healthy-food_23-2147692092]]></image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/8-loi-khuyen-an-uong-lanh-manh/</loc>
-		<lastmod>2020-07-23T15:42:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/8-loi-khuyen.jpg</image:loc>
-			<image:title><![CDATA[8-loi-khuyen]]></image:title>
-			<image:caption><![CDATA[8 loi khuyen an uong lanh manh]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -254,6 +254,14 @@
 		<lastmod>2020-08-01T11:19:42+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://yeusong.com/benh-vien-quoc-te-city-ngung-tiep-nhan-benh-nhan-do-ca-nghi-nhiem-ncov/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/30-07-2020-them-9-ca-mac-moi-covid-19/</loc>
+		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://yeusong.com/them-45-nguoi-da-nang-nhiem-ncov/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
@@ -274,19 +282,11 @@
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/benh-vien-quoc-te-city-ngung-tiep-nhan-benh-nhan-do-ca-nghi-nhiem-ncov/</loc>
-		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://yeusong.com/truc-nhi-dieu-nhi-cuoi-dua-tinh-tao/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/29-07-2020-them-8-ca-mac-moi-tai-da-nang/</loc>
-		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/30-07-2020-them-9-ca-mac-moi-covid-19/</loc>
 		<lastmod>2020-08-01T11:19:43+00:00</lastmod>
 	</url>
 	<url>
@@ -915,6 +915,43 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/man-holds-his-fat-tummy_144627-2211.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/nhung-thuc-pham-khong-nen-ket-hop-voi-mat-ong-de-tranh-gay-hai-suc-khoe/</loc>
+		<lastmod>2020-08-04T08:23:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/honey-watercolor-set-with-jar-dipper-bees-honeycomb-house-bucket_1268-13755.jpg</image:loc>
+			<image:title><![CDATA[honey-watercolor-set-with-jar-dipper-bees-honeycomb-house-bucket_1268-13755]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/honey-food-elements-set-with-daisy-bumblebee-honeycomb-isolated-vector-illustration_98292-3656.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/khong-nen-ket-hop-mat-ong-voi-cac-thuc-pham-sau-de-tranh-gay-hai-suc-khoe-4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ripe-onion-white-background_1088-908-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/khong-nen-ket-hop-mat-ong-voi-cac-thuc-pham-sau-de-tranh-gay-hai-suc-khoe-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cook-cooking-carp-fish_1398-4455.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/side-view-boiled-rice-with-black-seeds-clay-bowl-wood_141793-11207.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/nang-nong-dung-quen-bo-sung-nuoc-va-chat-dien-giai/</loc>
+		<lastmod>2020-08-04T08:30:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/portrait-smiling-fit-woman-pointing-finger_171337-11805.jpg</image:loc>
+			<image:title><![CDATA[portrait-smiling-fit-woman-pointing-finger_171337-11805]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/water-balance-illustration-with-human-body-flat-isolated_1284-30174.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
