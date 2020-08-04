@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-04T02:42:23+00:00</lastmod>
+		<lastmod>2020-08-04T03:26:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -669,35 +669,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/5-loai-thuc-pham-giup-tang-cuong-suc-khoe-phoi/</loc>
-		<lastmod>2020-08-03T03:49:30+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/phoi-khoe-manh-1-15913188164471179908694-99-339-945-1692-crop-1591319403509948372941.jpg</image:loc>
-			<image:title><![CDATA[phoi-khoe-manh-1-15913188164471179908694-99-339-945-1692-crop-1591319403509948372941]]></image:title>
-			<image:caption><![CDATA[5 loại thực phẩm giúp tăng cường sức khỏe phổi]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/fresh-walnut_144627-16154.jpg</image:loc>
-			<image:caption><![CDATA[Quả óc chó cung cấp Vitamin E và chất béo lành mạnh]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/mix-beans_1339-254.jpg</image:loc>
-			<image:caption><![CDATA[Đậu cung cấp chất chống oxi hóa chống lại các gốc tự do gây hại cho phổi.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/wreath-with-various-mixberry-fruits-vibrant-color-illustration-template_83728-929-1.jpg</image:loc>
-			<image:caption><![CDATA[Các loại quả mọng cũng là nguồn chứa chất chống ô xy hóa dồi dào, rất có lợi cho phổi.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/side-view-green-apples-basket-with-whole-cut-apples-wooden-surface_141793-11388.jpg</image:loc>
-			<image:caption><![CDATA[Táo chứa nhiều vitamin C, E và beta-carotene phong phú]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/fresh-broccoli-isolated_144627-30009.jpg</image:loc>
-			<image:caption><![CDATA[Bông cải xanh giàu chất chống ô xy hóa]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/do-uong-giup-giam-mo-bung/</loc>
 		<lastmod>2020-08-03T04:02:51+00:00</lastmod>
 		<image:image>
@@ -819,14 +790,6 @@
 		<lastmod>2020-08-04T02:09:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/4-thuc-pham-bao-ve-suc-khoe-quang-cao-nhu-thuoc-chua-benh-nguoi-tieu-dung-can-can-trong/</loc>
-		<lastmod>2020-08-04T02:16:03+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/pharmacy-health-care-service-vector-ad-banner_1441-3732.jpg</image:loc>
-			<image:title><![CDATA[pharmacy-health-care-service-vector-ad-banner_1441-3732]]></image:title>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/thuc-duong-chua-ung-thu-nhung-hoi-chuong-canh-bao/</loc>
 		<lastmod>2020-08-04T02:27:34+00:00</lastmod>
 		<image:image>
@@ -861,6 +824,43 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/high-angle-group-kids-reading_23-2148601391.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/4-thuc-pham-bao-ve-suc-khoe-quang-cao-nhu-thuoc-chua-benh-nguoi-tieu-dung-can-can-trong/</loc>
+		<lastmod>2020-08-04T03:25:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/pharmacy-health-care-service-vector-ad-banner_1441-3732.jpg</image:loc>
+			<image:title><![CDATA[pharmacy-health-care-service-vector-ad-banner_1441-3732]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/5-loai-thuc-pham-giup-tang-cuong-suc-khoe-phoi/</loc>
+		<lastmod>2020-08-04T03:26:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/phoi-khoe-manh-1-15913188164471179908694-99-339-945-1692-crop-1591319403509948372941.jpg</image:loc>
+			<image:title><![CDATA[phoi-khoe-manh-1-15913188164471179908694-99-339-945-1692-crop-1591319403509948372941]]></image:title>
+			<image:caption><![CDATA[5 loại thực phẩm giúp tăng cường sức khỏe phổi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fresh-walnut_144627-16154.jpg</image:loc>
+			<image:caption><![CDATA[Quả óc chó cung cấp Vitamin E và chất béo lành mạnh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mix-beans_1339-254.jpg</image:loc>
+			<image:caption><![CDATA[Đậu cung cấp chất chống oxi hóa chống lại các gốc tự do gây hại cho phổi.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/wreath-with-various-mixberry-fruits-vibrant-color-illustration-template_83728-929-1.jpg</image:loc>
+			<image:caption><![CDATA[Các loại quả mọng cũng là nguồn chứa chất chống ô xy hóa dồi dào, rất có lợi cho phổi.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/side-view-green-apples-basket-with-whole-cut-apples-wooden-surface_141793-11388.jpg</image:loc>
+			<image:caption><![CDATA[Táo chứa nhiều vitamin C, E và beta-carotene phong phú]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fresh-broccoli-isolated_144627-30009.jpg</image:loc>
+			<image:caption><![CDATA[Bông cải xanh giàu chất chống ô xy hóa]]></image:caption>
 		</image:image>
 	</url>
 </urlset>

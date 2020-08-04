@@ -527,10 +527,9 @@ ul.bxslider {list-style: none;}
 .entry-content .wp-block-gallery ul li::before {display: none;}
 .entry-content .wp-block-cover {margin-bottom: 30px;}
 .entry-content .has-drop-cap:not(:focus)::first-letter {font-size: 5.4em;}
-.feature-article {width: 49%;float: left;position: relative;display: block;min-height: 1px;padding-left: 0;padding-right: 0;}
-.feature-article:nth-of-type(odd) {clear: left;margin-right: 5px;}
+.feature-article {width: 33.33%;float: left;position: relative;display: block;min-height: 1px;padding: 10px;}
 .feature-container {margin: 5px;background: #eee;width: 100%;display: block;}
-.feature-article .entry-header {padding: 5px;}
+.feature-article .entry-header {padding: 5px;height: 80px;overflow: hidden;}
 .feature-article .thumbnail-wrap {text-align: center;}
 .feature_thumb {width: 100%;height: 250px;border-radius: 8px;border: 1px solid #ddd;padding: 5px;}
 .same-cat-posts {margin-top: 15px;}
