@@ -169,7 +169,7 @@
 	.pagination .page-numbers {font-size: 13px;padding: 0 10px;height: 32px;line-height: 32px;}
 	.page-title, .single h1.entry-title, .page h1.entry-title {font-size: 24px;}
 	#comments .comment-metadata, .comment-respond .comment-metadata {display: none;}
-	.feature-article {float: none;width: 100%;height: auto;}
+	.feature-article {float: none;width: 100%;height: auto;display: inline-block;}
 	.feature-container {margin: auto;}
 	.feature_thumb {width: 100%;height: auto;}
 	.container-recent-posts .thumbnail-wrap {float: none;border-radius: 0;border: none;padding: 5px;}
@@ -182,4 +182,9 @@
 	.hot-tag-bar ul li {width: 100%;}
 	.container-recent-clips {margin: 0;padding: 5px;width: 100%;display: inline-table;}
 	.container-recent-clips .thumbnail-wrap {width: 100%;text-align: center;}
-	.container-recent-clips h2.entry-title {display: inline;}}
+	.container-recent-clips h2.entry-title {display: inline;}
+	.tool-block img {width: 80px;height: 80px;border-radius: 6px;float: left;}
+	.tool-block h5 {text-align: left;padding-left: 90px;}
+	.tool-desc {display: block;}
+	.feature-article .thumbnail-wrap {width: 50%;float: left;}
+	.feature-article .entry-header {overflow: unset;height: auto;padding-left: 52%;}}

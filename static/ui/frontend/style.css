@@ -566,3 +566,4 @@ ul.bxslider {list-style: none;}
 .box-gradient {border: 10px solid;border-image-slice: 1;border-width: 5px;padding: 10px;}
 .linear-gradient-1 {border-image-source: linear-gradient(to left,#f3042c,#0409f3,#16b22a,#eef30c);}
 .m-10 {margin: 10px;}
+.tool-desc {display: none;text-align: left;font-size: small;color: #000;padding-left: 90px;}

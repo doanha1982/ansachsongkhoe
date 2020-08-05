@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-05T03:14:25+00:00</lastmod>
+		<lastmod>2020-08-05T08:20:20+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -1113,6 +1113,49 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/man-holds-his-fat-tummy_144627-2211.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/them-lang-son-bac-giang-co-cac-ca-nhiem-covid-19/</loc>
+		<lastmod>2020-08-05T07:49:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/dsc06774_hlrj.jpg</image:loc>
+			<image:title><![CDATA[dsc06774_hlrj]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/nhac-nho-xu-phat-nguoi-dan-khong-deo-khau-trang/</loc>
+		<lastmod>2020-08-05T07:58:16+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/kiem-tra-deo-khau-trang.jpg</image:loc>
+			<image:title><![CDATA[kiem-tra-deo-khau-trang]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/bai-tap-the-duc-nao-dot-chay-nhieu-calo-nhat/</loc>
+		<lastmod>2020-08-05T08:20:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/training.jpg</image:loc>
+			<image:title><![CDATA[training]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fit-couple-running-marathon-together_3446-434.jpg</image:loc>
+			<image:caption><![CDATA[Chạy bộ có thể đốt cháy 365 calo trong 30 phút]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fit-woman-jumping-with-rope_23-2147752586.jpg</image:loc>
+			<image:caption><![CDATA[khoảng 290 calo bị đốt cháy trong 30 phút nhảy dây]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/close-up-olympic-swimmer-underwater_23-2148393608-1.jpg</image:loc>
+			<image:caption><![CDATA[Bơi 30 phút có thể đốt cháy khoảng 220 calo.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cyclist_1150-7487.jpg</image:loc>
+			<image:caption><![CDATA[Có thể đốt cháy 290 calo với tốc độ 20 - 22 km/giờ trong 30 phút.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/training-at-home.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
