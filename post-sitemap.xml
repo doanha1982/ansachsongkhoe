@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-05T10:47:14+00:00</lastmod>
+		<lastmod>2020-08-05T15:47:57+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -1250,6 +1250,86 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-gao.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/7-thoi-quen-gay-teo-nao-tham-chi-la-ung-thu-nao-can-xoa-bo-ngay-lap-tuc/</loc>
+		<lastmod>2020-08-05T15:36:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nao-bo.jpg</image:loc>
+			<image:title><![CDATA[nao-bo]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bua-an.jpg</image:loc>
+			<image:caption><![CDATA[Không ăn sáng có thể dẫn đến lượng đường trong máu thấp]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/thua-khuy.jpg</image:loc>
+			<image:caption><![CDATA[giấc ngủ không đủ sẽ khiến các tế bào thần kinh hoạt động kém linh hoạt]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/an-nhieu.jpg</image:loc>
+			<image:caption><![CDATA[Các nghiên cứu cho thấy mối liên hệ đáng ngạc nhiên giữa béo phì và mất trí nhớ.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hut-thuoc.jpg</image:loc>
+			<image:caption><![CDATA[Hút thuốc rõ ràng làm hỏng màng tế bào và khả năng sống của thần kinh trong các khu vực của não quản lý sự cân bằng, phối hợp và cả kỹ năng vận động]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/uong-nuoc.jpg</image:loc>
+			<image:caption><![CDATA[mất nước ảnh hưởng đến các chức năng như giải quyết vấn đề phức tạp, phối hợp và chú ý nhiều nhất.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/an-nhieu-duong.jpg</image:loc>
+			<image:caption><![CDATA[ăn quá nhiều đường một cách thường xuyên, các tế bào, bao gồm cả tế bào não bị rơi vào tình trạng viêm mãn tính]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/4-thoi-quen-xau-lam-tuoi-tho-va-suc-khoe-giam-sut/</loc>
+		<lastmod>2020-08-05T15:36:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/thoi-xau.jpg</image:loc>
+			<image:title><![CDATA[thoi-xau]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/danh-rang.jpg</image:loc>
+			<image:caption><![CDATA[rụng răng có liên quan mật thiết đến tỷ lệ tử vong]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/thua-khuy.jpg</image:loc>
+			<image:caption><![CDATA[thức khuya tác động tiêu cực khá lớn đến khả năng học tập, trí nhớ, tăng trưởng và khả năng hệ miễn dịch]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ngoi-lau.jpg</image:loc>
+			<image:caption><![CDATA[“Ngồi nhiều” được WHO liệt kê là một trong mười nguyên nhân gây tử vong hàng đầu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cau-gian.jpg</image:loc>
+			<image:caption><![CDATA[tính khí nóng nảy, thường xuyên cáu gắt, sẽ dẫn đến chức năng gan tổn thương]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/4-loai-thuc-pham-re-tien-giup-lam-sach-mach-mau-bao-ve-tim-mach-va-ngua-dot-quy/</loc>
+		<lastmod>2020-08-05T15:47:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/old-man.jpg</image:loc>
+			<image:title><![CDATA[old-man]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bap.jpg</image:loc>
+			<image:caption><![CDATA[Ngô có giá trị dinh dưỡng cao, các chất trong ngô giúp chuyển hóa chất béo và cholesterol trong cơ thể, tiếp đó làm giảm lắng đọng cholesterol xấu trong mạch máu, có tác dụng làm mềm mạch máu, giảm huyết áp và giảm nguy cơ đau tim và đột quỵ.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-hanh-tay-1.jpg</image:loc>
+			<image:caption><![CDATA[Tỏi giúp rửa sạch mạch máu, loại bỏ các cục máu đông nguy hiểm trong mạch máu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bapcai-1.jpg</image:loc>
+			<image:caption><![CDATA[bắp cải có tác dụng tốt trong công tác bảo vệ các niêm mạc mạch máu, thúc đẩy nhanh quá trình tuần hoàn máu, làm cho mạch máu khỏe mạnh hơn.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/lemonade-glass-with-lemons-cutting-board-high-angle-view-white-plaster_176474-7386.jpg</image:loc>
+			<image:caption><![CDATA[chanh rất giàu vitamin C và vitamin P, có thể làm mềm mạch máu và tăng cường độ đàn hồi của mạch máu]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
