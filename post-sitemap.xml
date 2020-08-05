@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-04T10:08:36+00:00</lastmod>
+		<lastmod>2020-08-05T02:20:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -604,15 +604,6 @@
 		<lastmod>2020-08-02T14:38:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/infographic-tinh-hinh-dich-ncovid-19/</loc>
-		<lastmod>2020-08-02T14:45:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733.jpg</image:loc>
-			<image:title><![CDATA[covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733]]></image:title>
-			<image:caption><![CDATA[COVID-19 Virus]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/covid-19-cach-ly-xa-hoi-thanh-pho-buon-ma-thuot-dak-lak/</loc>
 		<lastmod>2020-08-03T01:38:07+00:00</lastmod>
 	</url>
@@ -1023,6 +1014,105 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/chat-doc-gay-ung-thu-gan-ton-tai-trong-thuc-pham-nguoi-viet-an-hang-ngay-4-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/infographic-tinh-hinh-dich-ncovid-19/</loc>
+		<lastmod>2020-08-05T01:23:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733.jpg</image:loc>
+			<image:title><![CDATA[covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733]]></image:title>
+			<image:caption><![CDATA[COVID-19 Virus]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/dang-co-15-benh-nhan-covid-19-nang-nguy-kich-cac-bv-no-luc-cao-nhat-trong-dieu-tri/</loc>
+		<lastmod>2020-08-05T01:30:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/family-protected-from-virus_23-2148575207.jpg</image:loc>
+			<image:title><![CDATA[family-protected-from-virus_23-2148575207]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/7-thoi-quen-khien-nao-bo-bi-lao-hoa-nhanh-chong/</loc>
+		<lastmod>2020-08-05T01:48:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cigarettes-smoking-habbit_23-2148527388.jpg</image:loc>
+			<image:title><![CDATA[cigarettes-smoking-habbit_23-2148527388]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/8-loai-thuc-pham-giam-vong-eo-sau-sinh/</loc>
+		<lastmod>2020-08-05T02:03:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/closeup-obese-elderly-woman_53876-14964.jpg</image:loc>
+			<image:title><![CDATA[Closeup of obese elderly woman]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/top-view-formwork-with-eggs-table_23-2148621024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/almonds_1339-237.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/top-view-quinoa-with-wooden-spoon_140725-9086.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/macro-shot-avocado-isolated-white-background_53876-14904.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/green-smoothie-near-celery-chopping-board_23-2147871032.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/top-view-cucumber-sliced-glass-bowl-beige-linen-bag-white-wooden-horizontal_176474-1275.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/raw-chicken-breasts-wooden-cutting-board_1150-13465-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/lentils_1368-8870.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/buoi-sang-nen-an-gi-de-tot-nhat-cho-suc-khoe/</loc>
+		<lastmod>2020-08-05T02:20:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hungry-young-woman-sitting-kitchen-home_171337-4136.jpg</image:loc>
+			<image:title><![CDATA[hungry-young-woman-sitting-kitchen-home_171337-4136]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/top-view-formwork-with-eggs-table_23-2148621024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/realistic-set-two-blank-pots-with-open-foil-lids-plastic-containers-jars-with-spoons_1441-1852.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/coffee-poster-with-realistic-white-porcelain-cup-textured-background_1284-10871.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/3d-realistic-oat-ears-grains-with-white-bowl-detailed-cereal-plant_1441-1785-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/close-up-view-chia-seeds-concept_23-2148579380.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/wreath-with-various-mixberry-fruits-vibrant-color-illustration-template_83728-929-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nuts-walnut-peanuts-almond-seeds_144627-33329.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/matcha-tea-collection_23-2148598336.jpg</image:loc>
+			<image:caption><![CDATA[Trà xanh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fresh-fruits-isolated-white-background_144627-10547.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Linseed.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cheese.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
