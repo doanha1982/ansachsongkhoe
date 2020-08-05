@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-05T09:57:35+00:00</lastmod>
+		<lastmod>2020-08-05T10:47:14+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -1221,6 +1221,35 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-hanh-tay-1.jpg</image:loc>
 			<image:caption><![CDATA[Vỏ hành tây có đặc tính giàu chất chống oxy hóa]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/da-day-khong-tot-an-it-3-loai-qua-uong-nhieu-3-loai-tra-va-lam-tot-3-viec/</loc>
+		<lastmod>2020-08-05T10:47:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/da-day-yeu.jpg</image:loc>
+			<image:title><![CDATA[Healthy Digestive Track]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/guy-eating.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/peach.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fresh-kiwi-fruit-isolated_144627-30034-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/apple.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-sen-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hoa-hoa-cuc-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-gao.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
