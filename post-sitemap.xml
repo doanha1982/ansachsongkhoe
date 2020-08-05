@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-05T08:20:20+00:00</lastmod>
+		<lastmod>2020-08-05T09:57:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -1156,6 +1156,71 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/training-at-home.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cong-dung-than-ky-cua-nuoc-ep-ca-rot/</loc>
+		<lastmod>2020-08-05T09:34:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/carrot-juice-template_98292-7018.jpg</image:loc>
+			<image:title><![CDATA[carrot-juice-template_98292-7018]]></image:title>
+			<image:caption><![CDATA[nước ép cà rốt và nước ép củ cải đường là nguồn cung cấp vitamin]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nuoc-ep-ca-rot-3.jpg</image:loc>
+			<image:caption><![CDATA[Vitamin A giúp bảo vệ bề mặt của mắt và giúp cải thiện thị lực đáng kể]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nuoc-ep-ca-rot-2-1.jpg</image:loc>
+			<image:caption><![CDATA[Cà rốt có chứa nhiều kali, giúp duy trì mức cholesterol khỏe mạnh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nuoc-ep-ca-rot.jpg</image:loc>
+			<image:caption><![CDATA[Mỗi ngày sử dụng khoảng 50-100 ml nước ép cà rốt sẽ mang lại những lợi ích tốt nhất cho sức khỏe]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/9-thu-tuong-bo-di-nhung-co-the-tro-thanh-nhung-mon-an-ngon-than-thanh/</loc>
+		<lastmod>2020-08-05T09:57:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-trung.jpg</image:loc>
+			<image:caption><![CDATA[Vỏ trứng rất nhiều canxi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-dua.jpeg</image:loc>
+			<image:caption><![CDATA[cùi dưa hấu rất giống với dưa chuột về hương vị và kết cấu, khiến chúng trở thành ứng cử viên hoàn hảo để làm món dưa chua ăn kèm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/la-sup-lo.jpg</image:loc>
+			<image:caption><![CDATA[Lá súp lơ giàu khoáng chất, beta carotene, sắt và canxi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hoa-bi-ngoi-1.jpg</image:loc>
+			<image:caption><![CDATA[Hoa bí ngòi hoàn toàn có thể ăn được]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-cat-rot.jpeg</image:loc>
+			<image:caption><![CDATA[Đây có thể là nước xốt hoàn hảo cho món mì ống của bạn.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bap-cai.jpeg</image:loc>
+			<image:caption><![CDATA[Trộn chúng với bông cải xanh, bí, hoặc khoai tây và nấu tất cả cho đến khi chúng đủ mềm để tạo ra một món xúp rau củ vô cùng đậm đà và giàu dinh dưỡng.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-dau-1.jpg</image:loc>
+			<image:caption><![CDATA[Thân và lá dâu  giàu chất chống oxy hóa, chống viêm, các yếu tố bảo vệ tim mạch và các đặc tính bảo vệ thần kinh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-chuoi-1.jpg</image:loc>
+			<image:caption><![CDATA[vỏ chuối thực sự có lợi cho sức khỏe của bạn vì chúng rất giàu kali, magiê và canxi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-chuoi-2.jpg</image:loc>
+			<image:caption><![CDATA[làm thịt xông khói vỏ chuối]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-hanh-tay-1.jpg</image:loc>
+			<image:caption><![CDATA[Vỏ hành tây có đặc tính giàu chất chống oxy hóa]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
