@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-06T01:28:56+00:00</lastmod>
+		<lastmod>2020-08-06T03:19:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -1344,6 +1344,37 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/beirut-blast-1-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/bai-tap-tri-chung-tieu-khong-kiem-soat/</loc>
+		<lastmod>2020-08-06T02:19:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1822031.jpg</image:loc>
+			<image:title><![CDATA[1822031]]></image:title>
+			<image:caption><![CDATA[các bài tập giúp giảm tiểu không kiểm soát]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Kegel.jpg</image:loc>
+			<image:caption><![CDATA[Tập các bài tập Kegel giúp tăng cường cơ hỗ trợ bàng quang, cải thiện khả năng kiểm soát dòng nước tiểu.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/dung-huyet-tuong-nguoi-khoi-dieu-tri-benh-nhan-covid-19-nhu-the-nao/</loc>
+		<lastmod>2020-08-06T03:05:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/virus-fighting.jpg</image:loc>
+			<image:title><![CDATA[virus-fighting]]></image:title>
+			<image:caption><![CDATA[Dùng huyết tương người khỏi điều trị bệnh nhân Covid-19]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-vien-da-chien-tien-son-truoc-gio-ban-giao/</loc>
+		<lastmod>2020-08-06T03:19:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bv-tien-son-scaled.jpg</image:loc>
+			<image:title><![CDATA[bv-tien-son]]></image:title>
+			<image:caption><![CDATA[Chiều 5/8, Bệnh viện dã chiến đặt tại Cung thể thao Tiên Sơn đã cơ bản hoàn thiện phần lắp đặt phòng ốc, vách ngăn, giường bệnh.]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
