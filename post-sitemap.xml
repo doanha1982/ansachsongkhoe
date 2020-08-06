@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-05T15:47:57+00:00</lastmod>
+		<lastmod>2020-08-06T01:28:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -951,15 +951,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/infographic-tinh-hinh-dich-ncovid-19/</loc>
-		<lastmod>2020-08-05T01:23:10+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733.jpg</image:loc>
-			<image:title><![CDATA[covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733]]></image:title>
-			<image:caption><![CDATA[COVID-19 Virus]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/7-thoi-quen-khien-nao-bo-bi-lao-hoa-nhanh-chong/</loc>
 		<lastmod>2020-08-05T01:48:58+00:00</lastmod>
 		<image:image>
@@ -1330,6 +1321,29 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/lemonade-glass-with-lemons-cutting-board-high-angle-view-white-plaster_176474-7386.jpg</image:loc>
 			<image:caption><![CDATA[chanh rất giàu vitamin C và vitamin P, có thể làm mềm mạch máu và tăng cường độ đàn hồi của mạch máu]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/infographic-tinh-hinh-dich-ncovid-19/</loc>
+		<lastmod>2020-08-06T01:20:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733.jpg</image:loc>
+			<image:title><![CDATA[covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733]]></image:title>
+			<image:caption><![CDATA[COVID-19 Virus]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/nguoi-chet-do-no-o-lebanon-tang-len-135/</loc>
+		<lastmod>2020-08-06T01:28:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/beirut.jpg</image:loc>
+			<image:title><![CDATA[beirut]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/beirut-blast-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/beirut-blast-1-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
