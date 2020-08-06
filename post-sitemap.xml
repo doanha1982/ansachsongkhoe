@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-06T03:19:58+00:00</lastmod>
+		<lastmod>2020-08-06T04:09:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -1375,6 +1375,34 @@
 			<image:loc>https://yeusong.com/static/uploads/2020/08/bv-tien-son-scaled.jpg</image:loc>
 			<image:title><![CDATA[bv-tien-son]]></image:title>
 			<image:caption><![CDATA[Chiều 5/8, Bệnh viện dã chiến đặt tại Cung thể thao Tiên Sơn đã cơ bản hoàn thiện phần lắp đặt phòng ốc, vách ngăn, giường bệnh.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/nha-dam-co-tac-dung-gi-voi-lam-dep-da-mat-va-duong-toc/</loc>
+		<lastmod>2020-08-06T04:09:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/aloe-vera-leaves-beauty-treatment.jpg</image:loc>
+			<image:title><![CDATA[aloe-vera-leaves-beauty-treatment]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nha-dam-1.jpg</image:loc>
+			<image:caption><![CDATA[nha đam chứa nhiều khoáng chất và các vitamin E, C, K… giúp tạo độ ẩm cho da nhờ đó da dễ đàn hồi giảm nếp nhăn hiệu quả]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mun.jpg</image:loc>
+			<image:caption><![CDATA[ nha đam có tính kháng khuẩn, chống viêm vì vậy giúp bảo vệ da khỏi các tác nhân gây hại như vi khuẩn khiến da bị viêm nhiễm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/trang-da.jpg</image:loc>
+			<image:caption><![CDATA[mặt nạ nha đam giúp làm trắng da cũng như làm mờ các vết thâm nám sạm trên da. ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nha-dam-duong-am.jpg</image:loc>
+			<image:caption><![CDATA[Nha đam chứa nhiều khoáng chất và vitamin giúp cung cấp các dưỡng chất thiết yếu cho làn da và cơ thể]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nha-dam-co-tac-dung-gi-voi-lam-dep-da-mat-va-duong-toc-tac-dung-cua-nha-dam-5-1596159866-837-width600height375.jpg</image:loc>
+			<image:caption><![CDATA[nha đam giúp thúc đẩy tuần hoàn và lưu thông máu, đồng thời cung cấp các khoáng chất vitamin có lợi giúp kích thích mọc tóc thêm dày bóng mượt và tăng độ đàn hồi]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
