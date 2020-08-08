@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-08T10:22:14+00:00</lastmod>
+		<lastmod>2020-08-08T15:56:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -1669,6 +1669,61 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/Corpse-Pose.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/7-loai-sinh-to-cho-thuc-don-giam-can/</loc>
+		<lastmod>2020-08-08T15:31:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sinh-to-scaled.jpg</image:loc>
+			<image:title><![CDATA[Home and Family 7119 Final Photo Assets]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sinh-to-vani.jpg</image:loc>
+			<image:caption><![CDATA[Sinh tố vani giúp bạn cảm thấy no lâu hơn và hỗ trợ hiệu quả trong việc giảm cân]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sinh-to-da-socola.jpg</image:loc>
+			<image:caption><![CDATA[Sinh tố dâu socola vị thanh nhẹ dịu chứa đựng hàm lượng chất chống oxy hóa cao]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sinh-to-rau-1.jpg</image:loc>
+			<image:caption><![CDATA[Sinh tố rau xanh cung cấp một hàm lượng protein khi bạn cần nó nhất]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sinh-todau-viet-quat-1.jpeg</image:loc>
+			<image:caption><![CDATA[dâu tây, việt quất và rau xanh đủ để chứa các thành phần làm giảm buồn nôn và đau đầu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sinh-to-cu-cai-1.jpg</image:loc>
+			<image:caption><![CDATA[Củ cải làm giảm đường huyết và đóng vai trò thanh lọc cơ thể]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sinh-to-bo-chuoi-va-cai-xoan-4.jpg</image:loc>
+			<image:caption><![CDATA[chất xơ trong cải xoăn giúp cho hệ tiêu hóa khỏe mạnh và đều đặn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sinh-to-gung-dudu-1.jpg</image:loc>
+			<image:caption><![CDATA[Giàu chất xơ và đầy chất chống viêm omega-3]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/la-chanh-vi-thuoc-than-thanh-it-nguoi-biet/</loc>
+		<lastmod>2020-08-08T15:56:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/la-chanh.jpg</image:loc>
+			<image:title><![CDATA[la-chanh]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/chanh-1.jpg</image:loc>
+			<image:caption><![CDATA[Lá chanh rất giàu vitamin C]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mat-ngu.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/long-hair.jpg</image:loc>
+			<image:caption><![CDATA[Lá chanh dùng gội đầu giúp tóc nhanh dài và mượt]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
