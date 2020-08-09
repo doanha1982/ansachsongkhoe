@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-08T15:56:10+00:00</lastmod>
+		<lastmod>2020-08-09T03:03:55+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -1637,41 +1637,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/9-bai-tap-yoga-giup-ban-co-giac-ngu-ngon/</loc>
-		<lastmod>2020-08-08T10:22:14+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/yoga.jpg</image:loc>
-			<image:title><![CDATA[yoga]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tu-the-anh-hung.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/Child-Pose-Yoga.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/upward-facing-dog.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/calmel-pose-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/butterfly-pose.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/woman-in-supine-twist-yoga-pose.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/HowToDoBridgePose.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/knee-to-chest.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/Corpse-Pose.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/7-loai-sinh-to-cho-thuc-don-giam-can/</loc>
 		<lastmod>2020-08-08T15:31:47+00:00</lastmod>
 		<image:image>
@@ -1724,6 +1689,97 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/long-hair.jpg</image:loc>
 			<image:caption><![CDATA[Lá chanh dùng gội đầu giúp tóc nhanh dài và mượt]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/9-bai-tap-yoga-giup-ban-co-giac-ngu-ngon/</loc>
+		<lastmod>2020-08-09T02:18:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/yoga.jpg</image:loc>
+			<image:title><![CDATA[yoga]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tu-the-anh-hung.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Child-Pose-Yoga.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/upward-facing-dog.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/calmel-pose-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/butterfly-pose.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/woman-in-supine-twist-yoga-pose.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/HowToDoBridgePose.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/knee-to-chest.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Corpse-Pose.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/che-do-dinh-duong-khoa-hoc-cho-nguoi-tap-yoga/</loc>
+		<lastmod>2020-08-09T02:39:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/yoga-dinh-duong.jpg</image:loc>
+			<image:title><![CDATA[yoga-dinh-duong]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/chao-1.jpg</image:loc>
+			<image:caption><![CDATA[Cháo chứa hàm lượng chất xơ cao, nhưng lại có chỉ số đường huyết thấp]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/green-vegie.jpg</image:loc>
+			<image:caption><![CDATA[tất cả những loại rau củ có màu xanh lá đậm đều chứa các loại vitamin C, E và K, chất sắt, chất xơ, canxi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fresh-fruit.jpg</image:loc>
+			<image:caption><![CDATA[ các loại trái cây tươi còn chứa hàm lượng chất xơ cao, chất chống oxy hóa]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fresh-berries.jpg</image:loc>
+			<image:caption><![CDATA[các loại quả mọng chứa chất oxy hóa có khả năng chống lại các loại bệnh tật]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/khong-nen-ket-hop-mat-ong-voi-cac-thuc-pham-sau-de-tranh-gay-hai-suc-khoe.jpg</image:loc>
+			<image:caption><![CDATA[Đậu phụ được xem là thực phẩm lý tưởng của chất đạm thực vật bởi vì nó cung cấp 9 loại axit amin mà cơ thể chúng ta không thể tự sản sinh ra được]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bo-hat-1.jpg</image:loc>
+			<image:caption><![CDATA[bơ hạt chứa hàm lượng đạm rất cao và bao gồm cả chất béo tốt để giữ cho cơ thể bạn khỏe mạnh.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bot-cacao.jpg</image:loc>
+			<image:caption><![CDATA[bột cacao thô chứa chất chống oxy hóa để ngăn ngừa các loại bệnh, chất flavonoid giúp giảm nguy cơ mắc bệnh tim và magie giúp hỗ trợ sức khỏe cảm xúc]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/lemonade-glass-with-lemons-cutting-board-high-angle-view-white-plaster_176474-7386-1.jpg</image:loc>
+			<image:caption><![CDATA[một ly nước ấm với chanh hỗ trợ tiêu hóa và thanh lọc cơ thể]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cac-dau-hieu-som-canh-bao-benh-ung-thu-vu/</loc>
+		<lastmod>2020-08-09T03:03:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/breast-cancer.jpg</image:loc>
+			<image:title><![CDATA[breast-cancer]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/noi-u-hach-1.jpg</image:loc>
+			<image:caption><![CDATA[Có khối u ở gần vú hoặc nách là dấu hiệu phổ biến nhất ở những người bị ung thư vú]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vu-bi-do-1.jpg</image:loc>
+			<image:caption><![CDATA[Nếu ngực nóng, hay ửng đỏ (thậm chí có màu tím), sưng đau, nên tầm soát ung thư vú]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
