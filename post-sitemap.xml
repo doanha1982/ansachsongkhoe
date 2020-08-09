@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-09T03:03:55+00:00</lastmod>
+		<lastmod>2020-08-09T15:11:03+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -538,18 +538,6 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/woman-having-abdomen-massage-by-professional-osteopathy-therapist_1139-1123.jpg</image:loc>
 			<image:title><![CDATA[woman-having-abdomen-massage-by-professional-osteopathy-therapist_1139-1123]]></image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/giao-duc-gioi-tinh-cho-con-gai/</loc>
-		<lastmod>2020-08-02T14:22:11+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/nghi-luan-ve-van-de-giao-duc-gioi-tinh-voi-tuoi-vi-thanh-nien-hien-nay.jpg</image:loc>
-			<image:title><![CDATA[nghi-luan-ve-van-de-giao-duc-gioi-tinh-voi-tuoi-vi-thanh-nien-hien-nay]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/cach-giao-duc-gioi-tinh_resize.jpg</image:loc>
-			<image:caption><![CDATA[giáo dục giới tính càng sớm càng tốt song không được vội vã]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -1780,6 +1768,69 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/vu-bi-do-1.jpg</image:loc>
 			<image:caption><![CDATA[Nếu ngực nóng, hay ửng đỏ (thậm chí có màu tím), sưng đau, nên tầm soát ung thư vú]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/thong-bao-khan-bo-y-te-tim-nguoi-di-may-bay-vj770-va-nha-xe-ngoc-sang-vao-tp-hcm/</loc>
+		<lastmod>2020-08-09T14:33:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/thong-bao-khan-feature.jpg</image:loc>
+			<image:title><![CDATA[thong-bao-khan-feature]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/thong-bao-khan-271596980330.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/roi-loan-tieu-hoa-cach-xu-tri-va-phong-ngua/</loc>
+		<lastmod>2020-08-09T14:50:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/roi-loan-tieu-hoa.jpg</image:loc>
+			<image:title><![CDATA[roi-loan-tieu-hoa]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ngo-doc-thuc-pham-1.jpg</image:loc>
+			<image:caption><![CDATA[Nhiễm độc thức ăn do khuẩn Salmonella]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/day-hoi-1.jpg</image:loc>
+			<image:caption><![CDATA[táo bón hoặc tiêu chảy khiến người bệnh rất mệt mỏi và ảnh hưởng các sinh hoạt chung.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tieu-chay.jpg</image:loc>
+			<image:caption><![CDATA[Chứng tiêu chảy do nhiễm khuẩn E.Coli]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Shigella-CDC.png</image:loc>
+			<image:caption><![CDATA[trực khuẩn Shigella]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/giao-duc-gioi-tinh-cho-con-gai/</loc>
+		<lastmod>2020-08-09T14:52:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nghi-luan-ve-van-de-giao-duc-gioi-tinh-voi-tuoi-vi-thanh-nien-hien-nay.jpg</image:loc>
+			<image:title><![CDATA[nghi-luan-ve-van-de-giao-duc-gioi-tinh-voi-tuoi-vi-thanh-nien-hien-nay]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cach-giao-duc-gioi-tinh_resize.jpg</image:loc>
+			<image:caption><![CDATA[giáo dục giới tính càng sớm càng tốt song không được vội vã]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/roi-loan-gioi-tinh-anh-huong-the-chat-lau-dai/</loc>
+		<lastmod>2020-08-09T15:11:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/7679655_orig.jpg</image:loc>
+			<image:title><![CDATA[7679655_orig]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/roi-loan-gioi-tinh-1.jpg</image:loc>
+			<image:caption><![CDATA[Trẻ sớm có ham muốn sinh dục, cường dương, trường hợp bệnh xảy ra trong thời kỳ dậy thì thường có tăng huyết áp]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Nhn_bit_khi_ri_lon_gii_tinh-1.jpg</image:loc>
+			<image:caption><![CDATA[Nếu phát hiện bệnh sớm, điều trị đúng, kịp thời thì bệnh nhân vẫn phát triển sinh dục trở lại bình thường]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
