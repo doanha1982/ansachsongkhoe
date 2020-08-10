@@ -76,7 +76,16 @@
 
         });          
 
-
+        $('.covid-icon-open').click(function(){
+            $('.covid-collapse').slideDown('fast', function() {});
+            $('.covid-icon-close').show();
+            $(this).hide();
+        });
+        $('.covid-icon-close').click(function(){
+            $('.covid-collapse').slideUp('fast', function() {});
+            $('.covid-icon-open').show();
+            $(this).hide();
+        })
     });
 
 })(jQuery);

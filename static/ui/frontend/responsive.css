@@ -157,7 +157,11 @@
 	.bmi-form {width: 100%;float: none;}
 	.hot-tag-bar ul li {width: 100%;}
 	.container-recent-clips {margin: 2px;width: 49%;}
-	.container-recent-clips .thumbnail-wrap {width: 100%;text-align: center;}}
+	.container-recent-clips .thumbnail-wrap {width: 100%;text-align: center;}
+	.covid-collapse {display: none;}
+	.covid-icon-open {display: inline;}
+	.covid-icon-close {display: none;}
+	.hot-tag-bar h1 {font-size: 18px;}}
 @media only screen and (max-width: 479px) {.site-title {font-size: 22px;}
 	.container {padding-left: 2%;padding-right: 2%;}
 	#featured-content .featured-slide .entry-title a {font-size: 18px;}
@@ -187,7 +191,14 @@
 	.tool-block img {width: 80px;height: 80px;border-radius: 6px;float: left;}
 	.tool-block h5 {text-align: left;padding-left: 90px;}
 	.tool-desc {display: block;}
-	.feature-article .thumbnail-wrap {width: 50%;float: left;}
+	.feature-article .thumbnail-wrap {width: 100%;float: left;}
 	.feature-article .entry-header {overflow: unset;height: auto;padding-left: 52%;}
 	.container-feature-clips, .container-related-clips {width: 100%;}
-	.container-feature-clips {padding-right: 10px;padding-bottom: 15px;}}
+	.container-feature-clips {padding-right: 10px;padding-bottom: 15px;}
+	.covid-collapse {display: none;}
+	.covid-icon-open {display: inline;}
+	.covid-icon-close {display: none;}
+	.hot-tag-bar h1 {font-size: 18px;}
+	.hot-article {width: 100%;}
+	.hot-article .thumbnail-link {width: 45%;}
+	.hot-article .entry-header {display: block;}}
