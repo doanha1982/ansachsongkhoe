@@ -1,7 +1,8 @@
 @media only screen and (max-width: 1200px) {body {background: #fff;}
 	.header-ad {height: auto;}
 	.tool-block {max-width: 160px;}
-	.tool-block:first-child {margin-left: 0;}}
+	.tool-block:first-child {margin-left: 0;}
+	.container-feature-clips, .container-related-clips {width: 50%;}}
 @media only screen and (min-width: 1080px) and (max-width: 1200px) {.container {width: 1060px;}
 	.header-ad {width: 600px;margin-top: 22px;}
 	#featured-content {width: 460px;}
@@ -187,4 +188,6 @@
 	.tool-block h5 {text-align: left;padding-left: 90px;}
 	.tool-desc {display: block;}
 	.feature-article .thumbnail-wrap {width: 50%;float: left;}
-	.feature-article .entry-header {overflow: unset;height: auto;padding-left: 52%;}}
+	.feature-article .entry-header {overflow: unset;height: auto;padding-left: 52%;}
+	.container-feature-clips, .container-related-clips {width: 100%;}
+	.container-feature-clips {padding-right: 10px;padding-bottom: 15px;}}

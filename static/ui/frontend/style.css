@@ -6,6 +6,7 @@ nav ul {list-style: none;}
 blockquote, q {quotes: none;}
 blockquote:before, blockquote:after, q:before, q:after {content: "";content: none;}
 a {margin: 0;padding: 0;font-size: 100%;vertical-align: baseline;background: transparent;}
+a:hover {text-decoration: none;}
 ins {color: #333;text-decoration: none;}
 mark {background-color: #ff9;color: #333;font-style: italic;font-weight: bold;}
 del {text-decoration: line-through;}
@@ -20,6 +21,10 @@ figure > img {display: block;}
 img {height: auto;max-width: 100%;}
 img[class*="align"], img[class*="attachment-"] {height: auto;}
 embed, iframe, object {max-width: 100%;width: 100%;}
+::-webkit-scrollbar {width: 12px;}
+::-webkit-scrollbar-track {-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);-webkit-border-radius: 10px;border-radius: 10px;}
+::-webkit-scrollbar-thumb {-webkit-border-radius: 10px;border-radius: 10px;background: #6cf;-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.5);}
+::-webkit-scrollbar-thumb:window-inactive {background: #6cf;}
 .screen-reader-text {clip: rect(1px,1px,1px,1px);position: absolute !important;height: 1px;width: 1px;overflow: hidden;}
 .screen-reader-text:focus {background-color: #f1f1f1;border-radius: 3px;box-shadow: 0 0 2px 2px rgba(0,0,0,.6);clip: auto !important;color: #21759b;display: block;font-size: 14px;font-size: .875rem;font-weight: bold;height: auto;left: 5px;line-height: normal;padding: 15px 23px 14px;text-decoration: none;top: 5px;width: auto;z-index: 100000;}
 .page-content .wp-smiley, .entry-content .wp-smiley, .comment-content .wp-smiley {border: none;margin-bottom: 0;margin-top: 0;padding: 0;}
@@ -559,11 +564,28 @@ ul.bxslider {list-style: none;}
 .hentry:nth-of-type(odd) {padding-left: 5px;}
 .hentry:nth-of-type(even) {padding-right: 5px;}
 .content-block .hentry {min-height: 115px;}
+.content-block .thumbnail-link {float: left;display: block;width: 45%;margin-right: 15px;}
 .post-small .entry-header {min-height: 90px;}
-.container-recent-clips {display: block;margin: 5px;width: 32%;float: left;height: 228px;}
+.container-recent-clips {display: block;margin: 5px;width: 32%;float: left;}
 .container-recent-clips .thumbnail-wrap {float: left;border-radius: 8px;border: 1px solid #ddd;padding: 5px;}
 .entry-shares {width: 50%;height: 50px;}
 .box-gradient {border: 10px solid;border-image-slice: 1;border-width: 5px;padding: 10px;}
 .linear-gradient-1 {border-image-source: linear-gradient(to left,#f3042c,#0409f3,#16b22a,#eef30c);}
 .m-10 {margin: 10px;}
 .tool-desc {display: none;text-align: left;font-size: small;color: #000;padding-left: 90px;}
+.container-feature-clips {width: 500px;float: left;padding-left: 10px;}
+.clip-item {background-repeat: no-repeat;background-position: center;width: 100%;height: 250px;}
+.clip-play-button {cursor: pointer;display: block;width: 150px;height: 150px;margin: 0 auto;padding-top: 50px;}
+.container-clip .clip-play-button {cursor: pointer;display: block;width: 50px;height: 50px;margin: 0 auto;padding-top: 20px;}
+.container-clip .entry-header {display: flex;}
+.clip-play-button img {opacity: 55%;}
+.clip-play-button img:hover {opacity: 100%;}
+.container-related-clips {display: inline-block;width: 380px;height: 300px;overflow-y: scroll;padding-left: 10px;padding-right: 10px;}
+.content-block-clips {background-color: #004b79;}
+.content-block-clips .entry-title a, .content-block-clips .entry-title a:visited {color: #fff;font-weight: normal;}
+.container-feature-clips .entry-header {padding-left: 10px;padding-top: 5px;}
+.container-related-clips .entry-header {padding: 5px;display: block;padding-left: 125px;}
+.container-clip {display: inline-block;height: 115px;width: 100%;margin-bottom: 5px;}
+.container-clip .thumbnail-wrap {float: left;height: 90px;width: 120px;background-repeat: no-repeat;background-position: center;}
+.container-clip .thumbnail-link {width: 100%;}
+.container-clip .thumbnail-link img {width: 150px;height: 115px;}
