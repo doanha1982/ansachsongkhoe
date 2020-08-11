@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-09T15:11:03+00:00</lastmod>
+		<lastmod>2020-08-10T17:11:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -1831,6 +1831,59 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/Nhn_bit_khi_ri_lon_gii_tinh-1.jpg</image:loc>
 			<image:caption><![CDATA[Nếu phát hiện bệnh sớm, điều trị đúng, kịp thời thì bệnh nhân vẫn phát triển sinh dục trở lại bình thường]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/dolphin-skin-mot-trang-diem-moi/</loc>
+		<lastmod>2020-08-10T17:00:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/dolphinface-3ccb.jpg</image:loc>
+			<image:title><![CDATA[dolphinface-3ccb]]></image:title>
+			<image:caption><![CDATA[dolphin skin Xu hướng trang điểm mới]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/dolphin-skin-1.jpg</image:loc>
+			<image:caption><![CDATA[Dolphin Skin cũng là tên dòng sản phẩm mới của một hãng mỹ phẩm tại Anh do chuyên gia trang điểm Mary Phillips làm đại sứ.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/dolphin-skin-2.jpg</image:loc>
+			<image:caption><![CDATA[Style trang điểm "da cá heo" chú trọng bước highlight.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/8-cach-mix-do-cho-ngay-he/</loc>
+		<lastmod>2020-08-10T17:11:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mix-do-1-1.jpg</image:loc>
+			<image:caption><![CDATA[Cách mix đồ mùa hè: Váy midi + sandal đế thấp]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mix-do-2.jpg</image:loc>
+			<image:caption><![CDATA[Cách mix đồ mùa hè: Váy ngắn + sơ mi + sandal]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mix-do-3.jpg</image:loc>
+			<image:caption><![CDATA[Cách mix đồ mùa hè: Sơ mi + crop-top + quần short]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mix-do-4.jpg</image:loc>
+			<image:caption><![CDATA[Cách mix đồ mùa hè: Scarf top + quần jeans + giày sneaker]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mix-do-5-1.jpg</image:loc>
+			<image:caption><![CDATA[Cách mix đồ mùa hè: Crop-top + quần short vải]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mix-do-6-1.jpg</image:loc>
+			<image:caption><![CDATA[Cách mix đồ mùa hè: Crop-top + quần suông cạp cao]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mix-do-7.jpg</image:loc>
+			<image:caption><![CDATA[Cách mix đồ mùa hè: Tank top + chân váy xếp ly + giày sneaker]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mix-do-8.jpg</image:loc>
+			<image:caption><![CDATA[Cách mix đồ mùa hè: Tank top + sơ mi + quần jeans]]></image:caption>
 		</image:image>
 	</url>
 </urlset>

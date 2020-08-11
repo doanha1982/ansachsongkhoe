@@ -554,13 +554,14 @@ ul.bxslider {list-style: none;}
 #app-content {text-align: center;}
 .div-no-thumbnail {display: block;width: 150px;height: 150px;text-align: center;font-size: 30px;text-transform: uppercase;padding-top: 60px;font-weight: bold;}
 .home-no-thumbnail {display: block;width: 130px;height: 87px;text-align: center;font-size: 30px;text-transform: uppercase;font-weight: bold;}
-.hot-tag-bar {margin-top: 10px;display: block;position: relative;padding: 20px;text-align: center;background-color: #004b79;}
+.hot-tag-bar {margin-top: 10px;display: block;position: relative;padding: 14px 20px 0px 20px;min-height: 52px;text-align: center;background-color: #004b79;}
 .hot-tag-bar ul {list-style: none;display: inline-block;}
-.hot-tag-bar ul li {width: 50%;text-align: left;float: left;margin-bottom: 10px;min-height: 56px;padding-right: 5px;}
+.hot-tag-bar ul li {width: 50%;text-align: left;float: left;margin-bottom: 10px;padding-right: 5px;}
 .hot-tag-bar ul li a {color: #fff;cursor: pointer;}
 .hot-tag-bar ul li a:hover {color: red;text-decoration: none;}
 .hot-tag-bar ul li a span {width: 20px;display: inline-block;text-align: center;font-weight: bold;font-size: 20px;}
-.hot-tag-bar h1 {font-size: 26px;color: white;text-transform: uppercase;margin-bottom: 20px;}
+.hot-tag-bar h1 {font-size: 26px;color: white;text-transform: uppercase;padding-right: 65px;}
+.covid-collapse {margin-top: 15px;}
 .hentry:nth-of-type(odd) {padding-left: 5px;}
 .hentry:nth-of-type(even) {padding-right: 5px;}
 .content-block .hentry {height: 180px;overflow: hidden;}
@@ -591,7 +592,7 @@ ul.bxslider {list-style: none;}
 .container-clip .thumbnail-link img {width: 150px;height: 115px;}
 .covid-icon-open {display: none;}
 .covid-icon-close {display: inline;}
-.covid-icon {border: solid 1px #fff;background-color: #004b79;color: #fff;text-align: center;font-weight: bold;padding: 5px 10px;cursor: pointer;}
+.covid-icon {border: solid 1px #fff;background-color: #004b79;color: #fff;text-align: center;font-weight: bold;padding: 5px 10px;cursor: pointer;position: absolute;top: 7px;right: 7px;}
 .covid-icon:hover {color: red;}
 .hot-article {width: 33.33%;float: left;position: relative;display: block;min-height: 1px;padding: 10px;}
 .hot-article .thumbnail-link {float: left;display: block;width: 100%;margin-right: 15px;}
