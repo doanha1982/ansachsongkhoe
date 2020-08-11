@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-10T17:11:06+00:00</lastmod>
+		<lastmod>2020-08-11T04:44:25+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -57,14 +57,6 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/07/woman-standing-scale_53876-15132.jpg</image:loc>
 			<image:title><![CDATA[Woman standing on a scale]]></image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/tang-can/</loc>
-		<lastmod>2020-07-23T15:42:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/collage-before-after-loosing-weight_93267-1027.jpg</image:loc>
-			<image:title><![CDATA[collage-before-after-loosing-weight_93267-1027]]></image:title>
 		</image:image>
 	</url>
 	<url>
@@ -1138,27 +1130,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/cong-dung-than-ky-cua-nuoc-ep-ca-rot/</loc>
-		<lastmod>2020-08-05T09:34:47+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/carrot-juice-template_98292-7018.jpg</image:loc>
-			<image:title><![CDATA[carrot-juice-template_98292-7018]]></image:title>
-			<image:caption><![CDATA[nước ép cà rốt và nước ép củ cải đường là nguồn cung cấp vitamin]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/nuoc-ep-ca-rot-3.jpg</image:loc>
-			<image:caption><![CDATA[Vitamin A giúp bảo vệ bề mặt của mắt và giúp cải thiện thị lực đáng kể]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/nuoc-ep-ca-rot-2-1.jpg</image:loc>
-			<image:caption><![CDATA[Cà rốt có chứa nhiều kali, giúp duy trì mức cholesterol khỏe mạnh]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/nuoc-ep-ca-rot.jpg</image:loc>
-			<image:caption><![CDATA[Mỗi ngày sử dụng khoảng 50-100 ml nước ép cà rốt sẽ mang lại những lợi ích tốt nhất cho sức khỏe]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/9-thu-tuong-bo-di-nhung-co-the-tro-thanh-nhung-mon-an-ngon-than-thanh/</loc>
 		<lastmod>2020-08-05T09:57:35+00:00</lastmod>
 		<image:image>
@@ -1312,15 +1283,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/infographic-tinh-hinh-dich-ncovid-19/</loc>
-		<lastmod>2020-08-06T01:20:12+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733.jpg</image:loc>
-			<image:title><![CDATA[covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733]]></image:title>
-			<image:caption><![CDATA[COVID-19 Virus]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/nguoi-chet-do-no-o-lebanon-tang-len-135/</loc>
 		<lastmod>2020-08-06T01:28:56+00:00</lastmod>
 		<image:image>
@@ -1466,30 +1428,6 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/social-distancing-concept-1.jpg</image:loc>
 			<image:caption><![CDATA[Giữ khoảng cách an toàn, tránh tụ tập đông người]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/can-than-voi-dau-lung-duoi-vi-co-the-la-do-ung-thu-di-can/</loc>
-		<lastmod>2020-08-07T16:56:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/dau-lung-duoi1.jpg</image:loc>
-			<image:title><![CDATA[dau-lung-duoi1]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/Ly-do-luoi-luyen-tap-the-duc.jpeg</image:loc>
-			<image:caption><![CDATA[Nếu bạn sở hữu một lối sống ít vận động như vậy có thể gia tăng nguy cơ mắc bệnh đau thắt lưng mãn tính.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/hien-tuong-cang-co-chan-1-1.jpg</image:loc>
-			<image:caption><![CDATA[Đau lưng dưới là hiện tượng rất dễ gặp phải khi bạn bị căng cơ hoặc căng dây chằng do mang vác đồ vật nặng vượt quá khả năng chịu đựng của cơ thể]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/154852thoat-vi-dia-dem-tren-dot-xuong-song-1.jpg</image:loc>
-			<image:caption><![CDATA[bạn hoàn toàn có thể sống chung với thoát vị đĩa đệm nếu chúng không ảnh hưởng lớn tới sinh hoạt hàng ngày.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/ung-thu-tien-liet-tuyen.jpg</image:loc>
-			<image:caption><![CDATA[ung thư tuyến tiền liệt]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -1680,41 +1618,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/9-bai-tap-yoga-giup-ban-co-giac-ngu-ngon/</loc>
-		<lastmod>2020-08-09T02:18:14+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/yoga.jpg</image:loc>
-			<image:title><![CDATA[yoga]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tu-the-anh-hung.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/Child-Pose-Yoga.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/upward-facing-dog.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/calmel-pose-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/butterfly-pose.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/woman-in-supine-twist-yoga-pose.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/HowToDoBridgePose.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/knee-to-chest.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/Corpse-Pose.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/che-do-dinh-duong-khoa-hoc-cho-nguoi-tap-yoga/</loc>
 		<lastmod>2020-08-09T02:39:47+00:00</lastmod>
 		<image:image>
@@ -1755,22 +1658,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/cac-dau-hieu-som-canh-bao-benh-ung-thu-vu/</loc>
-		<lastmod>2020-08-09T03:03:55+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/breast-cancer.jpg</image:loc>
-			<image:title><![CDATA[breast-cancer]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/noi-u-hach-1.jpg</image:loc>
-			<image:caption><![CDATA[Có khối u ở gần vú hoặc nách là dấu hiệu phổ biến nhất ở những người bị ung thư vú]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/vu-bi-do-1.jpg</image:loc>
-			<image:caption><![CDATA[Nếu ngực nóng, hay ửng đỏ (thậm chí có màu tím), sưng đau, nên tầm soát ung thư vú]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/thong-bao-khan-bo-y-te-tim-nguoi-di-may-bay-vj770-va-nha-xe-ngoc-sang-vao-tp-hcm/</loc>
 		<lastmod>2020-08-09T14:33:19+00:00</lastmod>
 		<image:image>
@@ -1779,30 +1666,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/thong-bao-khan-271596980330.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/roi-loan-tieu-hoa-cach-xu-tri-va-phong-ngua/</loc>
-		<lastmod>2020-08-09T14:50:54+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/roi-loan-tieu-hoa.jpg</image:loc>
-			<image:title><![CDATA[roi-loan-tieu-hoa]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/ngo-doc-thuc-pham-1.jpg</image:loc>
-			<image:caption><![CDATA[Nhiễm độc thức ăn do khuẩn Salmonella]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/day-hoi-1.jpg</image:loc>
-			<image:caption><![CDATA[táo bón hoặc tiêu chảy khiến người bệnh rất mệt mỏi và ảnh hưởng các sinh hoạt chung.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tieu-chay.jpg</image:loc>
-			<image:caption><![CDATA[Chứng tiêu chảy do nhiễm khuẩn E.Coli]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/Shigella-CDC.png</image:loc>
-			<image:caption><![CDATA[trực khuẩn Shigella]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -1884,6 +1747,241 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/mix-do-8.jpg</image:loc>
 			<image:caption><![CDATA[Cách mix đồ mùa hè: Tank top + sơ mi + quần jeans]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/nhung-bieu-hien-canh-bao-ung-thu-giai-doan-som/</loc>
+		<lastmod>2020-08-11T03:33:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bieu-hien-canh-bao-ung-thu.jpeg</image:loc>
+			<image:title><![CDATA[bieu-hien-canh-bao-ung-thu]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/o-nong-1.jpg</image:loc>
+			<image:caption><![CDATA[Ợ nóng thường biểu hiện kèm cảm giác rát họng, đau tức ngực và là dấu hiệu đặc trưng khi dạ dày không khỏe]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ung-thu-da-day.jpg</image:loc>
+			<image:caption><![CDATA[Một trong những dấu hiệu của ung thư dạ dày, đại tràng phải lưu ý chính là hiện tượng tiêu chảy, màu sắc phân thay đổi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/kem-an-1.jpg</image:loc>
+			<image:caption><![CDATA[ung thư ruột kết, buồng trứng, dạ dày hay tuyến tụy.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ung-thu-ruot-ke-truc-trang-1.jpg</image:loc>
+			<image:caption><![CDATA[ung thư ở ruột kết và trực tràng có thể gây chảy máu vào trong ruột, lâu dẫn dẫn tới tình trạng thiếu máu.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/khong-nen-dung-toi-den-neu-ban-nam-trong-8-nhom-sau/</loc>
+		<lastmod>2020-08-11T03:46:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/toi-den.jpg</image:loc>
+			<image:caption><![CDATA[Tỏi đen chứa nhiều chất chống oxy hóa giúp ngăn chặn các gốc tự do gây hại cho cơ thể.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-gan.jpg</image:loc>
+			<image:caption><![CDATA[Ăn tỏi đen khi sức khỏe của gan yếu có thể gây ra tình trạng mệt mỏi, buồn nôn.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/than.png</image:loc>
+			<image:caption><![CDATA[Ăn tỏi đen khi có sử dung thuốc liên quan đến thận làm giảm hiệu quả của thuốc]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-di-ung-da.jpg</image:loc>
+			<image:caption><![CDATA[không nên cố tình sử dụng vì có thể gây ra tình trạng phát ban, ngứa ngáy, thậm chí là tăng huyết áp]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cong-thuc-lam-sam-bi-dao-thuc-uong-giai-doc-co-the-lam-dep-da/</loc>
+		<lastmod>2020-08-11T04:08:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nuoc-sam-bi-dao.jpg</image:loc>
+			<image:title><![CDATA[nuoc-sam-bi-dao]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nguyen-lieu-nau-sam-bi-dao.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nau-tra-bi-dao-voi-thuc-dia.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ban-co-the-cho-nuoc-sam-bi-vao-chai-de-bao-quan-1.jpg</image:loc>
+			<image:caption><![CDATA[chia nhỏ khẩu phần và uống nhiều lần trong ngày]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/4-loai-nuoc-ep-duoi-day-giup-ban-tang-cuong-suc-de-khang-phong-covid-19/</loc>
+		<lastmod>2020-08-11T04:22:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sinh-to-dau.jpg</image:loc>
+			<image:title><![CDATA[sinh-to-dau]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sinh-to-cam.jpg</image:loc>
+			<image:caption><![CDATA[uống nước ép cam sẽ giúp cơ thể bạn ngăn ngừa sự xâm nhập vi khuẩn vào cơ thể bạn, phòng ngừa những bệnh viêm đường hô hấp cấp vô cùng hiệu quả.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sinh-to-kiwi.jpg</image:loc>
+			<image:caption><![CDATA[Kiwi  vô cùng giàu chất dinh dưỡng chứa nhiều vitamin C giúp tăng cường sức đề kháng của cơ thể hiệu quả]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/an-dung-gio-vua-dam-bao-suc-khoe-lai-khong-lo-tang-can/</loc>
+		<lastmod>2020-08-11T04:31:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/an-dung-gio.jpg</image:loc>
+			<image:title><![CDATA[an-dung-gio]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bua-sang-1.jpg</image:loc>
+			<image:caption><![CDATA[Ăn sau 10h sẽ làm ảnh hưởng đến bữa trưa]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bua-trua-1.jpg</image:loc>
+			<image:caption><![CDATA[13h được cho là thời điểm tốt nhất để ăn trưa]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bua-toi.jpg</image:loc>
+			<image:caption><![CDATA[Thời gian lý tưởng để ăn bữa tối là từ 18h đến 21h]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/9-bai-tap-yoga-giup-ban-co-giac-ngu-ngon/</loc>
+		<lastmod>2020-08-11T04:34:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/yoga.jpg</image:loc>
+			<image:title><![CDATA[yoga]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tu-the-anh-hung.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Child-Pose-Yoga.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/upward-facing-dog.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/calmel-pose-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/butterfly-pose.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/woman-in-supine-twist-yoga-pose.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/HowToDoBridgePose.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/knee-to-chest.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Corpse-Pose.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/infographic-tinh-hinh-dich-ncovid-19/</loc>
+		<lastmod>2020-08-11T04:40:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733.jpg</image:loc>
+			<image:title><![CDATA[covid-coronavirus-real-3d-illustration-concept-describe-about-corona-virus-anatomy-type_17005-733]]></image:title>
+			<image:caption><![CDATA[COVID-19 Virus]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/roi-loan-tieu-hoa-cach-xu-tri-va-phong-ngua/</loc>
+		<lastmod>2020-08-11T04:41:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/roi-loan-tieu-hoa.jpg</image:loc>
+			<image:title><![CDATA[roi-loan-tieu-hoa]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ngo-doc-thuc-pham-1.jpg</image:loc>
+			<image:caption><![CDATA[Nhiễm độc thức ăn do khuẩn Salmonella]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/day-hoi-1.jpg</image:loc>
+			<image:caption><![CDATA[táo bón hoặc tiêu chảy khiến người bệnh rất mệt mỏi và ảnh hưởng các sinh hoạt chung.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tieu-chay.jpg</image:loc>
+			<image:caption><![CDATA[Chứng tiêu chảy do nhiễm khuẩn E.Coli]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Shigella-CDC.png</image:loc>
+			<image:caption><![CDATA[trực khuẩn Shigella]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/can-than-voi-dau-lung-duoi-vi-co-the-la-do-ung-thu-di-can/</loc>
+		<lastmod>2020-08-11T04:42:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/dau-lung-duoi1.jpg</image:loc>
+			<image:title><![CDATA[dau-lung-duoi1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Ly-do-luoi-luyen-tap-the-duc.jpeg</image:loc>
+			<image:caption><![CDATA[Nếu bạn sở hữu một lối sống ít vận động như vậy có thể gia tăng nguy cơ mắc bệnh đau thắt lưng mãn tính.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hien-tuong-cang-co-chan-1-1.jpg</image:loc>
+			<image:caption><![CDATA[Đau lưng dưới là hiện tượng rất dễ gặp phải khi bạn bị căng cơ hoặc căng dây chằng do mang vác đồ vật nặng vượt quá khả năng chịu đựng của cơ thể]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/154852thoat-vi-dia-dem-tren-dot-xuong-song-1.jpg</image:loc>
+			<image:caption><![CDATA[bạn hoàn toàn có thể sống chung với thoát vị đĩa đệm nếu chúng không ảnh hưởng lớn tới sinh hoạt hàng ngày.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ung-thu-tien-liet-tuyen.jpg</image:loc>
+			<image:caption><![CDATA[ung thư tuyến tiền liệt]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/tang-can/</loc>
+		<lastmod>2020-08-11T04:42:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/collage-before-after-loosing-weight_93267-1027.jpg</image:loc>
+			<image:title><![CDATA[collage-before-after-loosing-weight_93267-1027]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cac-dau-hieu-som-canh-bao-benh-ung-thu-vu/</loc>
+		<lastmod>2020-08-11T04:43:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/breast-cancer.jpg</image:loc>
+			<image:title><![CDATA[breast-cancer]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/noi-u-hach-1.jpg</image:loc>
+			<image:caption><![CDATA[Có khối u ở gần vú hoặc nách là dấu hiệu phổ biến nhất ở những người bị ung thư vú]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vu-bi-do-1.jpg</image:loc>
+			<image:caption><![CDATA[Nếu ngực nóng, hay ửng đỏ (thậm chí có màu tím), sưng đau, nên tầm soát ung thư vú]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cong-dung-than-ky-cua-nuoc-ep-ca-rot/</loc>
+		<lastmod>2020-08-11T04:44:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/carrot-juice-template_98292-7018.jpg</image:loc>
+			<image:title><![CDATA[carrot-juice-template_98292-7018]]></image:title>
+			<image:caption><![CDATA[nước ép cà rốt và nước ép củ cải đường là nguồn cung cấp vitamin]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nuoc-ep-ca-rot-3.jpg</image:loc>
+			<image:caption><![CDATA[Vitamin A giúp bảo vệ bề mặt của mắt và giúp cải thiện thị lực đáng kể]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nuoc-ep-ca-rot-2-1.jpg</image:loc>
+			<image:caption><![CDATA[Cà rốt có chứa nhiều kali, giúp duy trì mức cholesterol khỏe mạnh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nuoc-ep-ca-rot.jpg</image:loc>
+			<image:caption><![CDATA[Mỗi ngày sử dụng khoảng 50-100 ml nước ép cà rốt sẽ mang lại những lợi ích tốt nhất cho sức khỏe]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
