@@ -255,7 +255,7 @@ a:active, a:focus {outline: 0;}
 .entry-header .entry-category-icon a {color: #fff;display: inline-block;font-size: 12px;height: 22px;line-height: 22px;padding: 0 10px;text-transform: uppercase;}
 .entry-header .entry-category-icon a:hover {background-image: url("assets/img/overlay.png");background-repeat: repeat;}
 .page-title {font-size: 30px;margin-bottom: 25px;line-height: 1.2;}
-.single .entry-header {margin-bottom: 20px;}
+.single .entry-header {margin-bottom: 20px;margin-top: 15px;}
 .single .entry-header .entry-meta {float: left;margin: 0;}
 .single .entry-header .social-share-icons {float: left;border-left: 1px solid #e6e6e6;margin-left: 20px;padding-left: 20px;height: 24px;line-height: 24px;}
 .single .entry-header .social-share-icons img {width: 24px;height: auto;}
