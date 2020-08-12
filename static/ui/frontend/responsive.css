@@ -204,4 +204,5 @@
 	.hot-tag-bar h1 {font-size: 18px;}
 	.hot-article {width: 100%;}
 	.hot-article .thumbnail-link {width: 45%;}
-	.hot-article .entry-header {display: block;}}
+	.hot-article .entry-header {display: block;}
+	.taxonomy-description {height: 400px;overflow-y: auto;}}
