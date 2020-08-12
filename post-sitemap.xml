@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-11T16:35:33+00:00</lastmod>
+		<lastmod>2020-08-12T05:25:20+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -1130,50 +1130,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/9-thu-tuong-bo-di-nhung-co-the-tro-thanh-nhung-mon-an-ngon-than-thanh/</loc>
-		<lastmod>2020-08-05T09:57:35+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-trung.jpg</image:loc>
-			<image:caption><![CDATA[Vỏ trứng rất nhiều canxi]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-dua.jpeg</image:loc>
-			<image:caption><![CDATA[cùi dưa hấu rất giống với dưa chuột về hương vị và kết cấu, khiến chúng trở thành ứng cử viên hoàn hảo để làm món dưa chua ăn kèm]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/la-sup-lo.jpg</image:loc>
-			<image:caption><![CDATA[Lá súp lơ giàu khoáng chất, beta carotene, sắt và canxi]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/hoa-bi-ngoi-1.jpg</image:loc>
-			<image:caption><![CDATA[Hoa bí ngòi hoàn toàn có thể ăn được]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-cat-rot.jpeg</image:loc>
-			<image:caption><![CDATA[Đây có thể là nước xốt hoàn hảo cho món mì ống của bạn.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/bap-cai.jpeg</image:loc>
-			<image:caption><![CDATA[Trộn chúng với bông cải xanh, bí, hoặc khoai tây và nấu tất cả cho đến khi chúng đủ mềm để tạo ra một món xúp rau củ vô cùng đậm đà và giàu dinh dưỡng.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-dau-1.jpg</image:loc>
-			<image:caption><![CDATA[Thân và lá dâu  giàu chất chống oxy hóa, chống viêm, các yếu tố bảo vệ tim mạch và các đặc tính bảo vệ thần kinh]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-chuoi-1.jpg</image:loc>
-			<image:caption><![CDATA[vỏ chuối thực sự có lợi cho sức khỏe của bạn vì chúng rất giàu kali, magiê và canxi]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-chuoi-2.jpg</image:loc>
-			<image:caption><![CDATA[làm thịt xông khói vỏ chuối]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-hanh-tay-1.jpg</image:loc>
-			<image:caption><![CDATA[Vỏ hành tây có đặc tính giàu chất chống oxy hóa]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/da-day-khong-tot-an-it-3-loai-qua-uong-nhieu-3-loai-tra-va-lam-tot-3-viec/</loc>
 		<lastmod>2020-08-05T10:47:14+00:00</lastmod>
 		<image:image>
@@ -2116,6 +2072,414 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/cai-xoong-1.jpg</image:loc>
 			<image:caption><![CDATA[Cải xoong chứa isothiocyanate phenethyl, một loại dầu mù tạc, đặc biệt với khả năng chống ung thư của nó.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/canh-chua-mang-suon-va-cha-com-thit-bam/</loc>
+		<lastmod>2020-08-12T03:29:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/canh-chua-mang-suon-va-cha-com-thit-bam.jpg</image:loc>
+			<image:title><![CDATA[canh-chua-mang-suon-va-cha-com-thit-bam]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mang-tuoi-1.jpg</image:loc>
+			<image:caption><![CDATA[Luộc sơ 1 lần cho măng bớt chua]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/suon-non.jpg</image:loc>
+			<image:caption><![CDATA[Sườn non chặt miếng, trần sơ với nước sôi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/suon-mang.jpg</image:loc>
+			<image:caption><![CDATA[Xào sươn non và măng với dầu ăn, gia vị cho ngấm.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nau-suon-mang.jpg</image:loc>
+			<image:caption><![CDATA[Đun trên lửa nhỏ khoảng 20 phút.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/canh-cua-mang-suon-non-1.jpg</image:loc>
+			<image:caption><![CDATA[Thêm hành, mùi tàu tăng thêm hấp dẫn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cha-com-1.jpg</image:loc>
+			<image:caption><![CDATA[Trộn cốm với thịt lợn xay.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/thit-bam-1-1.jpg</image:loc>
+			<image:caption><![CDATA[Nặn thành viên nhỏ vừa ăn.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cha-com.jpg</image:loc>
+			<image:caption><![CDATA[Chiên chín vàng 2 mặt]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cha-com-thanh-qua.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bong-bi-tuoi-1.jpg</image:loc>
+			<image:caption><![CDATA[Bông bí bỏ nhụy, rửa sạch]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bong-bi-xao.jpg</image:loc>
+			<image:caption><![CDATA[Xào với tỏi vừa chín tới]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bong-bi-xao-toi.jpg</image:loc>
+			<image:caption><![CDATA[Bông bí xào tỏi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ca-muoi.jpg</image:loc>
+			<image:caption><![CDATA[Cà muối]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/dua-chuot.jpg</image:loc>
+			<image:caption><![CDATA[Dưa chuột]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/thanh-qua.jpg</image:loc>
+			<image:caption><![CDATA[Canh chua măng sườn non, chả cốm, bông bí xào tỏi và cà muối]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cach-lam-thach-vai-ngot-mat/</loc>
+		<lastmod>2020-08-12T04:15:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/13521631-1791843531049289-1123841135-n.jpg</image:loc>
+			<image:title><![CDATA[13521631-1791843531049289-1123841135-n]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/13515392-1791842871049355-917119523-n.jpg</image:loc>
+			<image:caption><![CDATA[Quả vải hay còn gọi là quả lệ chi là loại quả rất ngon ngọt, mọng nước]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/13515365-1791843287715980-1249343691-n.jpg</image:loc>
+			<image:caption><![CDATA[Quả vải rửa sạch, tách hạt]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/11419718-1653018188265158-860449037-n-1.jpg</image:loc>
+			<image:caption><![CDATA[Bỏ hạt, đun với nước 30 phút]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/13535828-1791843111049331-2002819251-n-1.jpg</image:loc>
+			<image:caption><![CDATA[đợi nước vải nguội thì từ từ cho bột rau câu vào nồi nước vải khuấy đều cho bột thạch tan.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/13521162-1791843234382652-639497923-n.jpg</image:loc>
+			<image:caption><![CDATA[Đổ nước thạch vải vào 1/3 khuôn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/13521111-1791843261049316-1265589700-n.jpg</image:loc>
+			<image:caption><![CDATA[Đổ nước thạch vải lên trên cho ngập phần thịt quả vải và đầy khuôn.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/13521119-1791843517715957-2123602175-n-1.jpg</image:loc>
+			<image:caption><![CDATA[phần hoa trang trí từ thịt quả vải trông đẹp mắt, vị ngọt thanh nhẹ và mùi thơm hấp dẫn]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/canh-rau-chum-ngay-thit-ba-chi-chien-gion-nom-dua-chuot-va-thach-vai/</loc>
+		<lastmod>2020-08-12T04:16:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1594283043-com-chieu-ngon.jpg</image:loc>
+			<image:title><![CDATA[1594283043-com-chieu-ngon]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1594283044-com-chieu-ngon-3-1.jpg</image:loc>
+			<image:caption><![CDATA[ướp thịt với bột ngũ vị hương, tỏi băm và gia vị, dầu hào]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1594283044-com-chieu-ngon-10-1.jpg</image:loc>
+			<image:caption><![CDATA[chiên chín vàng giòn các mặt]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1594283044-com-chieu-ngon-11-1.jpg</image:loc>
+			<image:caption><![CDATA[Cắt thịt thành các lát mỏng vừa]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1594283045-com-chieu-ngon-1.jpg</image:loc>
+			<image:caption><![CDATA[Dưa chuột, hành tây và cà rốt sơ chế sạch]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1594283045-com-chieu-ngon-4-1.jpg</image:loc>
+			<image:caption><![CDATA[Trộn đều dưa chuột, hành tây, giá sống và cà cốt với 1 thìa gia vị]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1594283045-com-chieu-ngon-2.jpg</image:loc>
+			<image:caption><![CDATA[Trứng đánh tan chiên với dầu ăn cho chín vàng và cắt thành sợi nhỏ.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1594283046-com-chieu-ngon-voi-4-mon-thanh-mat-1.jpg</image:loc>
+			<image:caption><![CDATA[Nước trộn gỏi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1594283046-com-chieu-ngon-voi-4-mon-thanh-mat-2-1.jpg</image:loc>
+			<image:caption><![CDATA[Trộn nước trộn gỏi vào cho nguyên liệu thấm đều nước mắm chua ngọt.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1594283046-com-chieu-ngon.jpg</image:loc>
+			<image:caption><![CDATA[thêm rau thơm thái rối vào trộn đều]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1594283047-com-chieu-ngon-3-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1594283047-com-chieu-ngon-5-1.jpg</image:loc>
+			<image:caption><![CDATA[Rau chùm ngây mua về tước lấy phần lá, bỏ cọng và rửa thật sạch, để ráo nước.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1594283047-com-chieu-ngon-8.jpg</image:loc>
+			<image:caption><![CDATA[Thịt xay ướp với 1 thìa hạt nêm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1594283048-com-chieu-ngon-7-1.jpg</image:loc>
+			<image:caption><![CDATA[Nặn thịt xay thành các viên thịt băm, thả vào nước sôi cho thịt viên chín]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1594283048-com-chieu-ngon-6-1.jpg</image:loc>
+			<image:caption><![CDATA[Nêm nếm lại cho canh vừa miệng]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1594283048-com-chieu-ngon-1.jpg</image:loc>
+			<image:caption><![CDATA[Canh rau chùm ngây]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1594283048-com-chieu-ngon-2.jpg</image:loc>
+			<image:caption><![CDATA[Thạch vải]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/10-mon-an-ngon-phai-thu-it-nhat-mot-lan-khi-den-hue/</loc>
+		<lastmod>2020-08-12T04:48:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/banh-beo.jpg</image:loc>
+			<image:title><![CDATA[banh-beo]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bun-bo-hue-scaled.jpg</image:loc>
+			<image:caption><![CDATA[Bún Bò Huế]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/banh-bot-loc-scaled.jpeg</image:loc>
+			<image:caption><![CDATA[Bánh bột lọc]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/banh-beo.jpg</image:loc>
+			<image:caption><![CDATA[Bánh bèo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/banh-nam-scaled.jpeg</image:loc>
+			<image:caption><![CDATA[Bánh Nậm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/com-hen-scaled.jpeg</image:loc>
+			<image:caption><![CDATA[Cơm hến và các món từ hến]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hen-xuc-banh-da-scaled.jpeg</image:loc>
+			<image:caption><![CDATA[hến xúc bánh đa]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/che-bot-loc-scaled.jpeg</image:loc>
+			<image:caption><![CDATA[Chè Huế]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bun-chay-scaled.jpeg</image:loc>
+			<image:caption><![CDATA[Bún chay]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/trung-vit-lon-tron-scaled.jpeg</image:loc>
+			<image:caption><![CDATA[Trứng vịt lộn trộn]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/muc-hap-sa-trung-duc-thit-bam-canh-rau-ngot-va-ca-phao-muoi-soi/</loc>
+		<lastmod>2020-08-12T04:51:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1592368747-com-ngon-3-logo.jpg</image:loc>
+			<image:title><![CDATA[1592368747-com-ngon-3-logo]]></image:title>
+			<image:caption><![CDATA[Thực đơn 4 món: mực hấp sả, trứng đúc thịt, canh rau ngót và cà muối xổi.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1592368747-com-chieu-ngon-3.jpg</image:loc>
+			<image:caption><![CDATA[Mực sơ chế sạch, tách bỏ túi mực và ruột mực, để thật ráo nước.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1592368747-com-chieu-ngon-4.jpg</image:loc>
+			<image:caption><![CDATA[Đập dập xả]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1592368748-com-chieu-ngon-10.jpg</image:loc>
+			<image:caption><![CDATA[hấp cách thủy trong khoảng 10 phút]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1592368748-com-chieu-ngon-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1592368748-com-chieu-ngon-5-1.jpg</image:loc>
+			<image:caption><![CDATA[Thịt heo xay, hành hoa thái nhỏ, 1 thìa gia vị và đập 4 quả trứng gà vào bát tô, đánh tan đều hỗn hợp trứng thịt băm.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1592368749-com-chieu-ngon-7.jpg</image:loc>
+			<image:caption><![CDATA[Cho chảo dầu nóng già, cho hỗn hợp trứng thịt băm đã chuẩn bị ở trên vào, dàn đều trên chảo và rán chín vàng.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1592368749-com-chieu-ngon-9.jpg</image:loc>
+			<image:caption><![CDATA[Lật miếng trứng để rán vàng đều 2 mặt.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1592368749-com-chieu-ngon-2.jpg</image:loc>
+			<image:caption><![CDATA[Cho trứng rán thịt băm ra đĩa, cắt miếng vừa ăn và thường thức cùng cơm trắng sẽ rất ngon miệng.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1592368750-com-chieu-ngon-11.jpg</image:loc>
+			<image:caption><![CDATA[Canh rau ngót có thể nấu cùng với các loại nước dùng gà, xương lợn hoặc nấu cùng nõn tôm, thịt bằm đều rất thơm ngon.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1592368750-com-chieu-ngon-8.jpg</image:loc>
+			<image:caption><![CDATA[Cà pháo cắt bỏ tai, bổ quả cà thành 2-3 miếng và ngâm cà trong nước muối loãng cho cà ra hết nhựa thâm.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1592368750-com-chieu-ngon-12.jpg</image:loc>
+			<image:caption><![CDATA[Rửa lại cà với nước đun sôi để nguội cho sạch, bóp cà với 1 thìa muối hạt, để khoảng 10 phút cho cà ngấm muối và vắt bỏ nước tiết ra từ cà]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1592368751-com-chieu-ngon-13.jpg</image:loc>
+			<image:caption><![CDATA[Trộn cà pháo với tỏi bóc vỏ đập dập, dấm, đường, ớt và nước mắm sao cho vừa miệng. Để cà ngấm gia vị ít nhất 20 phút.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/mon-chay-giam-can-khong-co-thit-van-ngon-tuyet-cho-ca-gia-dinh/</loc>
+		<lastmod>2020-08-12T05:02:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1596876901-bafe2f1421aa32db38a306b2b7271f2f.jpg</image:loc>
+			<image:title><![CDATA[1596876901-bafe2f1421aa32db38a306b2b7271f2f]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1596876900-cd4ef60709fb1435cc112d7967a26875.jpg</image:loc>
+			<image:caption><![CDATA[Cà tím rửa sạch thái cắt khúc sau đó bổ đôi.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1596876900-f7cae4b8f4cf109a11f1f60c4f3b8de7.jpg</image:loc>
+			<image:caption><![CDATA[Tỏi gừng băm nhỏ, hành lá thái nhỏ. Cho nước tương, giấm đường vào bát với chút nước rồi hòa tan.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1596876900-fe98973b823467ab05fe7502f6e56489.jpg</image:loc>
+			<image:caption><![CDATA[Đun nóng chút dầu ăn trong chảo, đổ tỏi gừng vào xào thơm sau đó đổ nước xốt vừa pha vào, thêm hành lá thái nhỏ vào đun sôi rồi tắt bếp.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1596876901-9cb0efc830adf335dae93e62380bb64b.jpg</image:loc>
+			<image:caption><![CDATA[Sau khi cà tím nguội bớt thì xé cà thành từng dải, xếp ra đĩa sau đó đổ nước xốt đã nấu lên trên là xong.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/1596876901-bafe2f1421aa32db38a306b2b7271f2f.jpg</image:loc>
+			<image:caption><![CDATA[Cà tím hấp làm theo cách trên đây vừa chua chua ngọt ngọt]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/doc-la-mon-canh-thanh-nhiet-va-giau-dinh-duong-tu-vo-dua-hau/</loc>
+		<lastmod>2020-08-12T05:12:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-8-1595905615-899.jpeg</image:loc>
+			<image:title><![CDATA[bat-canh-thanh-nhiet-8-1595905615-899]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/an-dua-hau-dung-vut-vo-them-vai-nguyen-lieu-se-co-ngay-bat-canh-thanh-nhiet-2-1595905560-483-width935height624.jpeg</image:loc>
+			<image:caption><![CDATA[Dưa hấu gọt vỏ lớp vỏ màu xanh đậm, chỉ lấy phần vỏ trắng bên trong.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-3-1595905569-994.jpeg</image:loc>
+			<image:caption><![CDATA[Cắt thành từng miếng nhỏ, rửa sạch với nước lạnh.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-4-1595905582-586.jpeg</image:loc>
+			<image:caption><![CDATA[Rửa sạch rồi ngâm xương heo trong nước khoảng 15 phút rồi cho vào nồi nấu, thêm gừng, rượu nấu ăn, đun sôi ở nhiệt độ cao trong 2 phút, vớt bỏ bọt.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-5-1595905589-61.jpeg</image:loc>
+			<image:caption><![CDATA[Táo cắt miếng nhỏ, thêm gừng, xương heo đã chần vào nồi, đổ một lượng nước thích hợp, sau khi đun sôi thì vặn lửa nhỏ nấu trong khoảng 40 phút.
+]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-7-1595905603-907.jpeg</image:loc>
+			<image:caption><![CDATA[Tiếp tục cho vỏ dưa hấu vào, đun tiếp trong 30 phút. Vỏ dưa hấu chín mềm nhưng không nát, có mùi thơm, nêm nếm lại gia vị rồi rắc hành lá là xong.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-8-1595905615-899.jpeg</image:loc>
+			<image:caption><![CDATA[Thành phẩm.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/9-thu-tuong-bo-di-nhung-co-the-tro-thanh-nhung-mon-an-ngon-than-thanh/</loc>
+		<lastmod>2020-08-12T05:15:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-trung.jpg</image:loc>
+			<image:caption><![CDATA[Vỏ trứng rất nhiều canxi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-dua.jpeg</image:loc>
+			<image:caption><![CDATA[cùi dưa hấu rất giống với dưa chuột về hương vị và kết cấu, khiến chúng trở thành ứng cử viên hoàn hảo để làm món dưa chua ăn kèm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-8-1595905615-899.jpeg</image:loc>
+			<image:caption><![CDATA[Canh dưa giải nhiệt]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/la-sup-lo.jpg</image:loc>
+			<image:caption><![CDATA[Lá súp lơ giàu khoáng chất, beta carotene, sắt và canxi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hoa-bi-ngoi-1.jpg</image:loc>
+			<image:caption><![CDATA[Hoa bí ngòi hoàn toàn có thể ăn được]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-cat-rot.jpeg</image:loc>
+			<image:caption><![CDATA[Đây có thể là nước xốt hoàn hảo cho món mì ống của bạn.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bap-cai.jpeg</image:loc>
+			<image:caption><![CDATA[Trộn chúng với bông cải xanh, bí, hoặc khoai tây và nấu tất cả cho đến khi chúng đủ mềm để tạo ra một món xúp rau củ vô cùng đậm đà và giàu dinh dưỡng.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-dau-1.jpg</image:loc>
+			<image:caption><![CDATA[Thân và lá dâu  giàu chất chống oxy hóa, chống viêm, các yếu tố bảo vệ tim mạch và các đặc tính bảo vệ thần kinh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-chuoi-1.jpg</image:loc>
+			<image:caption><![CDATA[vỏ chuối thực sự có lợi cho sức khỏe của bạn vì chúng rất giàu kali, magiê và canxi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-chuoi-2.jpg</image:loc>
+			<image:caption><![CDATA[làm thịt xông khói vỏ chuối]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-hanh-tay-1.jpg</image:loc>
+			<image:caption><![CDATA[Vỏ hành tây có đặc tính giàu chất chống oxy hóa]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/mien-tron-chay-cho-bua-trua-vua-ngon-ma-giam-can-hieu-qua/</loc>
+		<lastmod>2020-08-12T05:25:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mien-tron.jpeg</image:loc>
+			<image:title><![CDATA[mien-tron]]></image:title>
+			<image:caption><![CDATA[miến trộn giảm cân hiệu quả]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mine-tron-thanh-phan.jpeg</image:loc>
+			<image:caption><![CDATA[Nguyên liệu cho món miến trộn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/so-che-mien-1.jpeg</image:loc>
+			<image:caption><![CDATA[Sơ chế nguyên liệu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/buoc2-1.jpeg</image:loc>
+			<image:caption><![CDATA[Bước 6: Lần lượt xếp các loại nấm và rau lên mặt, rắc thêm đậu phộng rang lên để tăng hương vị.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mien-tron-thanh-qua.jpg</image:loc>
+			<image:caption><![CDATA[Khi ăn trộn đều và chấm kèm nước tương.]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
