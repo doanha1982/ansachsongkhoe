@@ -180,7 +180,7 @@
 	.feature-article {float: none;width: 100%;height: auto;display: inline-block;}
 	.feature-container {margin: auto;}
 	.feature_thumb {width: 100%;height: auto;}
-	.container-recent-posts .thumbnail-wrap {float: none;border-radius: 0;border: none;padding: 5px;}
+	.container-recent-posts .thumbnail-wrap {float: none;border-radius: 5px;padding: 5px;}
 	.container-recent-posts .entry-header {padding-left: 0px;}
 	.bmi-form {width: 100%;float: none;}
 	.content-block .section-heading h3 {font-size: 16px;}
@@ -205,4 +205,7 @@
 	.hot-article {width: 100%;}
 	.hot-article .thumbnail-link {width: 45%;}
 	.hot-article .entry-header {display: block;}
-	.taxonomy-description {height: 400px;overflow-y: auto;}}
+	.taxonomy-description {height: 400px;width: 100%;overflow-y: auto;}
+	#same-cat-posts .thumbnail-link {width: 100px;}
+	.container-recent-posts .entry-header {margin-top: unset;}
+	.container-recent-posts .entry-header .entry-meta {margin-bottom: unset;}}

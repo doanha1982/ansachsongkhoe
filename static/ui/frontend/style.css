@@ -230,7 +230,7 @@ a:active, a:focus {outline: 0;}
 .content-loop {margin-bottom: -25px;}
 .content-loop .hentry {border-bottom: 1px solid #e9e9e9;width: 100%;margin-bottom: 25px;padding-bottom: 25px;position: relative;}
 .content-loop .hentry:last-child {border-bottom: none;}
-.content-loop .thumbnail-link {float: left;display: block;width: 300px;margin: 0 20px 0 0;position: relative;line-height: .5;text-align: center;}
+.content-loop .thumbnail-link {float: left;display: block;margin: 0 20px 0 0;position: relative;line-height: .5;text-align: center;}
 .content-loop .thumbnail-link img {width: 100%;}
 .content-loop .entry-header {display: table;}
 .content-loop .entry-title {font-size: 24px;line-height: 1.3;margin-bottom: 12px;}
@@ -247,7 +247,7 @@ a:active, a:focus {outline: 0;}
 .entry-meta .entry-comment:before {background-color: #ccc;border-radius: 2px;color: #ccc;content: " ";display: inline-block;width: 4px;height: 4px;margin: -2px 9px 0 8px;vertical-align: middle;}
 .entry-meta .entry-comment a, .entry-meta .entry-comment a:visited {color: #aaa;}
 .pagination {border-top: 1px solid #e9e9e9;margin: 0 0 25px 0;padding-top: 25px;width: 100%;text-align: center;text-transform: uppercase;}
-.pagination .page-numbers {background-color: #f0f0f0;color: #333;display: inline-block;font-size: 16px;font-weight: bold;height: 40px;line-height: 40px;padding: 0 15px;}
+.pagination .page-numbers {background-color: #f0f0f0;color: #333;display: inline-block;font-size: 16px;font-weight: bold;height: 40px;line-height: 40px;padding: 0 15px;margin: 5px;}
 .pagination .page-numbers:hover {background-color: #e9e9e9;text-decoration: none;}
 .pagination .prev {float: left;}
 .pagination .next {float: right;}
@@ -540,7 +540,7 @@ ul.bxslider {list-style: none;}
 .same-cat-posts {margin-top: 15px;}
 .container-recent-posts {display: inline-block;margin: 5px 0;}
 .container-recent-posts .thumbnail-wrap {float: left;border-radius: 8px;border: 1px solid #ddd;padding: 5px;}
-.container-recent-posts .entry-header {padding-left: 175px;}
+.container-recent-posts .entry-header {padding-left: 175px;margin-top: unset;}
 .container-recent-posts .entry-meta {float: none !important;}
 .tool-container {display: inline-block;}
 .tool-container:first-child {margin-left: 20px;}
