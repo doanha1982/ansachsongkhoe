@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-15T07:43:24+00:00</lastmod>
+		<lastmod>2020-08-15T10:52:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -219,10 +219,6 @@
 	<url>
 		<loc>https://yeusong.com/28-07-2020-them-7-ca-mac-covid-19-tai-quang-nam-da-nang/</loc>
 		<lastmod>2020-07-31T01:49:17+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/66-don-vi-duoc-xet-nghiem-covid-19/</loc>
-		<lastmod>2020-07-31T01:49:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/da-nang-cach-ly-xa-hoi/</loc>
@@ -1730,26 +1726,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/khong-nen-dung-toi-den-neu-ban-nam-trong-8-nhom-sau/</loc>
-		<lastmod>2020-08-11T03:46:11+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/toi-den.jpg</image:loc>
-			<image:caption><![CDATA[Tỏi đen chứa nhiều chất chống oxy hóa giúp ngăn chặn các gốc tự do gây hại cho cơ thể.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-gan.jpg</image:loc>
-			<image:caption><![CDATA[Ăn tỏi đen khi sức khỏe của gan yếu có thể gây ra tình trạng mệt mỏi, buồn nôn.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/than.png</image:loc>
-			<image:caption><![CDATA[Ăn tỏi đen khi có sử dung thuốc liên quan đến thận làm giảm hiệu quả của thuốc]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-di-ung-da.jpg</image:loc>
-			<image:caption><![CDATA[không nên cố tình sử dụng vì có thể gây ra tình trạng phát ban, ngứa ngáy, thậm chí là tăng huyết áp]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/cong-thuc-lam-sam-bi-dao-thuc-uong-giai-doc-co-the-lam-dep-da/</loc>
 		<lastmod>2020-08-11T04:08:46+00:00</lastmod>
 		<image:image>
@@ -1765,22 +1741,6 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/ban-co-the-cho-nuoc-sam-bi-vao-chai-de-bao-quan-1.jpg</image:loc>
 			<image:caption><![CDATA[chia nhỏ khẩu phần và uống nhiều lần trong ngày]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/4-loai-nuoc-ep-duoi-day-giup-ban-tang-cuong-suc-de-khang-phong-covid-19/</loc>
-		<lastmod>2020-08-11T04:22:32+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/sinh-to-dau.jpg</image:loc>
-			<image:title><![CDATA[sinh-to-dau]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/sinh-to-cam.jpg</image:loc>
-			<image:caption><![CDATA[uống nước ép cam sẽ giúp cơ thể bạn ngăn ngừa sự xâm nhập vi khuẩn vào cơ thể bạn, phòng ngừa những bệnh viêm đường hô hấp cấp vô cùng hiệu quả.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/sinh-to-kiwi.jpg</image:loc>
-			<image:caption><![CDATA[Kiwi  vô cùng giàu chất dinh dưỡng chứa nhiều vitamin C giúp tăng cường sức đề kháng của cơ thể hiệu quả]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -1953,125 +1913,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/ta-tey-2-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/que-than-duoc-day-lui-benh-dai-thao-duong/</loc>
-		<lastmod>2020-08-11T15:50:58+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/5-nhom-benh-tieu-duong.jpg</image:loc>
-			<image:title><![CDATA[5-nhom-benh-tieu-duong]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/que.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tinh-trang-dai-thao-duong.jpg</image:loc>
-			<image:caption><![CDATA[Theo một nghiên cứu thực hiện tại Bệnh viện Nội tiết Trung ương số người có sẵn để chi trả viện phí chỉ có 27,3%; phải bán đồ vật có giá trị trong gia đình để đi nằm viện là 21,2%; phải đi vay mượn để trả tiền điều trị là 51,5%.]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/uong-qua-nhieu-nuoc-co-the-dan-toi-cac-bien-chung-nguy-hiem-khong-ngo/</loc>
-		<lastmod>2020-08-11T16:07:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/uong-nuoc-1.jpg</image:loc>
-			<image:title><![CDATA[uong-nuoc]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/mang-theo-chai.jpg</image:loc>
-			<image:caption><![CDATA[Việc uống nước thường xuyên có thể làm giảm lượng canxi trong máu]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/uong-khi-khong-khat.jpg</image:loc>
-			<image:caption><![CDATA[Bạn càng khát, thì cơ thể cần bổ sung nước nhiều hơn.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/toilet-1.jpg</image:loc>
-			<image:caption><![CDATA[Nước tiểu trong suốt có thể là dấu hiệu bạn đang uống quá nhiều nước]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tieu-dem.jpg</image:loc>
-			<image:caption><![CDATA[Nếu bạn đi tiểu nhiều hơn 10 lần/ngày, bạn có thể đang dung nạp hơn mức cơ thể cần]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/buon-non.jpg</image:loc>
-			<image:caption><![CDATA[Khi  thận không thể xử lý hết chất lỏng thừa và bắt đầu tích tụ trong cơ thể. Điều này gây ra các triệu chứng như nôn mửa và tiêu chảy.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/dau-dau.jpg</image:loc>
-			<image:caption><![CDATA[Đau đầu là dấu hiệu cho thấy cơ thể thừa nước hoặc mất nước]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/phu-tay-moi.jpg</image:loc>
-			<image:caption><![CDATA[Những người uống quá nhiều có thể tăng cân đột biến, do nước tích trong mạch máu]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/chuot-rut.jpg</image:loc>
-			<image:caption><![CDATA[Khi bạn uống quá nhiều nước, nồng độ chất điện giải trong cơ thể giảm]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/met-moi.jpg</image:loc>
-			<image:caption><![CDATA[Thận chịu trách nhiệm lọc nước khi bạn uống và đảm bảo nồng độ chất lỏng trong mạch máu luôn cân bằng]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/thuc-pham-dau-bang-chong-ung-thu-co-tu-cung-chi-em-nao-cung-can-biet/</loc>
-		<lastmod>2020-08-11T16:35:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/ung-thu-co-tu-cung.jpg</image:loc>
-			<image:title><![CDATA[ung-thu-co-tu-cung]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/banh-mi-nau.jpg</image:loc>
-			<image:caption><![CDATA[Bánh chứa nhiều vitamin B6 có tác dụng tăng cường sức khỏe của hệ thần kinh, điều chỉnh hệ thống miễn dịch và duy trì sự trao đổi chất trong cơ thể.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/rau-xa-lach.jpg</image:loc>
-			<image:caption><![CDATA[Rau xà lách được xem như một “chất đề kháng” hữu hiệu giúp bảo vệ cơ thể khỏi các tế bào ung thư cổ tử cung.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/bong-cai-xanh.jpg</image:loc>
-			<image:caption><![CDATA[Bông cải xanh (broccoli) cũng là một siêu thực phẩm trong cuộc chiến chống ung thư cổ tử cung]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/sua-dau-nanh.jpg</image:loc>
-			<image:caption><![CDATA[Hoạt chất trong sữa đậu nành có thể ức chế sự phát triển của ung thư cổ tử cung, giảm phân chia tế bào ung thư, đồng thời có ngăn chặn sự di căn của khối u hiệu quả.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/du-du.jpg</image:loc>
-			<image:caption><![CDATA[chỉ cần ăn một quả đu đủ mỗi tuần đã có thể làm giảm nguy cơ nhiễm bệnh ung thư cổ tử cung ở phụ nữ.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/ca-rot-1.jpg</image:loc>
-			<image:caption><![CDATA[Ngoài beta carotene, cà rốt còn chứa falcarinol – một hợp chất tự nhiên có tác dụng ức chế sự phát triển của khối u.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-xanh-co-chua-duoc-dai-thao-duong_28951572.jpg</image:loc>
-			<image:caption><![CDATA[Trong lá trà xanh có chứa các chất chống ôxy hoá như polyphenol]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/cooky-article-cover-b5147-1.jpg</image:loc>
-			<image:caption><![CDATA[Các loại đậu, hạt luôn dồi dào hoạt chất phytochemicals]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-mam-xoi.jpg</image:loc>
-			<image:caption><![CDATA[Quả mâm xôi là một trong những thực phẩm tốt nhất có thể ngăn ngừa ung thư cổ tử cung]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/ca-hoi.jpg</image:loc>
-			<image:caption><![CDATA[Cá hồi là một thực phẩm tuyệt vời cho việc bảo vệ chống lại ung thư cổ tử cung và các loại ung thư khác]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/chuoi.jpg</image:loc>
-			<image:caption><![CDATA[chuối giàu chất chống ôxy hóa fenolics, giúp chống ung thư.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/nghe-vang-1-1.jpg</image:loc>
-			<image:caption><![CDATA[nghệ có chứa các hợp chất chống oxy hóa mạnh mẽ và có thể ngăn chặn sự hình thành nitrosamine và ức chế sản xuất aflatoxin - hai chất có nguy cơ gây ung thư ở người]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/cai-xoong-1.jpg</image:loc>
-			<image:caption><![CDATA[Cải xoong chứa isothiocyanate phenethyl, một loại dầu mù tạc, đặc biệt với khả năng chống ung thư của nó.]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -2458,14 +2299,6 @@
 		<lastmod>2020-08-12T10:39:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/nguoi-trung-quoc-nhap-canh-trai-phep-dau-tien-nhiem-covid-19/</loc>
-		<lastmod>2020-08-14T13:37:58+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/bien-phong.jpg</image:loc>
-			<image:title><![CDATA[bien-phong]]></image:title>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/ve-sinh-cho-be-4-sai-lam-me-viet-nen-tranh/</loc>
 		<lastmod>2020-08-15T04:11:40+00:00</lastmod>
 		<image:image>
@@ -2647,6 +2480,200 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-8-1595905615-899.jpeg</image:loc>
 			<image:caption><![CDATA[Thành phẩm.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/le-truy-dieu-va-an-tang-nguyen-tong-bi-thu-le-kha-phieu/</loc>
+		<lastmod>2020-08-15T08:38:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/lkp.jpg</image:loc>
+			<image:title><![CDATA[lkp]]></image:title>
+			<image:caption><![CDATA[Lễ truy điệu và an táng nguyên Tổng bí thư Lê Khả Phiêu]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/thuc-pham-dau-bang-chong-ung-thu-co-tu-cung-chi-em-nao-cung-can-biet/</loc>
+		<lastmod>2020-08-15T08:41:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ung-thu-co-tu-cung.jpg</image:loc>
+			<image:title><![CDATA[ung-thu-co-tu-cung]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/banh-mi-nau.jpg</image:loc>
+			<image:caption><![CDATA[Bánh chứa nhiều vitamin B6 có tác dụng tăng cường sức khỏe của hệ thần kinh, điều chỉnh hệ thống miễn dịch và duy trì sự trao đổi chất trong cơ thể.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/rau-xa-lach.jpg</image:loc>
+			<image:caption><![CDATA[Rau xà lách được xem như một “chất đề kháng” hữu hiệu giúp bảo vệ cơ thể khỏi các tế bào ung thư cổ tử cung.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bong-cai-xanh.jpg</image:loc>
+			<image:caption><![CDATA[Bông cải xanh (broccoli) cũng là một siêu thực phẩm trong cuộc chiến chống ung thư cổ tử cung]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sua-dau-nanh.jpg</image:loc>
+			<image:caption><![CDATA[Hoạt chất trong sữa đậu nành có thể ức chế sự phát triển của ung thư cổ tử cung, giảm phân chia tế bào ung thư, đồng thời có ngăn chặn sự di căn của khối u hiệu quả.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/du-du.jpg</image:loc>
+			<image:caption><![CDATA[chỉ cần ăn một quả đu đủ mỗi tuần đã có thể làm giảm nguy cơ nhiễm bệnh ung thư cổ tử cung ở phụ nữ.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ca-rot-1.jpg</image:loc>
+			<image:caption><![CDATA[Ngoài beta carotene, cà rốt còn chứa falcarinol – một hợp chất tự nhiên có tác dụng ức chế sự phát triển của khối u.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-xanh-co-chua-duoc-dai-thao-duong_28951572.jpg</image:loc>
+			<image:caption><![CDATA[Trong lá trà xanh có chứa các chất chống ôxy hoá như polyphenol]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cooky-article-cover-b5147-1.jpg</image:loc>
+			<image:caption><![CDATA[Các loại đậu, hạt luôn dồi dào hoạt chất phytochemicals]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-mam-xoi.jpg</image:loc>
+			<image:caption><![CDATA[Quả mâm xôi là một trong những thực phẩm tốt nhất có thể ngăn ngừa ung thư cổ tử cung]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ca-hoi.jpg</image:loc>
+			<image:caption><![CDATA[Cá hồi là một thực phẩm tuyệt vời cho việc bảo vệ chống lại ung thư cổ tử cung và các loại ung thư khác]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/chuoi.jpg</image:loc>
+			<image:caption><![CDATA[chuối giàu chất chống ôxy hóa fenolics, giúp chống ung thư.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nghe-vang-1-1.jpg</image:loc>
+			<image:caption><![CDATA[nghệ có chứa các hợp chất chống oxy hóa mạnh mẽ và có thể ngăn chặn sự hình thành nitrosamine và ức chế sản xuất aflatoxin - hai chất có nguy cơ gây ung thư ở người]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cai-xoong-1.jpg</image:loc>
+			<image:caption><![CDATA[Cải xoong chứa isothiocyanate phenethyl, một loại dầu mù tạc, đặc biệt với khả năng chống ung thư của nó.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/que-than-duoc-day-lui-benh-dai-thao-duong/</loc>
+		<lastmod>2020-08-15T08:47:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/5-nhom-benh-tieu-duong.jpg</image:loc>
+			<image:title><![CDATA[5-nhom-benh-tieu-duong]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/que.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tinh-trang-dai-thao-duong.jpg</image:loc>
+			<image:caption><![CDATA[Theo một nghiên cứu thực hiện tại Bệnh viện Nội tiết Trung ương số người có sẵn để chi trả viện phí chỉ có 27,3%; phải bán đồ vật có giá trị trong gia đình để đi nằm viện là 21,2%; phải đi vay mượn để trả tiền điều trị là 51,5%.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/4-loai-nuoc-ep-duoi-day-giup-ban-tang-cuong-suc-de-khang-phong-covid-19/</loc>
+		<lastmod>2020-08-15T08:51:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sinh-to-dau.jpg</image:loc>
+			<image:title><![CDATA[sinh-to-dau]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sinh-to-cam.jpg</image:loc>
+			<image:caption><![CDATA[uống nước ép cam sẽ giúp cơ thể bạn ngăn ngừa sự xâm nhập vi khuẩn vào cơ thể bạn, phòng ngừa những bệnh viêm đường hô hấp cấp vô cùng hiệu quả.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sinh-to-kiwi.jpg</image:loc>
+			<image:caption><![CDATA[Kiwi  vô cùng giàu chất dinh dưỡng chứa nhiều vitamin C giúp tăng cường sức đề kháng của cơ thể hiệu quả]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/uong-qua-nhieu-nuoc-co-the-dan-toi-cac-bien-chung-nguy-hiem-khong-ngo/</loc>
+		<lastmod>2020-08-15T08:57:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/uong-nuoc-1.jpg</image:loc>
+			<image:title><![CDATA[uong-nuoc]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mang-theo-chai.jpg</image:loc>
+			<image:caption><![CDATA[Việc uống nước thường xuyên có thể làm giảm lượng canxi trong máu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/uong-khi-khong-khat.jpg</image:loc>
+			<image:caption><![CDATA[Bạn càng khát, thì cơ thể cần bổ sung nước nhiều hơn.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/toilet-1.jpg</image:loc>
+			<image:caption><![CDATA[Nước tiểu trong suốt có thể là dấu hiệu bạn đang uống quá nhiều nước]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tieu-dem.jpg</image:loc>
+			<image:caption><![CDATA[Nếu bạn đi tiểu nhiều hơn 10 lần/ngày, bạn có thể đang dung nạp hơn mức cơ thể cần]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/buon-non.jpg</image:loc>
+			<image:caption><![CDATA[Khi  thận không thể xử lý hết chất lỏng thừa và bắt đầu tích tụ trong cơ thể. Điều này gây ra các triệu chứng như nôn mửa và tiêu chảy.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/dau-dau.jpg</image:loc>
+			<image:caption><![CDATA[Đau đầu là dấu hiệu cho thấy cơ thể thừa nước hoặc mất nước]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/phu-tay-moi.jpg</image:loc>
+			<image:caption><![CDATA[Những người uống quá nhiều có thể tăng cân đột biến, do nước tích trong mạch máu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/chuot-rut.jpg</image:loc>
+			<image:caption><![CDATA[Khi bạn uống quá nhiều nước, nồng độ chất điện giải trong cơ thể giảm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/met-moi.jpg</image:loc>
+			<image:caption><![CDATA[Thận chịu trách nhiệm lọc nước khi bạn uống và đảm bảo nồng độ chất lỏng trong mạch máu luôn cân bằng]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/nguoi-trung-quoc-nhap-canh-trai-phep-dau-tien-nhiem-covid-19/</loc>
+		<lastmod>2020-08-15T09:06:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bien-phong.jpg</image:loc>
+			<image:title><![CDATA[bien-phong]]></image:title>
+			<image:caption><![CDATA[Đă có người Trung Quốc nhiễm COVID-19 tại Việt Nam]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/images1409736_49283e2e8a1a76442f0b_ztbs-1.jpg</image:loc>
+			<image:caption><![CDATA[Biên phòng Việt Nam bắt các đối tượng người TQ vượt biên trái phép]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/khong-nen-dung-toi-den-neu-ban-nam-trong-8-nhom-sau/</loc>
+		<lastmod>2020-08-15T09:10:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/toi-den.jpg</image:loc>
+			<image:caption><![CDATA[Tỏi đen chứa nhiều chất chống oxy hóa giúp ngăn chặn các gốc tự do gây hại cho cơ thể.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-gan.jpg</image:loc>
+			<image:caption><![CDATA[Ăn tỏi đen khi sức khỏe của gan yếu có thể gây ra tình trạng mệt mỏi, buồn nôn.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/than.png</image:loc>
+			<image:caption><![CDATA[Ăn tỏi đen khi có sử dung thuốc liên quan đến thận làm giảm hiệu quả của thuốc]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-di-ung-da.jpg</image:loc>
+			<image:caption><![CDATA[không nên cố tình sử dụng vì có thể gây ra tình trạng phát ban, ngứa ngáy, thậm chí là tăng huyết áp]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/66-don-vi-duoc-xet-nghiem-covid-19/</loc>
+		<lastmod>2020-08-15T10:42:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cac-trieu-chung-nhiem-covid-19/</loc>
+		<lastmod>2020-08-15T10:52:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/VNU-WHO-COVID-19.jpg</image:loc>
+			<image:title><![CDATA[Các triệu chứng nhiễm  covid-19]]></image:title>
+			<image:caption><![CDATA[Các triệu chứng nhiễm covid-19]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/covid-1508.jpg</image:loc>
+			<image:caption><![CDATA[Triệu chứng nhiễm covid-19. Tình hình dịch bệnh covid-19 tại Việt Nam]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
