@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-12T11:14:51+00:00</lastmod>
+		<lastmod>2020-08-15T07:43:24+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hello-world/</loc>
@@ -2377,39 +2377,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/doc-la-mon-canh-thanh-nhiet-va-giau-dinh-duong-tu-vo-dua-hau/</loc>
-		<lastmod>2020-08-12T05:12:47+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-8-1595905615-899.jpeg</image:loc>
-			<image:title><![CDATA[bat-canh-thanh-nhiet-8-1595905615-899]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/an-dua-hau-dung-vut-vo-them-vai-nguyen-lieu-se-co-ngay-bat-canh-thanh-nhiet-2-1595905560-483-width935height624.jpeg</image:loc>
-			<image:caption><![CDATA[Dưa hấu gọt vỏ lớp vỏ màu xanh đậm, chỉ lấy phần vỏ trắng bên trong.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-3-1595905569-994.jpeg</image:loc>
-			<image:caption><![CDATA[Cắt thành từng miếng nhỏ, rửa sạch với nước lạnh.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-4-1595905582-586.jpeg</image:loc>
-			<image:caption><![CDATA[Rửa sạch rồi ngâm xương heo trong nước khoảng 15 phút rồi cho vào nồi nấu, thêm gừng, rượu nấu ăn, đun sôi ở nhiệt độ cao trong 2 phút, vớt bỏ bọt.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-5-1595905589-61.jpeg</image:loc>
-			<image:caption><![CDATA[Táo cắt miếng nhỏ, thêm gừng, xương heo đã chần vào nồi, đổ một lượng nước thích hợp, sau khi đun sôi thì vặn lửa nhỏ nấu trong khoảng 40 phút.
-]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-7-1595905603-907.jpeg</image:loc>
-			<image:caption><![CDATA[Tiếp tục cho vỏ dưa hấu vào, đun tiếp trong 30 phút. Vỏ dưa hấu chín mềm nhưng không nát, có mùi thơm, nêm nếm lại gia vị rồi rắc hành lá là xong.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-8-1595905615-899.jpeg</image:loc>
-			<image:caption><![CDATA[Thành phẩm.]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/9-thu-tuong-bo-di-nhung-co-the-tro-thanh-nhung-mon-an-ngon-than-thanh/</loc>
 		<lastmod>2020-08-12T05:15:34+00:00</lastmod>
 		<image:image>
@@ -2491,27 +2458,195 @@
 		<lastmod>2020-08-12T10:39:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/8-cach-tu-nhien-danh-bay-mun-cho-lan-da-hoan-hao/</loc>
-		<lastmod>2020-08-12T10:43:45+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/phai-lam-gi-khi-bi-ho-ra-mau/</loc>
-		<lastmod>2020-08-12T10:55:24+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/nhung-thuc-pham-thuoc-ky-nhau/</loc>
-		<lastmod>2020-08-12T11:06:49+00:00</lastmod>
+		<loc>https://yeusong.com/nguoi-trung-quoc-nhap-canh-trai-phep-dau-tien-nhiem-covid-19/</loc>
+		<lastmod>2020-08-14T13:37:58+00:00</lastmod>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/drug-and-orange.jpg</image:loc>
-			<image:title><![CDATA[drug-and-orange]]></image:title>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bien-phong.jpg</image:loc>
+			<image:title><![CDATA[bien-phong]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/ve-sinh-cho-be-4-sai-lam-me-viet-nen-tranh/</loc>
+		<lastmod>2020-08-15T04:11:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ve-sinh-cho-be.jpg</image:loc>
+			<image:title><![CDATA[ve-sinh-cho-be]]></image:title>
+			<image:caption><![CDATA[2 ngày trước Tin247.com 4 Sai Lầm Mẹ Việt Nên Tránh Khi Vệ Sinh Cho Bé Trên 1 Tuổi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/baby-room.jpg</image:loc>
+			<image:caption><![CDATA[giữ gọn gàng, sạch bụi để hạn chế sự sinh sôi của vi khuẩn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/baby-bath.jpg</image:loc>
+			<image:caption><![CDATA[dùng sữa tắm và dầu gội riêng biệt cho bé]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cac-mon-an-nguoi-yeu-sinh-ly-nen-tranh/</loc>
+		<lastmod>2020-08-15T04:23:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/yeu-sinh-ly.jpg</image:loc>
+			<image:title><![CDATA[yeu-sinh-ly]]></image:title>
+			<image:caption><![CDATA[Yếu sinh lý là tình trạng xuất hiện những trở ngại về tình dục ở nam giới.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/an-gi-de-khong-lam-giam-chat-luong-tinh-trung/</loc>
+		<lastmod>2020-08-15T04:32:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tinh-trung.jpg</image:loc>
+			<image:title><![CDATA[tinh-trung]]></image:title>
+			<image:caption><![CDATA[Ăn nhiều đồ ngọt, đồ ăn nhanh... sẽ có số lượng tinh trùng ít hơn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/an-uong-anh-huong-tinh-trung.jpg</image:loc>
+			<image:caption><![CDATA[Những người đàn ông có chế độ ăn uống lành mạnh có số lượng tinh trùng cao]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/rau-thi-la-viagra-thien-nhien-cho-quy-ong/</loc>
+		<lastmod>2020-08-15T04:46:38+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cha-ca-la-vong-tu-rau-thi-la.jpg</image:loc>
+			<image:title><![CDATA[cha-ca-la-vong-tu-rau-thi-la]]></image:title>
+			<image:caption><![CDATA[Rau thì là giàu chất xơ, vitamin C và vitamin A.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/rau-thi-la-1.jpg</image:loc>
+			<image:caption><![CDATA[Trong Đông y thì cây thì là chính là một vị thuốc giúp bạn an thần, ngủ ngon]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/sai-lam-khi-an-gia-do-gay-nguy-co-trung-doc-mac-ung-thu/</loc>
+		<lastmod>2020-08-15T05:02:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/gia-do-feature.jpg</image:loc>
+			<image:title><![CDATA[Giá đỗ rất giàu vitamin đặc biệt là vitamin C cùng các khoáng chất amino acid, protein và chất có nguồn gốc thực vật (phytochemicals) rất bổ dưỡng cho con người.]]></image:title>
+			<image:caption><![CDATA[Giá đỗ tuy rất bổ dưỡng nhưng nếu không hiểu biết mà dùng tùy tiện thì cũng lợi bất cập hại cho sức khỏe.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/gia-do.jpg</image:loc>
+			<image:caption><![CDATA[nhiều người bán hàng tham lợi đã dùng những loại hóa chất như thuốc kích thích, ure... để ủ giá nhằm làm cho chúng mập mạp, bắt mắt.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/anh-huong-gia-do.jpg</image:loc>
+			<image:caption><![CDATA[Giá đỗ rất bổ nhưng mọi người không nên ăn quá 550g giá sống mỗi ngày.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/khong-an-gia-khi-uong-thuoc.jpg</image:loc>
+			<image:caption><![CDATA[Giá đỗ có tính giải các chất độc nhưng nó cũng giải luôn tác dụng của thuốc]]></image:caption>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://yeusong.com/bi-viem-gan-sieu-vi-b-nen-an-gi-kieng-gi/</loc>
-		<lastmod>2020-08-12T11:14:51+00:00</lastmod>
+		<lastmod>2020-08-15T05:11:26+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/suckhoe584hinh_abdu.jpg</image:loc>
 			<image:title><![CDATA[suckhoe584hinh_abdu]]></image:title>
+			<image:caption><![CDATA[Bệnh viêm gan siêu vi B]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ngu-coc-nguyen-hat.jpg</image:loc>
+			<image:caption><![CDATA[Ngũ cốc nguyên chất rất giàu vitamin B, chất xơ, carbohydrate, khoáng chất và protein, và các chất dinh dưỡng thiết yếu như vitamin B6, vitamin E, magiê, kẽm và đồng.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/dau-oliu.jpg</image:loc>
+			<image:caption><![CDATA[Các bác sĩ khuyên nên tiêu thụ ít nhất 2-3 muỗng dầu ô liu mỗi ngày.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/nhung-thuc-pham-thuoc-ky-nhau/</loc>
+		<lastmod>2020-08-15T05:20:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/drug-and-orange.jpg</image:loc>
+			<image:title><![CDATA[drug-and-orange]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sua-tuoi.jpg</image:loc>
+			<image:caption><![CDATA[Sữa tươi không dùng khi uống thuốc kháng sinh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/coffee-poster-with-realistic-white-porcelain-cup-textured-background_1284-10871.jpg</image:loc>
+			<image:caption><![CDATA[caffeine có thể ức chế tác dụng của thuốc trong trường hợp khẩn cấp.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/phai-lam-gi-khi-bi-ho-ra-mau/</loc>
+		<lastmod>2020-08-15T05:31:21+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://yeusong.com/8-cach-tu-nhien-danh-bay-mun-cho-lan-da-hoan-hao/</loc>
+		<lastmod>2020-08-15T07:35:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tri-min-tu-nhien.jpg</image:loc>
+			<image:title><![CDATA[tri-min-tu-nhien]]></image:title>
+			<image:caption><![CDATA[8 cách đánh bay mụn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/chanh-mat-ong.jpg</image:loc>
+			<image:caption><![CDATA[8 cách đánh bay mụn: Chanh + mật ong + đường]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vaseline-mang-boc.jpg</image:loc>
+			<image:caption><![CDATA[8 cách đánh bay mụn: Vaseline + màng bọc thực phẩm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/dau-dua-chanh.jpg</image:loc>
+			<image:caption><![CDATA[8 cách đánh bay mụn: Dầu dừa + tinh dầu chanh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/que-yen-mach.jpg</image:loc>
+			<image:caption><![CDATA[Quế + bột yến mạch]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/than-hoat-tinh.jpg</image:loc>
+			<image:caption><![CDATA[Than hoạt tính + đất sét]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/dau-dua-caphe.jpg</image:loc>
+			<image:caption><![CDATA[8 cách đánh bay mụn: Dầu dừa + cà phê xay]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mat-na-mat-ong-yen-mach-sua-chua.jpg</image:loc>
+			<image:caption><![CDATA[8 cách đánh bay mụn: Bột yến mạch + mật ong + sữa chua + dầu ô liu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mat-ong-bi-dong-duong.jpg</image:loc>
+			<image:caption><![CDATA[Đường + mật ong + dầu ô liu + chiết xuất vani]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/doc-la-mon-canh-thanh-nhiet-va-giau-dinh-duong-tu-vo-dua-hau/</loc>
+		<lastmod>2020-08-15T07:43:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-8-1595905615-899.jpeg</image:loc>
+			<image:title><![CDATA[bat-canh-thanh-nhiet-8-1595905615-899]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/an-dua-hau-dung-vut-vo-them-vai-nguyen-lieu-se-co-ngay-bat-canh-thanh-nhiet-2-1595905560-483-width935height624.jpeg</image:loc>
+			<image:caption><![CDATA[Dưa hấu gọt vỏ lớp vỏ màu xanh đậm, chỉ lấy phần vỏ trắng bên trong.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-3-1595905569-994.jpeg</image:loc>
+			<image:caption><![CDATA[Cắt thành từng miếng nhỏ, rửa sạch với nước lạnh.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-4-1595905582-586.jpeg</image:loc>
+			<image:caption><![CDATA[Rửa sạch rồi ngâm xương heo trong nước khoảng 15 phút rồi cho vào nồi nấu, thêm gừng, rượu nấu ăn, đun sôi ở nhiệt độ cao trong 2 phút, vớt bỏ bọt.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-5-1595905589-61.jpeg</image:loc>
+			<image:caption><![CDATA[Táo cắt miếng nhỏ, thêm gừng, xương heo đã chần vào nồi, đổ một lượng nước thích hợp, sau khi đun sôi thì vặn lửa nhỏ nấu trong khoảng 40 phút.
+]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-7-1595905603-907.jpeg</image:loc>
+			<image:caption><![CDATA[Tiếp tục cho vỏ dưa hấu vào, đun tiếp trong 30 phút. Vỏ dưa hấu chín mềm nhưng không nát, có mùi thơm, nêm nếm lại gia vị rồi rắc hành lá là xong.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bat-canh-thanh-nhiet-8-1595905615-899.jpeg</image:loc>
+			<image:caption><![CDATA[Thành phẩm.]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
