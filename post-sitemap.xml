@@ -1,12 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//yeusong.com/static/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//static.yeusong.com/static/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-15T10:52:52+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/hello-world/</loc>
-		<lastmod>2020-07-15T03:21:12+00:00</lastmod>
+		<lastmod>2020-08-16T08:18:53+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hoi-mieng-halitosis/</loc>
@@ -1383,30 +1379,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/dieu-nhi-truc-nhi-da-on-dinh-het-sot-tieu-tieu-tot-hop-tac-tap-vat-ly-tri-lieu-tot/</loc>
-		<lastmod>2020-08-07T17:00:07+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/phau-thuat-hai-be-dinh-nhau-vung-bung-chau-5_rgew.jpg</image:loc>
-			<image:title><![CDATA[phau-thuat-hai-be-dinh-nhau-vung-bung-chau-5_rgew]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/trucnhi-dieunhi-1.jpg</image:loc>
-			<image:caption><![CDATA[Diệu Nhi mỉm cười rạng rỡ nắm lấy bàn tay]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/bv-nhi-dong-1.jpg</image:loc>
-			<image:caption><![CDATA[Diệu Nhi- Trúc Nhi đã ổn định, hết sốt, tiêu tiểu tốt, hợp tác tập vật lý trị liệu tốt.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/bv-nhi-dong-5-1.jpg</image:loc>
-			<image:caption><![CDATA[Trúc Nhi đang nở nụ cười với bác sĩ]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/bv-nhi-dong-6-1.jpg</image:loc>
-			<image:caption><![CDATA[ba mẹ hai bé Trúc Nhi - Diệu Nhi là anh Hoàng Anh và chị Thúy vô cùng vui và hạnh phúc. ]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/tu-the-xac-chet-corpse-pose/</loc>
 		<lastmod>2020-08-08T08:37:06+00:00</lastmod>
 		<image:image>
@@ -1452,18 +1424,6 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/supine-twist-1.jpg</image:loc>
 			<image:caption><![CDATA[tư thế Vặn mình này giúp thúc đẩy giấc ngủ bằng cách giải phóng baroreflex, một phản xạ được biết là duy trì huyết áp gần như không đổi.]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/tu-the-ngoi-xep-canh-buom-butterfly-pose/</loc>
-		<lastmod>2020-08-08T08:37:46+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/young-woman-doing-butterfly-exercise.jpg</image:loc>
-			<image:title><![CDATA[young-woman-doing-butterfly-exercise]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/butterfly-pose-1.jpg</image:loc>
-			<image:caption><![CDATA[Tư thế này giúp kích thích cơ quan sinh sản và tiêu hóa, có lợi cho chữa vô sinh. Đồng thời, giúp kích thích các cơ quan bụng, phổi và tim.]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -1853,14 +1813,6 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/ung-thu-tien-liet-tuyen.jpg</image:loc>
 			<image:caption><![CDATA[ung thư tuyến tiền liệt]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/tang-can/</loc>
-		<lastmod>2020-08-11T04:42:34+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/collage-before-after-loosing-weight_93267-1027.jpg</image:loc>
-			<image:title><![CDATA[collage-before-after-loosing-weight_93267-1027]]></image:title>
 		</image:image>
 	</url>
 	<url>
@@ -2492,66 +2444,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/thuc-pham-dau-bang-chong-ung-thu-co-tu-cung-chi-em-nao-cung-can-biet/</loc>
-		<lastmod>2020-08-15T08:41:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/ung-thu-co-tu-cung.jpg</image:loc>
-			<image:title><![CDATA[ung-thu-co-tu-cung]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/banh-mi-nau.jpg</image:loc>
-			<image:caption><![CDATA[Bánh chứa nhiều vitamin B6 có tác dụng tăng cường sức khỏe của hệ thần kinh, điều chỉnh hệ thống miễn dịch và duy trì sự trao đổi chất trong cơ thể.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/rau-xa-lach.jpg</image:loc>
-			<image:caption><![CDATA[Rau xà lách được xem như một “chất đề kháng” hữu hiệu giúp bảo vệ cơ thể khỏi các tế bào ung thư cổ tử cung.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/bong-cai-xanh.jpg</image:loc>
-			<image:caption><![CDATA[Bông cải xanh (broccoli) cũng là một siêu thực phẩm trong cuộc chiến chống ung thư cổ tử cung]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/sua-dau-nanh.jpg</image:loc>
-			<image:caption><![CDATA[Hoạt chất trong sữa đậu nành có thể ức chế sự phát triển của ung thư cổ tử cung, giảm phân chia tế bào ung thư, đồng thời có ngăn chặn sự di căn của khối u hiệu quả.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/du-du.jpg</image:loc>
-			<image:caption><![CDATA[chỉ cần ăn một quả đu đủ mỗi tuần đã có thể làm giảm nguy cơ nhiễm bệnh ung thư cổ tử cung ở phụ nữ.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/ca-rot-1.jpg</image:loc>
-			<image:caption><![CDATA[Ngoài beta carotene, cà rốt còn chứa falcarinol – một hợp chất tự nhiên có tác dụng ức chế sự phát triển của khối u.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-xanh-co-chua-duoc-dai-thao-duong_28951572.jpg</image:loc>
-			<image:caption><![CDATA[Trong lá trà xanh có chứa các chất chống ôxy hoá như polyphenol]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/cooky-article-cover-b5147-1.jpg</image:loc>
-			<image:caption><![CDATA[Các loại đậu, hạt luôn dồi dào hoạt chất phytochemicals]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-mam-xoi.jpg</image:loc>
-			<image:caption><![CDATA[Quả mâm xôi là một trong những thực phẩm tốt nhất có thể ngăn ngừa ung thư cổ tử cung]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/ca-hoi.jpg</image:loc>
-			<image:caption><![CDATA[Cá hồi là một thực phẩm tuyệt vời cho việc bảo vệ chống lại ung thư cổ tử cung và các loại ung thư khác]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/chuoi.jpg</image:loc>
-			<image:caption><![CDATA[chuối giàu chất chống ôxy hóa fenolics, giúp chống ung thư.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/nghe-vang-1-1.jpg</image:loc>
-			<image:caption><![CDATA[nghệ có chứa các hợp chất chống oxy hóa mạnh mẽ và có thể ngăn chặn sự hình thành nitrosamine và ức chế sản xuất aflatoxin - hai chất có nguy cơ gây ung thư ở người]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/cai-xoong-1.jpg</image:loc>
-			<image:caption><![CDATA[Cải xoong chứa isothiocyanate phenethyl, một loại dầu mù tạc, đặc biệt với khả năng chống ung thư của nó.]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/que-than-duoc-day-lui-benh-dai-thao-duong/</loc>
 		<lastmod>2020-08-15T08:47:34+00:00</lastmod>
 		<image:image>
@@ -2674,6 +2566,113 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/covid-1508.jpg</image:loc>
 			<image:caption><![CDATA[Triệu chứng nhiễm covid-19. Tình hình dịch bệnh covid-19 tại Việt Nam]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/tang-can/</loc>
+		<lastmod>2020-08-16T04:04:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/collage-before-after-loosing-weight_93267-1027.jpg</image:loc>
+			<image:title><![CDATA[collage-before-after-loosing-weight_93267-1027]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/tu-the-ngoi-xep-canh-buom-butterfly-pose/</loc>
+		<lastmod>2020-08-16T08:17:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/young-woman-doing-butterfly-exercise.jpg</image:loc>
+			<image:title><![CDATA[young-woman-doing-butterfly-exercise]]></image:title>
+			<image:caption><![CDATA[Tư thế ngồi xếp cánh bướm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/butterfly-pose-1.jpg</image:loc>
+			<image:caption><![CDATA[Tư thế này giúp kích thích cơ quan sinh sản và tiêu hóa, có lợi cho chữa vô sinh. Đồng thời, giúp kích thích các cơ quan bụng, phổi và tim.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/thuc-pham-dau-bang-chong-ung-thu-co-tu-cung-chi-em-nao-cung-can-biet/</loc>
+		<lastmod>2020-08-16T08:17:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ung-thu-co-tu-cung.jpg</image:loc>
+			<image:title><![CDATA[ung-thu-co-tu-cung]]></image:title>
+			<image:caption><![CDATA[Ung thư cổ tử cung là căn bệnh khá nguy hiểm thường gặp ở chị em phụ nữ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/banh-mi-nau.jpg</image:loc>
+			<image:caption><![CDATA[Bánh chứa nhiều vitamin B6 có tác dụng tăng cường sức khỏe của hệ thần kinh, điều chỉnh hệ thống miễn dịch và duy trì sự trao đổi chất trong cơ thể.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/rau-xa-lach.jpg</image:loc>
+			<image:caption><![CDATA[Rau xà lách được xem như một “chất đề kháng” hữu hiệu giúp bảo vệ cơ thể khỏi các tế bào ung thư cổ tử cung.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bong-cai-xanh.jpg</image:loc>
+			<image:caption><![CDATA[Bông cải xanh (broccoli) cũng là một siêu thực phẩm trong cuộc chiến chống ung thư cổ tử cung]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sua-dau-nanh.jpg</image:loc>
+			<image:caption><![CDATA[Hoạt chất trong sữa đậu nành có thể ức chế sự phát triển của ung thư cổ tử cung, giảm phân chia tế bào ung thư, đồng thời có ngăn chặn sự di căn của khối u hiệu quả.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/du-du.jpg</image:loc>
+			<image:caption><![CDATA[chỉ cần ăn một quả đu đủ mỗi tuần đã có thể làm giảm nguy cơ nhiễm bệnh ung thư cổ tử cung ở phụ nữ.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ca-rot-1.jpg</image:loc>
+			<image:caption><![CDATA[Ngoài beta carotene, cà rốt còn chứa falcarinol – một hợp chất tự nhiên có tác dụng ức chế sự phát triển của khối u.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-xanh-co-chua-duoc-dai-thao-duong_28951572.jpg</image:loc>
+			<image:caption><![CDATA[Trong lá trà xanh có chứa các chất chống ôxy hoá như polyphenol]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cooky-article-cover-b5147-1.jpg</image:loc>
+			<image:caption><![CDATA[Các loại đậu, hạt luôn dồi dào hoạt chất phytochemicals]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-mam-xoi.jpg</image:loc>
+			<image:caption><![CDATA[Quả mâm xôi là một trong những thực phẩm tốt nhất có thể ngăn ngừa ung thư cổ tử cung]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ca-hoi.jpg</image:loc>
+			<image:caption><![CDATA[Cá hồi là một thực phẩm tuyệt vời cho việc bảo vệ chống lại ung thư cổ tử cung và các loại ung thư khác]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/chuoi.jpg</image:loc>
+			<image:caption><![CDATA[chuối giàu chất chống ôxy hóa fenolics, giúp chống ung thư.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nghe-vang-1-1.jpg</image:loc>
+			<image:caption><![CDATA[nghệ có chứa các hợp chất chống oxy hóa mạnh mẽ và có thể ngăn chặn sự hình thành nitrosamine và ức chế sản xuất aflatoxin - hai chất có nguy cơ gây ung thư ở người]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cai-xoong-1.jpg</image:loc>
+			<image:caption><![CDATA[Cải xoong chứa isothiocyanate phenethyl, một loại dầu mù tạc, đặc biệt với khả năng chống ung thư của nó.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/dieu-nhi-truc-nhi-da-on-dinh-het-sot-tieu-tieu-tot-hop-tac-tap-vat-ly-tri-lieu-tot/</loc>
+		<lastmod>2020-08-16T08:18:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/phau-thuat-hai-be-dinh-nhau-vung-bung-chau-5_rgew.jpg</image:loc>
+			<image:title><![CDATA[phau-thuat-hai-be-dinh-nhau-vung-bung-chau-5_rgew]]></image:title>
+			<image:caption><![CDATA[Diệu Nhi- Trúc Nhi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/trucnhi-dieunhi-1.jpg</image:loc>
+			<image:caption><![CDATA[Diệu Nhi mỉm cười rạng rỡ nắm lấy bàn tay]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bv-nhi-dong-1.jpg</image:loc>
+			<image:caption><![CDATA[Diệu Nhi- Trúc Nhi đã ổn định, hết sốt, tiêu tiểu tốt, hợp tác tập vật lý trị liệu tốt.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bv-nhi-dong-5-1.jpg</image:loc>
+			<image:caption><![CDATA[Trúc Nhi đang nở nụ cười với bác sĩ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bv-nhi-dong-6-1.jpg</image:loc>
+			<image:caption><![CDATA[ba mẹ hai bé Trúc Nhi - Diệu Nhi là anh Hoàng Anh và chị Thúy vô cùng vui và hạnh phúc. ]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
