@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//static.yeusong.com/static/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https//static.yeusong.com/static/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-16T08:18:53+00:00</lastmod>
+		<lastmod>2020-08-17T04:43:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hoi-mieng-halitosis/</loc>
@@ -2556,19 +2556,6 @@
 		<lastmod>2020-08-15T10:42:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/cac-trieu-chung-nhiem-covid-19/</loc>
-		<lastmod>2020-08-15T10:52:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/VNU-WHO-COVID-19.jpg</image:loc>
-			<image:title><![CDATA[Các triệu chứng nhiễm  covid-19]]></image:title>
-			<image:caption><![CDATA[Các triệu chứng nhiễm covid-19]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/covid-1508.jpg</image:loc>
-			<image:caption><![CDATA[Triệu chứng nhiễm covid-19. Tình hình dịch bệnh covid-19 tại Việt Nam]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/tang-can/</loc>
 		<lastmod>2020-08-16T04:04:51+00:00</lastmod>
 		<image:image>
@@ -2673,6 +2660,144 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/bv-nhi-dong-6-1.jpg</image:loc>
 			<image:caption><![CDATA[ba mẹ hai bé Trúc Nhi - Diệu Nhi là anh Hoàng Anh và chị Thúy vô cùng vui và hạnh phúc. ]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/doc-chieu-dau-chuyen-phu-nu-ngoai-tinh-dan-ong-khong-bao-gio-biet/</loc>
+		<lastmod>2020-08-16T16:55:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/phu-nu-giau-chuyen-ngoai-tinh-tot-hon-dan-ong.jpg</image:loc>
+			<image:title><![CDATA[phu-nu-giau-chuyen-ngoai-tinh-tot-hon-dan-ong]]></image:title>
+			<image:caption><![CDATA[khó để phát hiện phụ nữ ngoại tình]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/phu-nu-ngoai-tinh-xem-phim-tinh-cam-1.jpg</image:loc>
+			<image:caption><![CDATA[ Trong phim có những tình huống éo le, ngang trái, tay ba…, nhờ đó mà họ tích lũy thêm kinh nghiệm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/phu-nu-ngoai-tinh-van-cham-soc-gia-dinh.jpg</image:loc>
+			<image:caption><![CDATA[tuy ngoại tình nhưng phụ nữ vẫn cố gắng sắp xếp thời gian để làm việc nhà, đón con, chăm sóc gia đình chu đáo]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/phu-nu-ngoai-tinh-khong-giu-mui-huong-tren-nguoi.jpg</image:loc>
+			<image:caption><![CDATA[Sẽ  chẳng có bất cứ mùi nào của người tình vương vấn trên người phụ nữ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/phu-nu-ngoai-tinh-se-duoc-tinh-nhan-bao-ve.jpg</image:loc>
+			<image:caption><![CDATA[người tình sẽ chủ động giúp họ giữ bí mật]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/phu-nu-de-ngoai-tinh-theo-cong-viec.jpg</image:loc>
+			<image:caption><![CDATA[Một số công việc phụ nữ có nguy cơ ngoại tình cao]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/phu-nu-co-nguy-co-ngoai-tinh-cuc-cao-khi-lam-nhung-cong-viec-nay/</loc>
+		<lastmod>2020-08-16T16:56:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/phu-nu-de-ngoai-tinh-theo-cong-viec.jpg</image:loc>
+			<image:title><![CDATA[phu-nu-de-ngoai-tinh-theo-cong-viec]]></image:title>
+			<image:caption><![CDATA[Một số công việc phụ nữ có nguy cơ ngoại tình cao]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/phu-nu-lam-tai-chinh-de-ngoai-tinh-1.jpg</image:loc>
+			<image:caption><![CDATA[21% phụ nữ làm trong ngành tài chính đã hoặc đang lừa dối ban đời]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/phu-nu-lam-giai-tri-rat-de-chedau-cam-xuc-1.jpg</image:loc>
+			<image:caption><![CDATA[Phụ nữ ngành giải trí rất dễ "ngã vào vòng tay" người khác, nhất là những người có sự đồng cảm, sẻ chia với họ.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nu-moi-gioi-nhat-dat-de-thoa-hiep-voi-cam-bay-1.jpg</image:loc>
+			<image:caption><![CDATA[việc nhân viên phải lòng khách hàng và ngược lại cũng không còn là chuyện lạ trong xã hội hiện nay, dù họ có gia đình hay chưa]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/thu-ky-luon-di-cung-xep-1.jpg</image:loc>
+			<image:caption><![CDATA[Tính chất cong việc gắn liền với xếp nên chuyện tình cảm nảy sinh cũng dễ hiểu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nu-doanh-nhan-cung-thuong-de-ngoai-tinh-1.jpg</image:loc>
+			<image:caption><![CDATA[nghiên cứu cho thấy, nguy cơ ngoại tình tỷ lệ thuận với túi tiền của doanh nhân]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nu-pg-de-sa-vao-bay-tinh-1.jpg</image:loc>
+			<image:caption><![CDATA[Tiếp xúc với khách hàng thường xuyên nên dễ nảy sinh tình cảm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/nu-luat-su-de-tro-thanh-muc-tieu-chinh-phuc-1.jpg</image:loc>
+			<image:caption><![CDATA[Nữ luật sư dễ dàng trở thành mục tiêu chinh phục của nhiều người.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cong-viec-noi-tro-nham-chan-de-dan-den-ngoai-tinh-1.jpg</image:loc>
+			<image:caption><![CDATA[Sự nhàm chán, cô đơn của việc nội trợ là một trong những nguyên nhân dễ khiến phụ nữ ngoại tình]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tinh-co-tro-co-xu-huong-gia-tang.jpg</image:loc>
+			<image:caption><![CDATA[khá nhiều vụ ngoại tình cô-trò đã bị phanh phui và nâng nguy cơ ngoại tình trong nghề này lên mức cao hơn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/phu-nu-giau-chuyen-ngoai-tinh-tot-hon-dan-ong.jpg</image:loc>
+			<image:caption><![CDATA[khó để phát hiện phụ nữ ngoại tình]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cac-trieu-chung-nhiem-covid-19/</loc>
+		<lastmod>2020-08-16T16:58:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/VNU-WHO-COVID-19.jpg</image:loc>
+			<image:title><![CDATA[Các triệu chứng nhiễm  covid-19]]></image:title>
+			<image:caption><![CDATA[Các triệu chứng nhiễm covid-19]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/covid-1508.jpg</image:loc>
+			<image:caption><![CDATA[Triệu chứng nhiễm covid-19. Tình hình dịch bệnh covid-19 tại Việt Nam]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/5-nguyen-nhan-khien-ban-tay-lanh/</loc>
+		<lastmod>2020-08-17T04:20:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-buoi-sang-cai-thien-chung-lanh-tay-chan.jpg</image:loc>
+			<image:title><![CDATA[Tay lạnh buốt]]></image:title>
+			<image:caption><![CDATA[Bàn tay lạnh vấn đề sức khỏe nghiêm trọng]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/he-tuan-hoan-gap-van-de-gay-lanh-tay.jpg</image:loc>
+			<image:caption><![CDATA[Tay chân lạnh là biểu hiện hệ tuần hoàn có vấn đề]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cang-thang-ke-thu-cua-suc-khoe/</loc>
+		<lastmod>2020-08-17T04:40:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cang-thang.jpg</image:loc>
+			<image:title><![CDATA[cang-thang-den-tu-ap-luc-cong-viec]]></image:title>
+			<image:caption><![CDATA[Căng thẳng đến từ áp lực công việc]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/loi-ich-khi-tam-buoi-sang-thay-vi-buoi-toi/</loc>
+		<lastmod>2020-08-17T04:43:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-buoi-sang-rat-tot-cho-suc-khoe.jpg</image:loc>
+			<image:title><![CDATA[tam-buoi-sang-rat-tot-cho-suc-khoe]]></image:title>
+			<image:caption><![CDATA[8 dấu hiệu bạn nên tắm vào buổi sáng]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-buoi-sang-cai-thien-chung-lanh-tay-chan.jpg</image:loc>
+			<image:caption><![CDATA[Tắm vào sáng sớm làm cho máu dồn lên bề mặt da, giúp cải thiện lưu lượng máu tổng thể]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-sang-giup-cai-thien-co-the-met-moi.jpg</image:loc>
+			<image:caption><![CDATA[Tắm sáng giúp tăng cường hệ thần kinh trung ương và kích thích tuyến thượng thận]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-giup-can-bang-luong-dau-tren-da.jpg</image:loc>
+			<image:caption><![CDATA[Tắm buổi sáng giúp cân bằng và điều tiết lượng dầu tự nhiên trên da]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tinh-trung.jpg</image:loc>
+			<image:caption><![CDATA[tắm nước lạnh không chỉ giúp tăng  nồng  độ testosterone mà còn giúp tăng năng suất sản xuất tinh trùng.]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
