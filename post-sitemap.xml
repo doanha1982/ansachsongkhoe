@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https//static.yeusong.com/static/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://static.yeusong.com/static/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-17T04:43:09+00:00</lastmod>
+		<lastmod>2020-08-17T15:52:14+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hoi-mieng-halitosis/</loc>
@@ -2663,8 +2663,17 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://yeusong.com/cang-thang-ke-thu-cua-suc-khoe/</loc>
+		<lastmod>2020-08-17T04:40:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cang-thang.jpg</image:loc>
+			<image:title><![CDATA[cang-thang-den-tu-ap-luc-cong-viec]]></image:title>
+			<image:caption><![CDATA[Căng thẳng đến từ áp lực công việc]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://yeusong.com/doc-chieu-dau-chuyen-phu-nu-ngoai-tinh-dan-ong-khong-bao-gio-biet/</loc>
-		<lastmod>2020-08-16T16:55:57+00:00</lastmod>
+		<lastmod>2020-08-17T10:54:01+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/phu-nu-giau-chuyen-ngoai-tinh-tot-hon-dan-ong.jpg</image:loc>
 			<image:title><![CDATA[phu-nu-giau-chuyen-ngoai-tinh-tot-hon-dan-ong]]></image:title>
@@ -2693,7 +2702,7 @@
 	</url>
 	<url>
 		<loc>https://yeusong.com/phu-nu-co-nguy-co-ngoai-tinh-cuc-cao-khi-lam-nhung-cong-viec-nay/</loc>
-		<lastmod>2020-08-16T16:56:59+00:00</lastmod>
+		<lastmod>2020-08-17T10:54:30+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/phu-nu-de-ngoai-tinh-theo-cong-viec.jpg</image:loc>
 			<image:title><![CDATA[phu-nu-de-ngoai-tinh-theo-cong-viec]]></image:title>
@@ -2742,7 +2751,7 @@
 	</url>
 	<url>
 		<loc>https://yeusong.com/cac-trieu-chung-nhiem-covid-19/</loc>
-		<lastmod>2020-08-16T16:58:23+00:00</lastmod>
+		<lastmod>2020-08-17T10:54:51+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/VNU-WHO-COVID-19.jpg</image:loc>
 			<image:title><![CDATA[Các triệu chứng nhiễm  covid-19]]></image:title>
@@ -2754,30 +2763,50 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/5-nguyen-nhan-khien-ban-tay-lanh/</loc>
-		<lastmod>2020-08-17T04:20:09+00:00</lastmod>
+		<loc>https://yeusong.com/suy-giam-tuan-hoan-mau/</loc>
+		<lastmod>2020-08-17T11:54:50+00:00</lastmod>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-buoi-sang-cai-thien-chung-lanh-tay-chan.jpg</image:loc>
-			<image:title><![CDATA[Tay lạnh buốt]]></image:title>
-			<image:caption><![CDATA[Bàn tay lạnh vấn đề sức khỏe nghiêm trọng]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/suy-giam-tuan-hoan.jpg</image:loc>
+			<image:title><![CDATA[suy-giam-tuan-hoan]]></image:title>
+			<image:caption><![CDATA[Suy giảm tuần hoàn máu]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/he-tuan-hoan-gap-van-de-gay-lanh-tay.jpg</image:loc>
-			<image:caption><![CDATA[Tay chân lạnh là biểu hiện hệ tuần hoàn có vấn đề]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hep-dong-mach-ngoai-vi.jpg</image:loc>
+			<image:caption><![CDATA[Bệnh động mạch ngoại biên (PAD) là một tình trạng tuần hoàn gây ra thu hẹp các mạch máu và động mạch]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/photo1523432946668-15234329466681799151617.jpg</image:loc>
+			<image:caption><![CDATA[cục máu đông  sẽ làm tắt nghẽn dòng chảy của máu trong cơ thể]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/suy-gian-tinh-mach-chan.jpeg</image:loc>
+			<image:caption><![CDATA[Giãn tĩnh mạch thừng tinh là hiện tượng tĩnh mạch bị giãn nở do suy van]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/5-nhom-benh-tieu-duong.jpg</image:loc>
+			<image:caption><![CDATA[Bệnh tiểu đường có thể gây ra chuột rút ở chân, cũng như đau bắp chân, đùi hoặc mông]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-raynaud.jpg</image:loc>
+			<image:caption><![CDATA[Căn bệnh Raynaud này khiến các động mạch nhỏ ở bàn tay và ngón chân bị thu hẹp]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/cang-thang-ke-thu-cua-suc-khoe/</loc>
-		<lastmod>2020-08-17T04:40:39+00:00</lastmod>
+		<loc>https://yeusong.com/mun-trung-ca/</loc>
+		<lastmod>2020-08-17T15:21:28+00:00</lastmod>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/cang-thang.jpg</image:loc>
-			<image:title><![CDATA[cang-thang-den-tu-ap-luc-cong-viec]]></image:title>
-			<image:caption><![CDATA[Căng thẳng đến từ áp lực công việc]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mun-trung-ca-xay-ra-moi-lua-tuoi.jpg</image:loc>
+			<image:title><![CDATA[mun-trung-ca-xay-ra-moi-lua-tuoi]]></image:title>
+			<image:caption><![CDATA[Mụn trứng cá là tình trạng da phổ biến]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mun-trung-ca-dang-nhe-dieu-tri-boi-gel-1.jpg</image:loc>
+			<image:caption><![CDATA[Kem và sữa dưỡng là tốt nhất cho da nhạy cảm]]></image:caption>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://yeusong.com/loi-ich-khi-tam-buoi-sang-thay-vi-buoi-toi/</loc>
-		<lastmod>2020-08-17T04:43:09+00:00</lastmod>
+		<lastmod>2020-08-17T15:22:44+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-buoi-sang-rat-tot-cho-suc-khoe.jpg</image:loc>
 			<image:title><![CDATA[tam-buoi-sang-rat-tot-cho-suc-khoe]]></image:title>
@@ -2798,6 +2827,28 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/tinh-trung.jpg</image:loc>
 			<image:caption><![CDATA[tắm nước lạnh không chỉ giúp tăng  nồng  độ testosterone mà còn giúp tăng năng suất sản xuất tinh trùng.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/hoi-chung-loi-thoat-nguc/</loc>
+		<lastmod>2020-08-17T15:50:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hoi-chung-loi-thoat-nguc.jpg</image:loc>
+			<image:title><![CDATA[hoi-chung-loi-thoat-nguc]]></image:title>
+			<image:caption><![CDATA[Hội chứng lối thoát ngực]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/5-nguyen-nhan-khien-ban-tay-lanh/</loc>
+		<lastmod>2020-08-17T15:52:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-buoi-sang-cai-thien-chung-lanh-tay-chan.jpg</image:loc>
+			<image:title><![CDATA[Tay lạnh buốt]]></image:title>
+			<image:caption><![CDATA[Bàn tay lạnh vấn đề sức khỏe nghiêm trọng]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/he-tuan-hoan-gap-van-de-gay-lanh-tay.jpg</image:loc>
+			<image:caption><![CDATA[Tay chân lạnh là biểu hiện hệ tuần hoàn có vấn đề]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
