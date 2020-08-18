@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-17T15:52:14+00:00</lastmod>
+		<lastmod>2020-08-18T16:37:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hoi-mieng-halitosis/</loc>
@@ -2831,7 +2831,7 @@
 	</url>
 	<url>
 		<loc>https://yeusong.com/hoi-chung-loi-thoat-nguc/</loc>
-		<lastmod>2020-08-17T15:50:40+00:00</lastmod>
+		<lastmod>2020-08-18T12:07:45+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/hoi-chung-loi-thoat-nguc.jpg</image:loc>
 			<image:title><![CDATA[hoi-chung-loi-thoat-nguc]]></image:title>
@@ -2839,8 +2839,99 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://yeusong.com/insulin-la-gi/</loc>
+		<lastmod>2020-08-18T15:34:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/insuline-dieu-tri-benh-tieu-duong.jpg</image:loc>
+			<image:title><![CDATA[insuline-dieu-tri-benh-tieu-duong]]></image:title>
+			<image:caption><![CDATA[Insulin là một loại hormone được tạo ra trong tuyến tụy]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/su-thieu-hut-selen/</loc>
+		<lastmod>2020-08-18T16:01:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/selen-rat-can-thiet-cho-co-the.jpg</image:loc>
+			<image:title><![CDATA[selen-rat-can-thiet-cho-co-the]]></image:title>
+			<image:caption><![CDATA[Selen là một khoáng chất quan trọng]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/moi-dieu-can-biet-ve-benh-cao-huyet-ap-huyet-ap-cao/</loc>
+		<lastmod>2020-08-18T16:33:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/may-do-huyet-ap.jpg</image:loc>
+			<image:caption><![CDATA[Máy đo huyết áp]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/13-loai-hat-tot-nhat-cho-che-do-an-keto/</loc>
+		<lastmod>2020-08-18T16:34:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-ho-dao.jpg</image:loc>
+			<image:caption><![CDATA[Hạt hồ đào]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-hach-cung-cap-selen-rat-tot.jpg</image:loc>
+			<image:caption><![CDATA[Quả hạch là một nguồn selen tuyệt vời]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-chia-giau-chat-beo.jpg</image:loc>
+			<image:caption><![CDATA[Hạt chia  chứa nhiều chất xơ và chất béo omega-3 lành mạnh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-mac-ca-cai-thien-muc-cholesterol.jpg</image:loc>
+			<image:caption><![CDATA[Một số nghiên cứu liên kết hạt macadamia với việc cải thiện mức cholesterol.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-lanh-co-loi-cho-huyet-ap.jpg</image:loc>
+			<image:caption><![CDATA[Hạt lanh làm giảm đáng kể mức huyết áp]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fresh-walnut_144627-16154.jpg</image:loc>
+			<image:caption><![CDATA[Quả óc chó cung cấp Vitamin E và chất béo lành mạnh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-gai-dau-giup-giam-huyet-ap.jpg</image:loc>
+			<image:caption><![CDATA[Một số nghiên cứu chỉ ra rằng các protein độc đáo trong hạt cây gai dầu có thể giúp giảm huyết áp.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-phi-gima-nguy-co-benh-tim-mach.jpg</image:loc>
+			<image:caption><![CDATA[Hạt phỉ cung cấp vitamin E tuyệt vời]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/dau-phong-nhieu-axit-amin.jpg</image:loc>
+			<image:caption><![CDATA[Đậu phộng đặc biệt chứa nhiều leucine, một axit amin chuỗi nhánh thiết yếu (BCAA) được biết đến với tác dụng thúc đẩy sự phát triển cơ bắp.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-me-giam-viem.jpg</image:loc>
+			<image:caption><![CDATA[hạt vừng chứa nhiều chất chống oxy hóa chống viêm được gọi là lignans.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-thong-lam-giam-cam-giac-doi.jpg</image:loc>
+			<image:caption><![CDATA[Hạt thông chứa một chất béo được gọi là axit pinolenic, có thể làm giảm cảm giác đói bằng cách điều chỉnh các hormone ảnh hưởng đến sự thèm ăn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-huong-duong-cung-cap-chat-chong-oxi-hoa.jpg</image:loc>
+			<image:caption><![CDATA[Hạt hường dương có nhiều chất chống oxy hóa chống viêm, chẳng hạn như vitamin E, flavonoid và axit phenolic]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/almonds_1339-237.jpg</image:loc>
+			<image:caption><![CDATA[Ngoài hàm lượng protein cao, chất béo lành mạnh và chất xơ, hạnh nhân còn giàu vitamin E, magiê, đồng và chất chống oxy hóa như proanthocyanidins.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/hat-ho-dao-co-tot-cho-suc-khoe-cua-ban-khong/</loc>
+		<lastmod>2020-08-18T16:35:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-ho-dao.jpg</image:loc>
+			<image:title><![CDATA[qua-ho-dao]]></image:title>
+			<image:caption><![CDATA[Hạt hồ đào]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://yeusong.com/5-nguyen-nhan-khien-ban-tay-lanh/</loc>
-		<lastmod>2020-08-17T15:52:14+00:00</lastmod>
+		<lastmod>2020-08-18T16:37:56+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-buoi-sang-cai-thien-chung-lanh-tay-chan.jpg</image:loc>
 			<image:title><![CDATA[Tay lạnh buốt]]></image:title>
