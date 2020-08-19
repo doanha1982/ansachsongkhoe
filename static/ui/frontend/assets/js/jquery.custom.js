@@ -1,10 +1,8 @@
-
 (function($){ //create closure so we can safely use $ as alias for jQuery
 
     $(document).ready(function(){
 
         "use strict";
-
         /*-----------------------------------------------------------------------------------*/
         /*  Superfish Menu
         /*-----------------------------------------------------------------------------------*/
@@ -85,7 +83,22 @@
             $('.covid-collapse').slideUp('fast', function() {});
             $('.covid-icon-open').show();
             $(this).hide();
-        })
+        });
+        // Jump to top button
+        if ($('.btn-jump-to-top').length > 0){
+            $(window).scroll(function() {
+                if ($(window).scrollTop() > 300) {
+                    $('.btn-jump-to-top').addClass('show');
+                } else {
+                    $('.btn-jump-to-top').removeClass('show');
+                }
+            });
+            $('.btn-jump-to-top').click(function (e) {
+                e.preventDefault();
+                $('html, body').animate({scrollTop:0}, '300');
+            })
+        }
     });
+
 
 })(jQuery);

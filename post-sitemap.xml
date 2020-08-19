@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-18T16:37:56+00:00</lastmod>
+		<lastmod>2020-08-19T03:40:33+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hoi-mieng-halitosis/</loc>
@@ -2865,8 +2865,53 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://yeusong.com/hat-ho-dao-co-tot-cho-suc-khoe-cua-ban-khong/</loc>
+		<lastmod>2020-08-18T16:35:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-ho-dao.jpg</image:loc>
+			<image:title><![CDATA[qua-ho-dao]]></image:title>
+			<image:caption><![CDATA[Hạt hồ đào]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/5-nguyen-nhan-khien-ban-tay-lanh/</loc>
+		<lastmod>2020-08-18T16:37:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-buoi-sang-cai-thien-chung-lanh-tay-chan.jpg</image:loc>
+			<image:title><![CDATA[Tay lạnh buốt]]></image:title>
+			<image:caption><![CDATA[Bàn tay lạnh vấn đề sức khỏe nghiêm trọng]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/he-tuan-hoan-gap-van-de-gay-lanh-tay.jpg</image:loc>
+			<image:caption><![CDATA[Tay chân lạnh là biểu hiện hệ tuần hoàn có vấn đề]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/axit-beo-omega-3/</loc>
+		<lastmod>2020-08-19T03:10:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/omega-3-la-gi.jpg</image:loc>
+			<image:title><![CDATA[omega-3-la-gi]]></image:title>
+			<image:caption><![CDATA[Axit béo Omega-3]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/alzheimer-anh-huong-tieu-cuc-den-tri-nho-suy-nghi-va-hanh-vi/</loc>
+		<lastmod>2020-08-19T03:40:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/alzheimer-suy-giam-tri-nho.jpg</image:loc>
+			<image:title><![CDATA[alzheimer-suy-giam-tri-nho]]></image:title>
+			<image:caption><![CDATA[Alzheimer bệnh suy giảm trí nhớ]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://yeusong.com/13-loai-hat-tot-nhat-cho-che-do-an-keto/</loc>
-		<lastmod>2020-08-18T16:34:06+00:00</lastmod>
+		<lastmod>2020-08-19T03:40:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/13-loai-hat-tot-nhat-cho-che-do-an-keto.jpg</image:loc>
+			<image:title><![CDATA[13-loai-hat-tot-nhat-cho-che-do-an-keto]]></image:title>
+			<image:caption><![CDATA[13 loại hạt tốt nhất cho chế độ ăn Keto]]></image:caption>
+		</image:image>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-ho-dao.jpg</image:loc>
 			<image:caption><![CDATA[Hạt hồ đào]]></image:caption>
@@ -2918,28 +2963,6 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/almonds_1339-237.jpg</image:loc>
 			<image:caption><![CDATA[Ngoài hàm lượng protein cao, chất béo lành mạnh và chất xơ, hạnh nhân còn giàu vitamin E, magiê, đồng và chất chống oxy hóa như proanthocyanidins.]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/hat-ho-dao-co-tot-cho-suc-khoe-cua-ban-khong/</loc>
-		<lastmod>2020-08-18T16:35:45+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-ho-dao.jpg</image:loc>
-			<image:title><![CDATA[qua-ho-dao]]></image:title>
-			<image:caption><![CDATA[Hạt hồ đào]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/5-nguyen-nhan-khien-ban-tay-lanh/</loc>
-		<lastmod>2020-08-18T16:37:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-buoi-sang-cai-thien-chung-lanh-tay-chan.jpg</image:loc>
-			<image:title><![CDATA[Tay lạnh buốt]]></image:title>
-			<image:caption><![CDATA[Bàn tay lạnh vấn đề sức khỏe nghiêm trọng]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/he-tuan-hoan-gap-van-de-gay-lanh-tay.jpg</image:loc>
-			<image:caption><![CDATA[Tay chân lạnh là biểu hiện hệ tuần hoàn có vấn đề]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
