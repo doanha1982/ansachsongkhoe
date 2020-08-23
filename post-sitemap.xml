@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//yeusong.com/static/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://static.yeusong.com/static/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-21T04:46:50+00:00</lastmod>
+		<lastmod>2020-08-23T10:36:53+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hoi-mieng-halitosis/</loc>
@@ -1724,41 +1724,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/9-bai-tap-yoga-giup-ban-co-giac-ngu-ngon/</loc>
-		<lastmod>2020-08-11T04:34:49+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/yoga.jpg</image:loc>
-			<image:title><![CDATA[yoga]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tu-the-anh-hung.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/Child-Pose-Yoga.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/upward-facing-dog.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/calmel-pose-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/butterfly-pose.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/woman-in-supine-twist-yoga-pose.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/HowToDoBridgePose.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/knee-to-chest.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/Corpse-Pose.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/infographic-tinh-hinh-dich-ncovid-19/</loc>
 		<lastmod>2020-08-11T04:40:26+00:00</lastmod>
 		<image:image>
@@ -2958,15 +2923,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/keratin-la-gi/</loc>
-		<lastmod>2020-08-21T04:39:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/keratin-phuc-hoi-toc.jpg</image:loc>
-			<image:title><![CDATA[keratin-phuc-hoi-toc]]></image:title>
-			<image:caption><![CDATA[Keratin là một loại protein tạo nên tóc, da và móng tay của bạn]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/10-loai-thuc-pham-bo-sung-keratin-cho-co-the-ngan-rung-toc/</loc>
 		<lastmod>2020-08-21T04:44:07+00:00</lastmod>
 		<image:image>
@@ -3017,6 +2973,113 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/may-do-huyet-ap.jpg</image:loc>
 			<image:caption><![CDATA[Máy đo huyết áp]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/keratin-la-gi/</loc>
+		<lastmod>2020-08-21T05:28:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/keratin-phuc-hoi-toc.jpg</image:loc>
+			<image:title><![CDATA[keratin-phuc-hoi-toc]]></image:title>
+			<image:caption><![CDATA[Keratin là một loại protein tạo nên tóc, da và móng tay của bạn]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/20-meo-don-gian-giup-ban-nhanh-chong-chim-vao-giac-ngu/</loc>
+		<lastmod>2020-08-23T04:20:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/20-meo-mang-lai-giac-ngu-ngon.jpg</image:loc>
+			<image:title><![CDATA[20-meo-mang-lai-giac-ngu-ngon]]></image:title>
+			<image:caption><![CDATA[20 mẹo mang lại giấc ngủ ngon]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/yoga.jpg</image:loc>
+			<image:caption><![CDATA[9 bài tập Yoga giúp bạn có giấc ngủ ngon]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/9-bai-tap-yoga-giup-ban-co-giac-ngu-ngon/</loc>
+		<lastmod>2020-08-23T04:20:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/yoga.jpg</image:loc>
+			<image:title><![CDATA[yoga]]></image:title>
+			<image:caption><![CDATA[9 bài tập Yoga giúp bạn có giấc ngủ ngon]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tu-the-anh-hung.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Child-Pose-Yoga.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/upward-facing-dog.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/calmel-pose-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/butterfly-pose.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/woman-in-supine-twist-yoga-pose.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/HowToDoBridgePose.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/knee-to-chest.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Corpse-Pose.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/17-loai-thuc-pham-tot-nhat-giup-giam-luong-duong-trong-mau/</loc>
+		<lastmod>2020-08-23T10:22:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/17-thuc-pham-giup-giam-duong-trong-mau.jpg</image:loc>
+			<image:title><![CDATA[17-loai-thuc-pham-giup-giam-luong-duong-trong-mau]]></image:title>
+			<image:caption><![CDATA[17 loại thực phẩm tốt nhất để giảm lượng đường trong máu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bong-cai-xanh.jpg</image:loc>
+			<image:caption><![CDATA[bông cải xanh giàu sulforaphane có tác dụng chống đái tháo đường mạnh mẽ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hai-san-cung-cap-rpotein-giup-lam-cham-tieu-hoa.jpg</image:loc>
+			<image:caption><![CDATA[Hải sản cung cấp một nguồn protein có giá trị, chất béo lành mạnh, vitamin, khoáng chất và chất chống oxy hóa có thể giúp điều chỉnh lượng đường trong máu.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bi-ngo-va-hat-bi.jpg</image:loc>
+			<image:caption><![CDATA[cung cấp một nguồn protein có giá trị, chất béo lành mạnh, vitamin, khoáng chất và chất chống oxy hóa có thể giúp điều chỉnh lượng đường trong máu.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-giong-dau-bap-1.jpg</image:loc>
+			<image:caption><![CDATA[Đậu bắp là một nguồn dồi dào các hợp chất làm giảm lượng đường trong máu như polysaccharides và chất chống oxy hóa flavonoid.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-lanh-co-loi-cho-huyet-ap.jpg</image:loc>
+			<image:caption><![CDATA[Hạt lanh rất giàu chất xơ và chất béo lành mạnh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-chia-giau-chat-beo.jpg</image:loc>
+			<image:caption><![CDATA[Ăn hạt Chia có thể giúp kiểm soát lượng đường trong máu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/macro-shot-avocado-isolated-white-background_53876-14904.jpg</image:loc>
+			<image:caption><![CDATA[Bơ rất giàu chất béo lành mạnh, chất xơ, vitamin và khoáng chất]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/orange-white-white_144627-16571.jpg</image:loc>
+			<image:caption><![CDATA[Trái cây họ cam quýt như cam và bưởi chứa nhiều chất xơ]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/che-do-an-ketogenic-huong-dan-chi-tiet-cho-nguoi-moi-bat-dau-voi-keto/</loc>
+		<lastmod>2020-08-23T10:36:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ketogenic-moi-dieu-can-biet.jpg</image:loc>
+			<image:caption><![CDATA[Ketogenic tất cả mọi điều bạn cần biết]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
