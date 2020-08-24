@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-23T10:36:53+00:00</lastmod>
+		<lastmod>2020-08-24T12:52:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hoi-mieng-halitosis/</loc>
@@ -3076,10 +3076,28 @@
 	</url>
 	<url>
 		<loc>https://yeusong.com/che-do-an-ketogenic-huong-dan-chi-tiet-cho-nguoi-moi-bat-dau-voi-keto/</loc>
-		<lastmod>2020-08-23T10:36:53+00:00</lastmod>
+		<lastmod>2020-08-24T12:49:12+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/ketogenic-moi-dieu-can-biet.jpg</image:loc>
 			<image:caption><![CDATA[Ketogenic tất cả mọi điều bạn cần biết]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-cum-keto-la-gi-trieu-chung-va-cach-xu-tri/</loc>
+		<lastmod>2020-08-24T12:51:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cum-keto-la-gi.jpg</image:loc>
+			<image:title><![CDATA[cum-keto-la-gi]]></image:title>
+			<image:caption><![CDATA[Bệnh cúm Keto là gì? Triệu chứng và cách xử trí]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/9-loi-ich-suc-khoe-cua-che-do-an-kieng-low-carb-va-ketogenic/</loc>
+		<lastmod>2020-08-24T12:52:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/loi-ich-mang-lai-tu-che-do-an-low-carb.jpg</image:loc>
+			<image:title><![CDATA[Healthy vegetarian balanced food concept,fresh vegetable salad, buddha bowl on dark background]]></image:title>
+			<image:caption><![CDATA[9 lợi ích thần kỳ từ chế độ ăn low-carb và ketogenic]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
