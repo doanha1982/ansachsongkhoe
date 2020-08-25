@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-24T12:52:50+00:00</lastmod>
+		<lastmod>2020-08-24T16:14:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hoi-mieng-halitosis/</loc>
@@ -3098,6 +3098,37 @@
 			<image:loc>https://yeusong.com/static/uploads/2020/08/loi-ich-mang-lai-tu-che-do-an-low-carb.jpg</image:loc>
 			<image:title><![CDATA[Healthy vegetarian balanced food concept,fresh vegetable salad, buddha bowl on dark background]]></image:title>
 			<image:caption><![CDATA[9 lợi ích thần kỳ từ chế độ ăn low-carb và ketogenic]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/thoai-hoa-diem-vang-amd/</loc>
+		<lastmod>2020-08-24T15:24:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/thoai-hoa-diem-vamg-amd-la-gi.jpg</image:loc>
+			<image:title><![CDATA[thoai-hoa-diem-vamg-amd-la-gi]]></image:title>
+			<image:caption><![CDATA[Thoái hóa điểm vàng liên quan đến tuổi tác]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/4-cong-thuc-salad-rau-bina-cuc-ngon/</loc>
+		<lastmod>2020-08-24T16:13:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/salad-rau-bina.jpg</image:loc>
+			<image:title><![CDATA[salad-rau-bina]]></image:title>
+			<image:caption><![CDATA[4 công thức salad với rau bina tuyệt đỉnh]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/6-loi-ich-suc-khoe-cua-rau-bina/</loc>
+		<lastmod>2020-08-24T16:14:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/raubina-la-gi.jpg</image:loc>
+			<image:title><![CDATA[raubina-la-gi]]></image:title>
+			<image:caption><![CDATA[Rau bina là gì? 6 lợi ích sức khỏe của rau bina]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/salad-rau-bina.jpg</image:loc>
+			<image:caption><![CDATA[4 công thức salad với rau bina tuyệt đỉnh]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
