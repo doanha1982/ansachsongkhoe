@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-24T16:14:56+00:00</lastmod>
+		<lastmod>2020-08-26T04:29:24+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hoi-mieng-halitosis/</loc>
@@ -2268,27 +2268,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/sai-lam-khi-an-gia-do-gay-nguy-co-trung-doc-mac-ung-thu/</loc>
-		<lastmod>2020-08-15T05:02:46+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/gia-do-feature.jpg</image:loc>
-			<image:title><![CDATA[Giá đỗ rất giàu vitamin đặc biệt là vitamin C cùng các khoáng chất amino acid, protein và chất có nguồn gốc thực vật (phytochemicals) rất bổ dưỡng cho con người.]]></image:title>
-			<image:caption><![CDATA[Giá đỗ tuy rất bổ dưỡng nhưng nếu không hiểu biết mà dùng tùy tiện thì cũng lợi bất cập hại cho sức khỏe.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/gia-do.jpg</image:loc>
-			<image:caption><![CDATA[nhiều người bán hàng tham lợi đã dùng những loại hóa chất như thuốc kích thích, ure... để ủ giá nhằm làm cho chúng mập mạp, bắt mắt.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/anh-huong-gia-do.jpg</image:loc>
-			<image:caption><![CDATA[Giá đỗ rất bổ nhưng mọi người không nên ăn quá 550g giá sống mỗi ngày.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/khong-an-gia-khi-uong-thuoc.jpg</image:loc>
-			<image:caption><![CDATA[Giá đỗ có tính giải các chất độc nhưng nó cũng giải luôn tác dụng của thuốc]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/bi-viem-gan-sieu-vi-b-nen-an-gi-kieng-gi/</loc>
 		<lastmod>2020-08-15T05:11:26+00:00</lastmod>
 		<image:image>
@@ -2637,8 +2616,163 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://yeusong.com/cac-trieu-chung-nhiem-covid-19/</loc>
+		<lastmod>2020-08-17T10:54:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/VNU-WHO-COVID-19.jpg</image:loc>
+			<image:title><![CDATA[Các triệu chứng nhiễm  covid-19]]></image:title>
+			<image:caption><![CDATA[Các triệu chứng nhiễm covid-19]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/covid-1508.jpg</image:loc>
+			<image:caption><![CDATA[Triệu chứng nhiễm covid-19. Tình hình dịch bệnh covid-19 tại Việt Nam]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/suy-giam-tuan-hoan-mau/</loc>
+		<lastmod>2020-08-17T11:54:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/suy-giam-tuan-hoan.jpg</image:loc>
+			<image:title><![CDATA[suy-giam-tuan-hoan]]></image:title>
+			<image:caption><![CDATA[Suy giảm tuần hoàn máu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hep-dong-mach-ngoai-vi.jpg</image:loc>
+			<image:caption><![CDATA[Bệnh động mạch ngoại biên (PAD) là một tình trạng tuần hoàn gây ra thu hẹp các mạch máu và động mạch]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/photo1523432946668-15234329466681799151617.jpg</image:loc>
+			<image:caption><![CDATA[cục máu đông  sẽ làm tắt nghẽn dòng chảy của máu trong cơ thể]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/suy-gian-tinh-mach-chan.jpeg</image:loc>
+			<image:caption><![CDATA[Giãn tĩnh mạch thừng tinh là hiện tượng tĩnh mạch bị giãn nở do suy van]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/5-nhom-benh-tieu-duong.jpg</image:loc>
+			<image:caption><![CDATA[Bệnh tiểu đường có thể gây ra chuột rút ở chân, cũng như đau bắp chân, đùi hoặc mông]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-raynaud.jpg</image:loc>
+			<image:caption><![CDATA[Căn bệnh Raynaud này khiến các động mạch nhỏ ở bàn tay và ngón chân bị thu hẹp]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/9-bai-tap-yoga-giup-ban-co-giac-ngu-ngon/</loc>
+		<lastmod>2020-08-23T04:20:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/yoga.jpg</image:loc>
+			<image:title><![CDATA[yoga]]></image:title>
+			<image:caption><![CDATA[9 bài tập Yoga giúp bạn có giấc ngủ ngon]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tu-the-anh-hung.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Child-Pose-Yoga.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/upward-facing-dog.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/calmel-pose-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/butterfly-pose.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/woman-in-supine-twist-yoga-pose.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/HowToDoBridgePose.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/knee-to-chest.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Corpse-Pose.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/4-cong-thuc-salad-rau-bina-cuc-ngon/</loc>
+		<lastmod>2020-08-25T16:26:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/salad-rau-bina.jpg</image:loc>
+			<image:title><![CDATA[salad-rau-bina]]></image:title>
+			<image:caption><![CDATA[4 công thức salad với rau bina tuyệt đỉnh]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/thoai-hoa-diem-vang-amd/</loc>
+		<lastmod>2020-08-25T16:33:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/thoai-hoa-diem-vamg-amd-la-gi.jpg</image:loc>
+			<image:title><![CDATA[thoai-hoa-diem-vamg-amd-la-gi]]></image:title>
+			<image:caption><![CDATA[Thoái hóa điểm vàng liên quan đến tuổi tác]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/20-meo-don-gian-giup-ban-nhanh-chong-chim-vao-giac-ngu/</loc>
+		<lastmod>2020-08-25T16:44:38+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/20-meo-mang-lai-giac-ngu-ngon.jpg</image:loc>
+			<image:title><![CDATA[20-meo-mang-lai-giac-ngu-ngon]]></image:title>
+			<image:caption><![CDATA[20 mẹo mang lại giấc ngủ ngon]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/yoga.jpg</image:loc>
+			<image:caption><![CDATA[9 bài tập Yoga giúp bạn có giấc ngủ ngon]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/moi-dieu-can-biet-ve-benh-cao-huyet-ap-huyet-ap-cao/</loc>
+		<lastmod>2020-08-25T16:47:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/may-do-huyet-ap.jpg</image:loc>
+			<image:caption><![CDATA[Máy đo huyết áp]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/5-nguyen-nhan-khien-ban-tay-lanh/</loc>
+		<lastmod>2020-08-26T03:04:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-buoi-sang-cai-thien-chung-lanh-tay-chan.jpg</image:loc>
+			<image:title><![CDATA[Tay lạnh buốt]]></image:title>
+			<image:caption><![CDATA[Bàn tay lạnh vấn đề sức khỏe nghiêm trọng]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/he-tuan-hoan-gap-van-de-gay-lanh-tay.jpg</image:loc>
+			<image:caption><![CDATA[Tay chân lạnh là biểu hiện hệ tuần hoàn có vấn đề]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/loi-ich-khi-tam-buoi-sang-thay-vi-buoi-toi/</loc>
+		<lastmod>2020-08-26T03:08:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-buoi-sang-rat-tot-cho-suc-khoe.jpg</image:loc>
+			<image:title><![CDATA[tam-buoi-sang-rat-tot-cho-suc-khoe]]></image:title>
+			<image:caption><![CDATA[8 dấu hiệu bạn nên tắm vào buổi sáng]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-buoi-sang-cai-thien-chung-lanh-tay-chan.jpg</image:loc>
+			<image:caption><![CDATA[Tắm vào sáng sớm làm cho máu dồn lên bề mặt da, giúp cải thiện lưu lượng máu tổng thể]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-sang-giup-cai-thien-co-the-met-moi.jpg</image:loc>
+			<image:caption><![CDATA[Tắm sáng giúp tăng cường hệ thần kinh trung ương và kích thích tuyến thượng thận]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-giup-can-bang-luong-dau-tren-da.jpg</image:loc>
+			<image:caption><![CDATA[Tắm buổi sáng giúp cân bằng và điều tiết lượng dầu tự nhiên trên da]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tinh-trung.jpg</image:loc>
+			<image:caption><![CDATA[tắm nước lạnh không chỉ giúp tăng  nồng  độ testosterone mà còn giúp tăng năng suất sản xuất tinh trùng.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://yeusong.com/doc-chieu-dau-chuyen-phu-nu-ngoai-tinh-dan-ong-khong-bao-gio-biet/</loc>
-		<lastmod>2020-08-17T10:54:01+00:00</lastmod>
+		<lastmod>2020-08-26T03:09:02+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/phu-nu-giau-chuyen-ngoai-tinh-tot-hon-dan-ong.jpg</image:loc>
 			<image:title><![CDATA[phu-nu-giau-chuyen-ngoai-tinh-tot-hon-dan-ong]]></image:title>
@@ -2667,7 +2801,7 @@
 	</url>
 	<url>
 		<loc>https://yeusong.com/phu-nu-co-nguy-co-ngoai-tinh-cuc-cao-khi-lam-nhung-cong-viec-nay/</loc>
-		<lastmod>2020-08-17T10:54:30+00:00</lastmod>
+		<lastmod>2020-08-26T03:09:22+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/phu-nu-de-ngoai-tinh-theo-cong-viec.jpg</image:loc>
 			<image:title><![CDATA[phu-nu-de-ngoai-tinh-theo-cong-viec]]></image:title>
@@ -2715,146 +2849,180 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/cac-trieu-chung-nhiem-covid-19/</loc>
-		<lastmod>2020-08-17T10:54:51+00:00</lastmod>
+		<loc>https://yeusong.com/sai-lam-khi-an-gia-do-gay-nguy-co-trung-doc-mac-ung-thu/</loc>
+		<lastmod>2020-08-26T03:11:02+00:00</lastmod>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/VNU-WHO-COVID-19.jpg</image:loc>
-			<image:title><![CDATA[Các triệu chứng nhiễm  covid-19]]></image:title>
-			<image:caption><![CDATA[Các triệu chứng nhiễm covid-19]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/gia-do-feature.jpg</image:loc>
+			<image:title><![CDATA[Giá đỗ rất giàu vitamin đặc biệt là vitamin C cùng các khoáng chất amino acid, protein và chất có nguồn gốc thực vật (phytochemicals) rất bổ dưỡng cho con người.]]></image:title>
+			<image:caption><![CDATA[Giá đỗ tuy rất bổ dưỡng nhưng nếu không hiểu biết mà dùng tùy tiện thì cũng lợi bất cập hại cho sức khỏe.]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/covid-1508.jpg</image:loc>
-			<image:caption><![CDATA[Triệu chứng nhiễm covid-19. Tình hình dịch bệnh covid-19 tại Việt Nam]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/suy-giam-tuan-hoan-mau/</loc>
-		<lastmod>2020-08-17T11:54:50+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/suy-giam-tuan-hoan.jpg</image:loc>
-			<image:title><![CDATA[suy-giam-tuan-hoan]]></image:title>
-			<image:caption><![CDATA[Suy giảm tuần hoàn máu]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/gia-do.jpg</image:loc>
+			<image:caption><![CDATA[nhiều người bán hàng tham lợi đã dùng những loại hóa chất như thuốc kích thích, ure... để ủ giá nhằm làm cho chúng mập mạp, bắt mắt.]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/hep-dong-mach-ngoai-vi.jpg</image:loc>
-			<image:caption><![CDATA[Bệnh động mạch ngoại biên (PAD) là một tình trạng tuần hoàn gây ra thu hẹp các mạch máu và động mạch]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/anh-huong-gia-do.jpg</image:loc>
+			<image:caption><![CDATA[Giá đỗ rất bổ nhưng mọi người không nên ăn quá 550g giá sống mỗi ngày.]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/photo1523432946668-15234329466681799151617.jpg</image:loc>
-			<image:caption><![CDATA[cục máu đông  sẽ làm tắt nghẽn dòng chảy của máu trong cơ thể]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/suy-gian-tinh-mach-chan.jpeg</image:loc>
-			<image:caption><![CDATA[Giãn tĩnh mạch thừng tinh là hiện tượng tĩnh mạch bị giãn nở do suy van]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/5-nhom-benh-tieu-duong.jpg</image:loc>
-			<image:caption><![CDATA[Bệnh tiểu đường có thể gây ra chuột rút ở chân, cũng như đau bắp chân, đùi hoặc mông]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-raynaud.jpg</image:loc>
-			<image:caption><![CDATA[Căn bệnh Raynaud này khiến các động mạch nhỏ ở bàn tay và ngón chân bị thu hẹp]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/khong-an-gia-khi-uong-thuoc.jpg</image:loc>
+			<image:caption><![CDATA[Giá đỗ có tính giải các chất độc nhưng nó cũng giải luôn tác dụng của thuốc]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/mun-trung-ca/</loc>
-		<lastmod>2020-08-17T15:21:28+00:00</lastmod>
+		<loc>https://yeusong.com/giam-mo-bung-5-loai-thuc-pham-hang-dau/</loc>
+		<lastmod>2020-08-26T03:27:28+00:00</lastmod>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/mun-trung-ca-xay-ra-moi-lua-tuoi.jpg</image:loc>
-			<image:title><![CDATA[mun-trung-ca-xay-ra-moi-lua-tuoi]]></image:title>
-			<image:caption><![CDATA[Mụn trứng cá là tình trạng da phổ biến]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/thuc-pham-giup-giam-mo-bung.jpg</image:loc>
+			<image:title><![CDATA[thuc-pham-giup-giam-mo-bung]]></image:title>
+			<image:caption><![CDATA[5 loại thực phẩm hàng đầu giảm mỡ bụng]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/mun-trung-ca-dang-nhe-dieu-tri-boi-gel-1.jpg</image:loc>
-			<image:caption><![CDATA[Kem và sữa dưỡng là tốt nhất cho da nhạy cảm]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/loi-ich-khi-tam-buoi-sang-thay-vi-buoi-toi/</loc>
-		<lastmod>2020-08-17T15:22:44+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-buoi-sang-rat-tot-cho-suc-khoe.jpg</image:loc>
-			<image:title><![CDATA[tam-buoi-sang-rat-tot-cho-suc-khoe]]></image:title>
-			<image:caption><![CDATA[8 dấu hiệu bạn nên tắm vào buổi sáng]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/macro-shot-avocado-isolated-white-background_53876-14904.jpg</image:loc>
+			<image:caption><![CDATA[Bơ rất giàu chất béo lành mạnh, chất xơ, vitamin và khoáng chất]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-buoi-sang-cai-thien-chung-lanh-tay-chan.jpg</image:loc>
-			<image:caption><![CDATA[Tắm vào sáng sớm làm cho máu dồn lên bề mặt da, giúp cải thiện lưu lượng máu tổng thể]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-hach-cung-cap-selen-rat-tot.jpg</image:loc>
+			<image:caption><![CDATA[Hạt có nhiều chất dinh dưỡng mà người lớn thường thiếu hụt, như magiê, hỗ trợ sức khỏe tâm thần và giấc ngủ.]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-sang-giup-cai-thien-co-the-met-moi.jpg</image:loc>
-			<image:caption><![CDATA[Tắm sáng giúp tăng cường hệ thần kinh trung ương và kích thích tuyến thượng thận]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-giup-can-bang-luong-dau-tren-da.jpg</image:loc>
-			<image:caption><![CDATA[Tắm buổi sáng giúp cân bằng và điều tiết lượng dầu tự nhiên trên da]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tinh-trung.jpg</image:loc>
-			<image:caption><![CDATA[tắm nước lạnh không chỉ giúp tăng  nồng  độ testosterone mà còn giúp tăng năng suất sản xuất tinh trùng.]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ca-hoi-chua-nhieu-vitamin-d.jpg</image:loc>
+			<image:caption><![CDATA[100g cá hồi có thể cung cấp 80% lượng vitamin D cần thiết mỗi ngày.]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/hoi-chung-loi-thoat-nguc/</loc>
-		<lastmod>2020-08-18T12:07:45+00:00</lastmod>
+		<loc>https://yeusong.com/6-loi-ich-suc-khoe-cua-rau-bina/</loc>
+		<lastmod>2020-08-26T03:28:32+00:00</lastmod>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/hoi-chung-loi-thoat-nguc.jpg</image:loc>
-			<image:title><![CDATA[hoi-chung-loi-thoat-nguc]]></image:title>
-			<image:caption><![CDATA[Hội chứng lối thoát ngực]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/raubina-la-gi.jpg</image:loc>
+			<image:title><![CDATA[raubina-la-gi]]></image:title>
+			<image:caption><![CDATA[Rau bina là gì? 6 lợi ích sức khỏe của rau bina]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/insulin-la-gi/</loc>
-		<lastmod>2020-08-18T15:34:27+00:00</lastmod>
+		<loc>https://yeusong.com/9-loi-ich-suc-khoe-cua-che-do-an-kieng-low-carb-va-ketogenic/</loc>
+		<lastmod>2020-08-26T03:29:02+00:00</lastmod>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/insuline-dieu-tri-benh-tieu-duong.jpg</image:loc>
-			<image:title><![CDATA[insuline-dieu-tri-benh-tieu-duong]]></image:title>
-			<image:caption><![CDATA[Insulin là một loại hormone được tạo ra trong tuyến tụy]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/loi-ich-mang-lai-tu-che-do-an-low-carb.jpg</image:loc>
+			<image:title><![CDATA[Healthy vegetarian balanced food concept,fresh vegetable salad, buddha bowl on dark background]]></image:title>
+			<image:caption><![CDATA[9 lợi ích thần kỳ từ chế độ ăn low-carb và ketogenic]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/su-thieu-hut-selen/</loc>
-		<lastmod>2020-08-18T16:01:15+00:00</lastmod>
+		<loc>https://yeusong.com/benh-cum-keto-la-gi-trieu-chung-va-cach-xu-tri/</loc>
+		<lastmod>2020-08-26T03:29:23+00:00</lastmod>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/selen-rat-can-thiet-cho-co-the.jpg</image:loc>
-			<image:title><![CDATA[selen-rat-can-thiet-cho-co-the]]></image:title>
-			<image:caption><![CDATA[Selen là một khoáng chất quan trọng]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cum-keto-la-gi.jpg</image:loc>
+			<image:title><![CDATA[cum-keto-la-gi]]></image:title>
+			<image:caption><![CDATA[Bệnh cúm Keto là gì? Triệu chứng và cách xử trí]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/hat-ho-dao-co-tot-cho-suc-khoe-cua-ban-khong/</loc>
-		<lastmod>2020-08-18T16:35:45+00:00</lastmod>
+		<loc>https://yeusong.com/che-do-an-ketogenic-huong-dan-chi-tiet-cho-nguoi-moi-bat-dau-voi-keto/</loc>
+		<lastmod>2020-08-26T03:29:47+00:00</lastmod>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-ho-dao.jpg</image:loc>
-			<image:title><![CDATA[qua-ho-dao]]></image:title>
-			<image:caption><![CDATA[Hạt hồ đào]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ketogenic-moi-dieu-can-biet.jpg</image:loc>
+			<image:caption><![CDATA[Ketogenic tất cả mọi điều bạn cần biết]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/5-nguyen-nhan-khien-ban-tay-lanh/</loc>
-		<lastmod>2020-08-18T16:37:56+00:00</lastmod>
+		<loc>https://yeusong.com/17-loai-thuc-pham-tot-nhat-giup-giam-luong-duong-trong-mau/</loc>
+		<lastmod>2020-08-26T03:30:41+00:00</lastmod>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-buoi-sang-cai-thien-chung-lanh-tay-chan.jpg</image:loc>
-			<image:title><![CDATA[Tay lạnh buốt]]></image:title>
-			<image:caption><![CDATA[Bàn tay lạnh vấn đề sức khỏe nghiêm trọng]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/17-thuc-pham-giup-giam-duong-trong-mau.jpg</image:loc>
+			<image:title><![CDATA[17-loai-thuc-pham-giup-giam-luong-duong-trong-mau]]></image:title>
+			<image:caption><![CDATA[17 loại thực phẩm tốt nhất để giảm lượng đường trong máu]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/he-tuan-hoan-gap-van-de-gay-lanh-tay.jpg</image:loc>
-			<image:caption><![CDATA[Tay chân lạnh là biểu hiện hệ tuần hoàn có vấn đề]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bong-cai-xanh.jpg</image:loc>
+			<image:caption><![CDATA[bông cải xanh giàu sulforaphane có tác dụng chống đái tháo đường mạnh mẽ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hai-san-cung-cap-rpotein-giup-lam-cham-tieu-hoa.jpg</image:loc>
+			<image:caption><![CDATA[Hải sản cung cấp một nguồn protein có giá trị, chất béo lành mạnh, vitamin, khoáng chất và chất chống oxy hóa có thể giúp điều chỉnh lượng đường trong máu.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bi-ngo-va-hat-bi.jpg</image:loc>
+			<image:caption><![CDATA[cung cấp một nguồn protein có giá trị, chất béo lành mạnh, vitamin, khoáng chất và chất chống oxy hóa có thể giúp điều chỉnh lượng đường trong máu.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-giong-dau-bap-1.jpg</image:loc>
+			<image:caption><![CDATA[Đậu bắp là một nguồn dồi dào các hợp chất làm giảm lượng đường trong máu như polysaccharides và chất chống oxy hóa flavonoid.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-lanh-co-loi-cho-huyet-ap.jpg</image:loc>
+			<image:caption><![CDATA[Hạt lanh rất giàu chất xơ và chất béo lành mạnh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-chia-giau-chat-beo.jpg</image:loc>
+			<image:caption><![CDATA[Ăn hạt Chia có thể giúp kiểm soát lượng đường trong máu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/macro-shot-avocado-isolated-white-background_53876-14904.jpg</image:loc>
+			<image:caption><![CDATA[Bơ rất giàu chất béo lành mạnh, chất xơ, vitamin và khoáng chất]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/orange-white-white_144627-16571.jpg</image:loc>
+			<image:caption><![CDATA[Trái cây họ cam quýt như cam và bưởi chứa nhiều chất xơ]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/axit-beo-omega-3/</loc>
-		<lastmod>2020-08-19T03:10:05+00:00</lastmod>
+		<loc>https://yeusong.com/keratin-la-gi/</loc>
+		<lastmod>2020-08-26T03:33:28+00:00</lastmod>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/omega-3-la-gi.jpg</image:loc>
-			<image:title><![CDATA[omega-3-la-gi]]></image:title>
-			<image:caption><![CDATA[Axit béo Omega-3]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/keratin-phuc-hoi-toc.jpg</image:loc>
+			<image:title><![CDATA[keratin-phuc-hoi-toc]]></image:title>
+			<image:caption><![CDATA[Keratin là một loại protein tạo nên tóc, da và móng tay của bạn]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/10-loai-thuc-pham-bo-sung-keratin-cho-co-the-ngan-rung-toc/</loc>
+		<lastmod>2020-08-26T03:37:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/10-loai-thuc-pham-tang-cuong-ketarin.jpg</image:loc>
+			<image:title><![CDATA[10-loai-thuc-pham-bo-sung-ketarin-tot-nhat]]></image:title>
+			<image:caption><![CDATA[10 loại thực phẩm bổ sung ketarin tốt nhất]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/top-view-formwork-with-eggs-table_23-2148621024.jpg</image:loc>
+			<image:caption><![CDATA[Trứng là nguồn thực phẩm bổ sung ketarin tự nhiên]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ripe-onion-white-background_1088-908.jpg</image:loc>
+			<image:caption><![CDATA[Hành tây]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ca-hoi.jpg</image:loc>
+			<image:caption><![CDATA[Cá hồi giàu biotin hỗ trợ bổ sung keratin]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sweet-potatoes_144627-33702.jpg</image:loc>
+			<image:caption><![CDATA[Khoai lang cung cấp vitamin A tổng hợp keratin]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-huong-duong-cung-cap-chat-chong-oxi-hoa.jpg</image:loc>
+			<image:caption><![CDATA[Hạt hướng dương là thực phẩm bổ sung keratin tuyệt vời]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-xoai-chua-nhieu-provitamin-a.jpg</image:loc>
+			<image:caption><![CDATA[Xoài]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-hanh-tay-1.jpg</image:loc>
+			<image:caption><![CDATA[Tỏi]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cai-xoa-cung-ca-vitamin-a.jpg</image:loc>
+			<image:caption><![CDATA[Cải xoăn cung cấp vitamin A, thực phẩm bổ sung keratin]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ca-rot.jpg</image:loc>
+			<image:caption><![CDATA[Cà rốt chứa nhiều provitamin A]]></image:caption>
 		</image:image>
 	</url>
 	<url>
 		<loc>https://yeusong.com/alzheimer-anh-huong-tieu-cuc-den-tri-nho-suy-nghi-va-hanh-vi/</loc>
-		<lastmod>2020-08-19T03:40:17+00:00</lastmod>
+		<lastmod>2020-08-26T03:39:06+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/alzheimer-suy-giam-tri-nho.jpg</image:loc>
 			<image:title><![CDATA[alzheimer-suy-giam-tri-nho]]></image:title>
@@ -2862,8 +3030,35 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://yeusong.com/axit-beo-omega-3/</loc>
+		<lastmod>2020-08-26T03:40:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/omega-3-la-gi.jpg</image:loc>
+			<image:title><![CDATA[omega-3-la-gi]]></image:title>
+			<image:caption><![CDATA[Axit béo Omega-3]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/su-thieu-hut-selen/</loc>
+		<lastmod>2020-08-26T03:45:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/selen-rat-can-thiet-cho-co-the.jpg</image:loc>
+			<image:title><![CDATA[selen-rat-can-thiet-cho-co-the]]></image:title>
+			<image:caption><![CDATA[Selen là một khoáng chất quan trọng]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/insulin-la-gi/</loc>
+		<lastmod>2020-08-26T03:47:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/insuline-dieu-tri-benh-tieu-duong.jpg</image:loc>
+			<image:title><![CDATA[insuline-dieu-tri-benh-tieu-duong]]></image:title>
+			<image:caption><![CDATA[Insulin là một loại hormone được tạo ra trong tuyến tụy]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://yeusong.com/13-loai-hat-tot-nhat-cho-che-do-an-keto/</loc>
-		<lastmod>2020-08-19T03:40:33+00:00</lastmod>
+		<lastmod>2020-08-26T03:48:48+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/13-loai-hat-tot-nhat-cho-che-do-an-keto.jpg</image:loc>
 			<image:title><![CDATA[13-loai-hat-tot-nhat-cho-che-do-an-keto]]></image:title>
@@ -2923,212 +3118,43 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/10-loai-thuc-pham-bo-sung-keratin-cho-co-the-ngan-rung-toc/</loc>
-		<lastmod>2020-08-21T04:44:07+00:00</lastmod>
+		<loc>https://yeusong.com/hat-ho-dao-co-tot-cho-suc-khoe-cua-ban-khong/</loc>
+		<lastmod>2020-08-26T03:52:14+00:00</lastmod>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/10-loai-thuc-pham-tang-cuong-ketarin.jpg</image:loc>
-			<image:title><![CDATA[10-loai-thuc-pham-bo-sung-ketarin-tot-nhat]]></image:title>
-			<image:caption><![CDATA[10 loại thực phẩm bổ sung ketarin tốt nhất]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/top-view-formwork-with-eggs-table_23-2148621024.jpg</image:loc>
-			<image:caption><![CDATA[Trứng là nguồn thực phẩm bổ sung ketarin tự nhiên]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/ripe-onion-white-background_1088-908.jpg</image:loc>
-			<image:caption><![CDATA[Hành tây]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/ca-hoi.jpg</image:loc>
-			<image:caption><![CDATA[Cá hồi giàu biotin hỗ trợ bổ sung keratin]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/sweet-potatoes_144627-33702.jpg</image:loc>
-			<image:caption><![CDATA[Khoai lang cung cấp vitamin A tổng hợp keratin]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-huong-duong-cung-cap-chat-chong-oxi-hoa.jpg</image:loc>
-			<image:caption><![CDATA[Hạt hướng dương là thực phẩm bổ sung keratin tuyệt vời]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-xoai-chua-nhieu-provitamin-a.jpg</image:loc>
-			<image:caption><![CDATA[Xoài]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-hanh-tay-1.jpg</image:loc>
-			<image:caption><![CDATA[Tỏi]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/cai-xoa-cung-ca-vitamin-a.jpg</image:loc>
-			<image:caption><![CDATA[Cải xoăn cung cấp vitamin A, thực phẩm bổ sung keratin]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/ca-rot.jpg</image:loc>
-			<image:caption><![CDATA[Cà rốt chứa nhiều provitamin A]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-ho-dao.jpg</image:loc>
+			<image:title><![CDATA[qua-ho-dao]]></image:title>
+			<image:caption><![CDATA[Hạt hồ đào]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/moi-dieu-can-biet-ve-benh-cao-huyet-ap-huyet-ap-cao/</loc>
-		<lastmod>2020-08-21T04:46:50+00:00</lastmod>
+		<loc>https://yeusong.com/hoi-chung-loi-thoat-nguc/</loc>
+		<lastmod>2020-08-26T03:54:14+00:00</lastmod>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/may-do-huyet-ap.jpg</image:loc>
-			<image:caption><![CDATA[Máy đo huyết áp]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hoi-chung-loi-thoat-nguc.jpg</image:loc>
+			<image:title><![CDATA[hoi-chung-loi-thoat-nguc]]></image:title>
+			<image:caption><![CDATA[Hội chứng lối thoát ngực]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/keratin-la-gi/</loc>
-		<lastmod>2020-08-21T05:28:01+00:00</lastmod>
+		<loc>https://yeusong.com/mun-trung-ca/</loc>
+		<lastmod>2020-08-26T03:55:46+00:00</lastmod>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/keratin-phuc-hoi-toc.jpg</image:loc>
-			<image:title><![CDATA[keratin-phuc-hoi-toc]]></image:title>
-			<image:caption><![CDATA[Keratin là một loại protein tạo nên tóc, da và móng tay của bạn]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mun-trung-ca-xay-ra-moi-lua-tuoi.jpg</image:loc>
+			<image:title><![CDATA[mun-trung-ca-xay-ra-moi-lua-tuoi]]></image:title>
+			<image:caption><![CDATA[Mụn trứng cá là tình trạng da phổ biến]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mun-trung-ca-dang-nhe-dieu-tri-boi-gel-1.jpg</image:loc>
+			<image:caption><![CDATA[Kem và sữa dưỡng là tốt nhất cho da nhạy cảm]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/20-meo-don-gian-giup-ban-nhanh-chong-chim-vao-giac-ngu/</loc>
-		<lastmod>2020-08-23T04:20:13+00:00</lastmod>
+		<loc>https://yeusong.com/cherry-7-loi-ich-cho-suc-khoe-tu-qua-anh-dao/</loc>
+		<lastmod>2020-08-26T04:29:24+00:00</lastmod>
 		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/20-meo-mang-lai-giac-ngu-ngon.jpg</image:loc>
-			<image:title><![CDATA[20-meo-mang-lai-giac-ngu-ngon]]></image:title>
-			<image:caption><![CDATA[20 mẹo mang lại giấc ngủ ngon]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/yoga.jpg</image:loc>
-			<image:caption><![CDATA[9 bài tập Yoga giúp bạn có giấc ngủ ngon]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/9-bai-tap-yoga-giup-ban-co-giac-ngu-ngon/</loc>
-		<lastmod>2020-08-23T04:20:19+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/yoga.jpg</image:loc>
-			<image:title><![CDATA[yoga]]></image:title>
-			<image:caption><![CDATA[9 bài tập Yoga giúp bạn có giấc ngủ ngon]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tu-the-anh-hung.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/Child-Pose-Yoga.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/upward-facing-dog.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/calmel-pose-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/butterfly-pose.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/woman-in-supine-twist-yoga-pose.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/HowToDoBridgePose.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/knee-to-chest.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/Corpse-Pose.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/17-loai-thuc-pham-tot-nhat-giup-giam-luong-duong-trong-mau/</loc>
-		<lastmod>2020-08-23T10:22:05+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/17-thuc-pham-giup-giam-duong-trong-mau.jpg</image:loc>
-			<image:title><![CDATA[17-loai-thuc-pham-giup-giam-luong-duong-trong-mau]]></image:title>
-			<image:caption><![CDATA[17 loại thực phẩm tốt nhất để giảm lượng đường trong máu]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/bong-cai-xanh.jpg</image:loc>
-			<image:caption><![CDATA[bông cải xanh giàu sulforaphane có tác dụng chống đái tháo đường mạnh mẽ]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/hai-san-cung-cap-rpotein-giup-lam-cham-tieu-hoa.jpg</image:loc>
-			<image:caption><![CDATA[Hải sản cung cấp một nguồn protein có giá trị, chất béo lành mạnh, vitamin, khoáng chất và chất chống oxy hóa có thể giúp điều chỉnh lượng đường trong máu.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/bi-ngo-va-hat-bi.jpg</image:loc>
-			<image:caption><![CDATA[cung cấp một nguồn protein có giá trị, chất béo lành mạnh, vitamin, khoáng chất và chất chống oxy hóa có thể giúp điều chỉnh lượng đường trong máu.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-giong-dau-bap-1.jpg</image:loc>
-			<image:caption><![CDATA[Đậu bắp là một nguồn dồi dào các hợp chất làm giảm lượng đường trong máu như polysaccharides và chất chống oxy hóa flavonoid.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-lanh-co-loi-cho-huyet-ap.jpg</image:loc>
-			<image:caption><![CDATA[Hạt lanh rất giàu chất xơ và chất béo lành mạnh]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/hat-chia-giau-chat-beo.jpg</image:loc>
-			<image:caption><![CDATA[Ăn hạt Chia có thể giúp kiểm soát lượng đường trong máu]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/macro-shot-avocado-isolated-white-background_53876-14904.jpg</image:loc>
-			<image:caption><![CDATA[Bơ rất giàu chất béo lành mạnh, chất xơ, vitamin và khoáng chất]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/orange-white-white_144627-16571.jpg</image:loc>
-			<image:caption><![CDATA[Trái cây họ cam quýt như cam và bưởi chứa nhiều chất xơ]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/che-do-an-ketogenic-huong-dan-chi-tiet-cho-nguoi-moi-bat-dau-voi-keto/</loc>
-		<lastmod>2020-08-24T12:49:12+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/ketogenic-moi-dieu-can-biet.jpg</image:loc>
-			<image:caption><![CDATA[Ketogenic tất cả mọi điều bạn cần biết]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/benh-cum-keto-la-gi-trieu-chung-va-cach-xu-tri/</loc>
-		<lastmod>2020-08-24T12:51:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/cum-keto-la-gi.jpg</image:loc>
-			<image:title><![CDATA[cum-keto-la-gi]]></image:title>
-			<image:caption><![CDATA[Bệnh cúm Keto là gì? Triệu chứng và cách xử trí]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/9-loi-ich-suc-khoe-cua-che-do-an-kieng-low-carb-va-ketogenic/</loc>
-		<lastmod>2020-08-24T12:52:50+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/loi-ich-mang-lai-tu-che-do-an-low-carb.jpg</image:loc>
-			<image:title><![CDATA[Healthy vegetarian balanced food concept,fresh vegetable salad, buddha bowl on dark background]]></image:title>
-			<image:caption><![CDATA[9 lợi ích thần kỳ từ chế độ ăn low-carb và ketogenic]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/thoai-hoa-diem-vang-amd/</loc>
-		<lastmod>2020-08-24T15:24:27+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/thoai-hoa-diem-vamg-amd-la-gi.jpg</image:loc>
-			<image:title><![CDATA[thoai-hoa-diem-vamg-amd-la-gi]]></image:title>
-			<image:caption><![CDATA[Thoái hóa điểm vàng liên quan đến tuổi tác]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/4-cong-thuc-salad-rau-bina-cuc-ngon/</loc>
-		<lastmod>2020-08-24T16:13:29+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/salad-rau-bina.jpg</image:loc>
-			<image:title><![CDATA[salad-rau-bina]]></image:title>
-			<image:caption><![CDATA[4 công thức salad với rau bina tuyệt đỉnh]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/6-loi-ich-suc-khoe-cua-rau-bina/</loc>
-		<lastmod>2020-08-24T16:14:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/raubina-la-gi.jpg</image:loc>
-			<image:title><![CDATA[raubina-la-gi]]></image:title>
-			<image:caption><![CDATA[Rau bina là gì? 6 lợi ích sức khỏe của rau bina]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/salad-rau-bina.jpg</image:loc>
-			<image:caption><![CDATA[4 công thức salad với rau bina tuyệt đỉnh]]></image:caption>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cherry-thuc-pham-dinh-duong-hang-dau.jpg</image:loc>
+			<image:title><![CDATA[cherry-thuc-pham-dinh-duong-hang-dau]]></image:title>
+			<image:caption><![CDATA[7 lợi ích sức khỏe của quả cherry]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
