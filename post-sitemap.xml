@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-26T04:29:24+00:00</lastmod>
+		<lastmod>2020-08-26T08:21:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hoi-mieng-halitosis/</loc>
@@ -48,22 +48,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/cam-nang-tang-can-hieu-qua/</loc>
-		<lastmod>2020-07-23T15:42:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/woman-standing-scale_53876-15132.jpg</image:loc>
-			<image:title><![CDATA[Woman standing on a scale]]></image:title>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/giam-can/</loc>
-		<lastmod>2020-07-23T15:42:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/workout-composition-with-healthy-food_23-2147692092.jpg</image:loc>
-			<image:title><![CDATA[workout-composition-with-healthy-food_23-2147692092]]></image:title>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/huong-dan-lam-dep-khi-mang-thai/</loc>
 		<lastmod>2020-07-23T16:26:21+00:00</lastmod>
 		<image:image>
@@ -79,15 +63,6 @@
 			<image:loc>https://yeusong.com/static/uploads/2020/07/boy-measured-height-with-blackboard_1150-19697.jpg</image:loc>
 			<image:title><![CDATA[boy-measured-height-with-blackboard_1150-19697]]></image:title>
 			<image:caption><![CDATA[chiều cao trẻ]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/dau-hieu-mang-thai-som/</loc>
-		<lastmod>2020-07-26T10:22:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/pregnancy-newborn-cartoon-characters-set_1284-23942.jpg</image:loc>
-			<image:title><![CDATA[pregnancy-newborn-cartoon-characters-set_1284-23942]]></image:title>
-			<image:caption><![CDATA[mang thai]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -657,39 +632,6 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/cup-tea-ginger-plants-wooden-board_114579-5092.jpg</image:loc>
 			<image:caption><![CDATA[trà gừng nóng làm giảm cảm giác đói, từ đó giúp kiểm soát căn bệnh béo phì]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/muc-cholesterol-trong-co-the-phan-anh-nguy-co-ve-suc-khoe/</loc>
-		<lastmod>2020-08-03T04:08:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/fat-patient-visiting-doctor_74855-6454.jpg</image:loc>
-			<image:title><![CDATA[fat-patient-visiting-doctor_74855-6454]]></image:title>
-			<image:caption><![CDATA[Càng lớn tuổi lượng choleterol càng cao]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/diagram-showing-cholesterol-blocking-artery-human-body_1308-43348.jpg</image:loc>
-			<image:caption><![CDATA[Lượng cholesterol cao trong máu gây tắc nghên mạch máu.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/colorful-delicious-vegetables-arrangement_23-2148290786.jpg</image:loc>
-			<image:caption><![CDATA[Tăng cường chất xơ trong khẩu phần ăn]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/green-olives-oil_144627-26921.jpg</image:loc>
-			<image:caption><![CDATA[Quả oliu]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/man-holding-beef-burger-lettuce-cheese-tomato-cucumber-egg-side-view_141793-12296.jpg</image:loc>
-			<image:caption><![CDATA[Hạn chế chất béo gây hại]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tasting-illustration-concept_114360-774.jpg</image:loc>
-			<image:caption><![CDATA[uống rượu điều độ]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/pilates-concept-illustration_114360-1111.jpg</image:loc>
-			<image:caption><![CDATA[Tập luyện thể thao]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -1733,54 +1675,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/roi-loan-tieu-hoa-cach-xu-tri-va-phong-ngua/</loc>
-		<lastmod>2020-08-11T04:41:48+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/roi-loan-tieu-hoa.jpg</image:loc>
-			<image:title><![CDATA[roi-loan-tieu-hoa]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/ngo-doc-thuc-pham-1.jpg</image:loc>
-			<image:caption><![CDATA[Nhiễm độc thức ăn do khuẩn Salmonella]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/day-hoi-1.jpg</image:loc>
-			<image:caption><![CDATA[táo bón hoặc tiêu chảy khiến người bệnh rất mệt mỏi và ảnh hưởng các sinh hoạt chung.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tieu-chay.jpg</image:loc>
-			<image:caption><![CDATA[Chứng tiêu chảy do nhiễm khuẩn E.Coli]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/Shigella-CDC.png</image:loc>
-			<image:caption><![CDATA[trực khuẩn Shigella]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/can-than-voi-dau-lung-duoi-vi-co-the-la-do-ung-thu-di-can/</loc>
-		<lastmod>2020-08-11T04:42:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/dau-lung-duoi1.jpg</image:loc>
-			<image:title><![CDATA[dau-lung-duoi1]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/Ly-do-luoi-luyen-tap-the-duc.jpeg</image:loc>
-			<image:caption><![CDATA[Nếu bạn sở hữu một lối sống ít vận động như vậy có thể gia tăng nguy cơ mắc bệnh đau thắt lưng mãn tính.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/hien-tuong-cang-co-chan-1-1.jpg</image:loc>
-			<image:caption><![CDATA[Đau lưng dưới là hiện tượng rất dễ gặp phải khi bạn bị căng cơ hoặc căng dây chằng do mang vác đồ vật nặng vượt quá khả năng chịu đựng của cơ thể]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/154852thoat-vi-dia-dem-tren-dot-xuong-song-1.jpg</image:loc>
-			<image:caption><![CDATA[bạn hoàn toàn có thể sống chung với thoát vị đĩa đệm nếu chúng không ảnh hưởng lớn tới sinh hoạt hàng ngày.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/ung-thu-tien-liet-tuyen.jpg</image:loc>
-			<image:caption><![CDATA[ung thư tuyến tiền liệt]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/cac-dau-hieu-som-canh-bao-benh-ung-thu-vu/</loc>
 		<lastmod>2020-08-11T04:43:44+00:00</lastmod>
 		<image:image>
@@ -2268,39 +2162,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/bi-viem-gan-sieu-vi-b-nen-an-gi-kieng-gi/</loc>
-		<lastmod>2020-08-15T05:11:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/suckhoe584hinh_abdu.jpg</image:loc>
-			<image:title><![CDATA[suckhoe584hinh_abdu]]></image:title>
-			<image:caption><![CDATA[Bệnh viêm gan siêu vi B]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/ngu-coc-nguyen-hat.jpg</image:loc>
-			<image:caption><![CDATA[Ngũ cốc nguyên chất rất giàu vitamin B, chất xơ, carbohydrate, khoáng chất và protein, và các chất dinh dưỡng thiết yếu như vitamin B6, vitamin E, magiê, kẽm và đồng.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/dau-oliu.jpg</image:loc>
-			<image:caption><![CDATA[Các bác sĩ khuyên nên tiêu thụ ít nhất 2-3 muỗng dầu ô liu mỗi ngày.]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/nhung-thuc-pham-thuoc-ky-nhau/</loc>
-		<lastmod>2020-08-15T05:20:04+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/drug-and-orange.jpg</image:loc>
-			<image:title><![CDATA[drug-and-orange]]></image:title>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/sua-tuoi.jpg</image:loc>
-			<image:caption><![CDATA[Sữa tươi không dùng khi uống thuốc kháng sinh]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/coffee-poster-with-realistic-white-porcelain-cup-textured-background_1284-10871.jpg</image:loc>
-			<image:caption><![CDATA[caffeine có thể ức chế tác dụng của thuốc trong trường hợp khẩn cấp.]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/phai-lam-gi-khi-bi-ho-ra-mau/</loc>
 		<lastmod>2020-08-15T05:31:21+00:00</lastmod>
 	</url>
@@ -2658,42 +2519,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/9-bai-tap-yoga-giup-ban-co-giac-ngu-ngon/</loc>
-		<lastmod>2020-08-23T04:20:19+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/yoga.jpg</image:loc>
-			<image:title><![CDATA[yoga]]></image:title>
-			<image:caption><![CDATA[9 bài tập Yoga giúp bạn có giấc ngủ ngon]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tu-the-anh-hung.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/Child-Pose-Yoga.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/upward-facing-dog.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/calmel-pose-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/butterfly-pose.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/woman-in-supine-twist-yoga-pose.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/HowToDoBridgePose.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/knee-to-chest.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/Corpse-Pose.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/4-cong-thuc-salad-rau-bina-cuc-ngon/</loc>
 		<lastmod>2020-08-25T16:26:32+00:00</lastmod>
 		<image:image>
@@ -2849,27 +2674,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/sai-lam-khi-an-gia-do-gay-nguy-co-trung-doc-mac-ung-thu/</loc>
-		<lastmod>2020-08-26T03:11:02+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/gia-do-feature.jpg</image:loc>
-			<image:title><![CDATA[Giá đỗ rất giàu vitamin đặc biệt là vitamin C cùng các khoáng chất amino acid, protein và chất có nguồn gốc thực vật (phytochemicals) rất bổ dưỡng cho con người.]]></image:title>
-			<image:caption><![CDATA[Giá đỗ tuy rất bổ dưỡng nhưng nếu không hiểu biết mà dùng tùy tiện thì cũng lợi bất cập hại cho sức khỏe.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/gia-do.jpg</image:loc>
-			<image:caption><![CDATA[nhiều người bán hàng tham lợi đã dùng những loại hóa chất như thuốc kích thích, ure... để ủ giá nhằm làm cho chúng mập mạp, bắt mắt.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/anh-huong-gia-do.jpg</image:loc>
-			<image:caption><![CDATA[Giá đỗ rất bổ nhưng mọi người không nên ăn quá 550g giá sống mỗi ngày.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/khong-an-gia-khi-uong-thuoc.jpg</image:loc>
-			<image:caption><![CDATA[Giá đỗ có tính giải các chất độc nhưng nó cũng giải luôn tác dụng của thuốc]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/giam-mo-bung-5-loai-thuc-pham-hang-dau/</loc>
 		<lastmod>2020-08-26T03:27:28+00:00</lastmod>
 		<image:image>
@@ -2891,15 +2695,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/6-loi-ich-suc-khoe-cua-rau-bina/</loc>
-		<lastmod>2020-08-26T03:28:32+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/raubina-la-gi.jpg</image:loc>
-			<image:title><![CDATA[raubina-la-gi]]></image:title>
-			<image:caption><![CDATA[Rau bina là gì? 6 lợi ích sức khỏe của rau bina]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/9-loi-ich-suc-khoe-cua-che-do-an-kieng-low-carb-va-ketogenic/</loc>
 		<lastmod>2020-08-26T03:29:02+00:00</lastmod>
 		<image:image>
@@ -2915,14 +2710,6 @@
 			<image:loc>https://yeusong.com/static/uploads/2020/08/cum-keto-la-gi.jpg</image:loc>
 			<image:title><![CDATA[cum-keto-la-gi]]></image:title>
 			<image:caption><![CDATA[Bệnh cúm Keto là gì? Triệu chứng và cách xử trí]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/che-do-an-ketogenic-huong-dan-chi-tiet-cho-nguoi-moi-bat-dau-voi-keto/</loc>
-		<lastmod>2020-08-26T03:29:47+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/ketogenic-moi-dieu-can-biet.jpg</image:loc>
-			<image:caption><![CDATA[Ketogenic tất cả mọi điều bạn cần biết]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -3030,30 +2817,12 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/axit-beo-omega-3/</loc>
-		<lastmod>2020-08-26T03:40:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/omega-3-la-gi.jpg</image:loc>
-			<image:title><![CDATA[omega-3-la-gi]]></image:title>
-			<image:caption><![CDATA[Axit béo Omega-3]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/su-thieu-hut-selen/</loc>
 		<lastmod>2020-08-26T03:45:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/selen-rat-can-thiet-cho-co-the.jpg</image:loc>
 			<image:title><![CDATA[selen-rat-can-thiet-cho-co-the]]></image:title>
 			<image:caption><![CDATA[Selen là một khoáng chất quan trọng]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/insulin-la-gi/</loc>
-		<lastmod>2020-08-26T03:47:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/insuline-dieu-tri-benh-tieu-duong.jpg</image:loc>
-			<image:title><![CDATA[insuline-dieu-tri-benh-tieu-duong]]></image:title>
-			<image:caption><![CDATA[Insulin là một loại hormone được tạo ra trong tuyến tụy]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -3149,8 +2918,266 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://yeusong.com/benh-tieu-duong-loai-1/</loc>
+		<lastmod>2020-08-26T08:13:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tieu-duong-loai-1.jpg</image:loc>
+			<image:title><![CDATA[tieu-duong-loai-1]]></image:title>
+			<image:caption><![CDATA[Tiểu đường loại 1: mọi thứ bạn cần biết]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/moi-dieu-can-biet-ve-benh-tieu-duong-loai-2/</loc>
+		<lastmod>2020-08-26T08:14:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-tieu-duong-loai-2.jpg</image:loc>
+			<image:title><![CDATA[benh-tieu-duong-loai-2]]></image:title>
+			<image:caption><![CDATA[Hiểu biết về bệnh tiểu đường loại 2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/insulin-la-gi/</loc>
+		<lastmod>2020-08-26T08:16:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/insuline-dieu-tri-benh-tieu-duong.jpg</image:loc>
+			<image:title><![CDATA[insuline-dieu-tri-benh-tieu-duong]]></image:title>
+			<image:caption><![CDATA[Insulin là một loại hormone được tạo ra trong tuyến tụy]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/9-bai-tap-yoga-giup-ban-co-giac-ngu-ngon/</loc>
+		<lastmod>2020-08-26T08:18:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/yoga.jpg</image:loc>
+			<image:title><![CDATA[yoga]]></image:title>
+			<image:caption><![CDATA[9 bài tập Yoga giúp bạn có giấc ngủ ngon]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tu-the-anh-hung.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Child-Pose-Yoga.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/upward-facing-dog.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/calmel-pose-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/butterfly-pose.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/woman-in-supine-twist-yoga-pose.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/HowToDoBridgePose.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/knee-to-chest.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Corpse-Pose.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/roi-loan-tieu-hoa-cach-xu-tri-va-phong-ngua/</loc>
+		<lastmod>2020-08-26T08:18:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/roi-loan-tieu-hoa.jpg</image:loc>
+			<image:title><![CDATA[roi-loan-tieu-hoa]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ngo-doc-thuc-pham-1.jpg</image:loc>
+			<image:caption><![CDATA[Nhiễm độc thức ăn do khuẩn Salmonella]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/day-hoi-1.jpg</image:loc>
+			<image:caption><![CDATA[táo bón hoặc tiêu chảy khiến người bệnh rất mệt mỏi và ảnh hưởng các sinh hoạt chung.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tieu-chay.jpg</image:loc>
+			<image:caption><![CDATA[Chứng tiêu chảy do nhiễm khuẩn E.Coli]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Shigella-CDC.png</image:loc>
+			<image:caption><![CDATA[trực khuẩn Shigella]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/can-than-voi-dau-lung-duoi-vi-co-the-la-do-ung-thu-di-can/</loc>
+		<lastmod>2020-08-26T08:18:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/dau-lung-duoi1.jpg</image:loc>
+			<image:title><![CDATA[dau-lung-duoi1]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/Ly-do-luoi-luyen-tap-the-duc.jpeg</image:loc>
+			<image:caption><![CDATA[Nếu bạn sở hữu một lối sống ít vận động như vậy có thể gia tăng nguy cơ mắc bệnh đau thắt lưng mãn tính.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hien-tuong-cang-co-chan-1-1.jpg</image:loc>
+			<image:caption><![CDATA[Đau lưng dưới là hiện tượng rất dễ gặp phải khi bạn bị căng cơ hoặc căng dây chằng do mang vác đồ vật nặng vượt quá khả năng chịu đựng của cơ thể]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/154852thoat-vi-dia-dem-tren-dot-xuong-song-1.jpg</image:loc>
+			<image:caption><![CDATA[bạn hoàn toàn có thể sống chung với thoát vị đĩa đệm nếu chúng không ảnh hưởng lớn tới sinh hoạt hàng ngày.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ung-thu-tien-liet-tuyen.jpg</image:loc>
+			<image:caption><![CDATA[ung thư tuyến tiền liệt]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/giam-can/</loc>
+		<lastmod>2020-08-26T08:18:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/workout-composition-with-healthy-food_23-2147692092.jpg</image:loc>
+			<image:title><![CDATA[workout-composition-with-healthy-food_23-2147692092]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/dau-hieu-mang-thai-som/</loc>
+		<lastmod>2020-08-26T08:18:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/pregnancy-newborn-cartoon-characters-set_1284-23942.jpg</image:loc>
+			<image:title><![CDATA[pregnancy-newborn-cartoon-characters-set_1284-23942]]></image:title>
+			<image:caption><![CDATA[mang thai]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/muc-cholesterol-trong-co-the-phan-anh-nguy-co-ve-suc-khoe/</loc>
+		<lastmod>2020-08-26T08:18:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/fat-patient-visiting-doctor_74855-6454.jpg</image:loc>
+			<image:title><![CDATA[fat-patient-visiting-doctor_74855-6454]]></image:title>
+			<image:caption><![CDATA[Càng lớn tuổi lượng choleterol càng cao]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/diagram-showing-cholesterol-blocking-artery-human-body_1308-43348.jpg</image:loc>
+			<image:caption><![CDATA[Lượng cholesterol cao trong máu gây tắc nghên mạch máu.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/colorful-delicious-vegetables-arrangement_23-2148290786.jpg</image:loc>
+			<image:caption><![CDATA[Tăng cường chất xơ trong khẩu phần ăn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/green-olives-oil_144627-26921.jpg</image:loc>
+			<image:caption><![CDATA[Quả oliu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/man-holding-beef-burger-lettuce-cheese-tomato-cucumber-egg-side-view_141793-12296.jpg</image:loc>
+			<image:caption><![CDATA[Hạn chế chất béo gây hại]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tasting-illustration-concept_114360-774.jpg</image:loc>
+			<image:caption><![CDATA[uống rượu điều độ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/pilates-concept-illustration_114360-1111.jpg</image:loc>
+			<image:caption><![CDATA[Tập luyện thể thao]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cam-nang-tang-can-hieu-qua/</loc>
+		<lastmod>2020-08-26T08:18:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/woman-standing-scale_53876-15132.jpg</image:loc>
+			<image:title><![CDATA[Woman standing on a scale]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/moi-dieu-can-biet-ve-benh-tieu-duong/</loc>
+		<lastmod>2020-08-26T08:19:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-tieu-duong.jpg</image:loc>
+			<image:title><![CDATA[benh-tieu-duong]]></image:title>
+			<image:caption><![CDATA[Mọi điều cần biết về bệnh tiểu đường]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/6-loi-ich-suc-khoe-cua-rau-bina/</loc>
+		<lastmod>2020-08-26T08:19:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/raubina-la-gi.jpg</image:loc>
+			<image:title><![CDATA[raubina-la-gi]]></image:title>
+			<image:caption><![CDATA[Rau bina là gì? 6 lợi ích sức khỏe của rau bina]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/axit-beo-omega-3/</loc>
+		<lastmod>2020-08-26T08:19:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/omega-3-la-gi.jpg</image:loc>
+			<image:title><![CDATA[omega-3-la-gi]]></image:title>
+			<image:caption><![CDATA[Axit béo Omega-3]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/che-do-an-ketogenic-huong-dan-chi-tiet-cho-nguoi-moi-bat-dau-voi-keto/</loc>
+		<lastmod>2020-08-26T08:19:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ketogenic-moi-dieu-can-biet.jpg</image:loc>
+			<image:caption><![CDATA[Ketogenic tất cả mọi điều bạn cần biết]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/sai-lam-khi-an-gia-do-gay-nguy-co-trung-doc-mac-ung-thu/</loc>
+		<lastmod>2020-08-26T08:20:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/gia-do-feature.jpg</image:loc>
+			<image:title><![CDATA[Giá đỗ rất giàu vitamin đặc biệt là vitamin C cùng các khoáng chất amino acid, protein và chất có nguồn gốc thực vật (phytochemicals) rất bổ dưỡng cho con người.]]></image:title>
+			<image:caption><![CDATA[Giá đỗ tuy rất bổ dưỡng nhưng nếu không hiểu biết mà dùng tùy tiện thì cũng lợi bất cập hại cho sức khỏe.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/gia-do.jpg</image:loc>
+			<image:caption><![CDATA[nhiều người bán hàng tham lợi đã dùng những loại hóa chất như thuốc kích thích, ure... để ủ giá nhằm làm cho chúng mập mạp, bắt mắt.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/anh-huong-gia-do.jpg</image:loc>
+			<image:caption><![CDATA[Giá đỗ rất bổ nhưng mọi người không nên ăn quá 550g giá sống mỗi ngày.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/khong-an-gia-khi-uong-thuoc.jpg</image:loc>
+			<image:caption><![CDATA[Giá đỗ có tính giải các chất độc nhưng nó cũng giải luôn tác dụng của thuốc]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/bi-viem-gan-sieu-vi-b-nen-an-gi-kieng-gi/</loc>
+		<lastmod>2020-08-26T08:20:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/suckhoe584hinh_abdu.jpg</image:loc>
+			<image:title><![CDATA[suckhoe584hinh_abdu]]></image:title>
+			<image:caption><![CDATA[Bệnh viêm gan siêu vi B]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ngu-coc-nguyen-hat.jpg</image:loc>
+			<image:caption><![CDATA[Ngũ cốc nguyên chất rất giàu vitamin B, chất xơ, carbohydrate, khoáng chất và protein, và các chất dinh dưỡng thiết yếu như vitamin B6, vitamin E, magiê, kẽm và đồng.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/dau-oliu.jpg</image:loc>
+			<image:caption><![CDATA[Các bác sĩ khuyên nên tiêu thụ ít nhất 2-3 muỗng dầu ô liu mỗi ngày.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/nhung-thuc-pham-thuoc-ky-nhau/</loc>
+		<lastmod>2020-08-26T08:20:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/drug-and-orange.jpg</image:loc>
+			<image:title><![CDATA[drug-and-orange]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/sua-tuoi.jpg</image:loc>
+			<image:caption><![CDATA[Sữa tươi không dùng khi uống thuốc kháng sinh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/coffee-poster-with-realistic-white-porcelain-cup-textured-background_1284-10871.jpg</image:loc>
+			<image:caption><![CDATA[caffeine có thể ức chế tác dụng của thuốc trong trường hợp khẩn cấp.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://yeusong.com/cherry-7-loi-ich-cho-suc-khoe-tu-qua-anh-dao/</loc>
-		<lastmod>2020-08-26T04:29:24+00:00</lastmod>
+		<lastmod>2020-08-26T08:21:16+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/cherry-thuc-pham-dinh-duong-hang-dau.jpg</image:loc>
 			<image:title><![CDATA[cherry-thuc-pham-dinh-duong-hang-dau]]></image:title>
