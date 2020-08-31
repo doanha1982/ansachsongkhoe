@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-28T04:54:41+00:00</lastmod>
+		<lastmod>2020-08-31T04:38:57+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hoi-mieng-halitosis/</loc>
@@ -3054,15 +3054,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/moi-dieu-can-biet-ve-benh-tieu-duong/</loc>
-		<lastmod>2020-08-26T08:19:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-tieu-duong.jpg</image:loc>
-			<image:title><![CDATA[benh-tieu-duong]]></image:title>
-			<image:caption><![CDATA[Mọi điều cần biết về bệnh tiểu đường]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/6-loi-ich-suc-khoe-cua-rau-bina/</loc>
 		<lastmod>2020-08-26T08:19:33+00:00</lastmod>
 		<image:image>
@@ -3236,6 +3227,60 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-tam-xuan.jpg</image:loc>
 			<image:caption><![CDATA[Trà thảo mộc tầm xuân chứa nhiều vitamin C và các hợp chất thực vật có lợi.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/tam-than-dinh-duong-la-gi/</loc>
+		<lastmod>2020-08-30T04:54:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tam-than-dinh-duong.jpg</image:loc>
+			<image:title><![CDATA[tam-than-dinh-duong]]></image:title>
+			<image:caption><![CDATA[Tâm thần dinh dưỡng là gì, và nó có thể giúp bạn cảm thấy khỏe mạnh hơn không?]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/viem-khop/</loc>
+		<lastmod>2020-08-30T17:04:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/viem-khop-la-gi.jpg</image:loc>
+			<image:title><![CDATA[viem-khop-la-gi]]></image:title>
+			<image:caption><![CDATA[Viêm khớp là gì?]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/hen-suyen/</loc>
+		<lastmod>2020-08-31T04:19:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-hen-suyen-la-gi.jpg</image:loc>
+			<image:title><![CDATA[benh-hen-suyen-la-gi]]></image:title>
+			<image:caption><![CDATA[Bạn muốn biết gì về bệnh hen suyễn?]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-tram-cam/</loc>
+		<lastmod>2020-08-31T04:20:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-tram-cam-la-gi.jpg</image:loc>
+			<image:title><![CDATA[Bệnh trầm cảm là gì?]]></image:title>
+			<image:caption><![CDATA[Trầm cảm được xếp vào nhóm rối loạn tâm trạng]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/moi-dieu-can-biet-ve-benh-tieu-duong/</loc>
+		<lastmod>2020-08-31T04:28:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-tieu-duong.jpg</image:loc>
+			<image:title><![CDATA[benh-tieu-duong]]></image:title>
+			<image:caption><![CDATA[Mọi điều cần biết về bệnh tiểu đường]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/20-loai-thuc-pham-co-the-giup-lam-giam-cang-thang/</loc>
+		<lastmod>2020-08-31T04:38:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/thuc-pham-giup-giam-cang-thang.jpg</image:loc>
+			<image:title><![CDATA[thuc-pham-giup-giam-cang-thang]]></image:title>
+			<image:caption><![CDATA[20 thực phẩm giúp giảm căng thẳng]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
