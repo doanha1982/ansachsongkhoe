@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-08-31T04:38:57+00:00</lastmod>
+		<lastmod>2020-09-01T04:49:06+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hoi-mieng-halitosis/</loc>
@@ -3257,15 +3257,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/benh-tram-cam/</loc>
-		<lastmod>2020-08-31T04:20:35+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-tram-cam-la-gi.jpg</image:loc>
-			<image:title><![CDATA[Bệnh trầm cảm là gì?]]></image:title>
-			<image:caption><![CDATA[Trầm cảm được xếp vào nhóm rối loạn tâm trạng]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/moi-dieu-can-biet-ve-benh-tieu-duong/</loc>
 		<lastmod>2020-08-31T04:28:07+00:00</lastmod>
 		<image:image>
@@ -3281,6 +3272,42 @@
 			<image:loc>https://yeusong.com/static/uploads/2020/08/thuc-pham-giup-giam-cang-thang.jpg</image:loc>
 			<image:title><![CDATA[thuc-pham-giup-giam-cang-thang]]></image:title>
 			<image:caption><![CDATA[20 thực phẩm giúp giảm căng thẳng]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-beo-phi/</loc>
+		<lastmod>2020-09-01T04:15:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/benh-beo-phi.jpg</image:loc>
+			<image:title><![CDATA[benh-beo-phi]]></image:title>
+			<image:caption><![CDATA[Béo phì có liên quan đến nguy cơ cao mắc các bệnh nghiêm trọng]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-tim-mach/</loc>
+		<lastmod>2020-09-01T04:15:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/benh-tim-moi-dieu-can-biet.jpg</image:loc>
+			<image:title><![CDATA[benh-tim-moi-dieu-can-biet]]></image:title>
+			<image:caption><![CDATA[Mọi thứ bạn cần biết về bệnh tim]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-tram-cam/</loc>
+		<lastmod>2020-09-01T04:17:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-tram-cam-la-gi.jpg</image:loc>
+			<image:title><![CDATA[Bệnh trầm cảm là gì?]]></image:title>
+			<image:caption><![CDATA[Trầm cảm được xếp vào nhóm rối loạn tâm trạng]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/dau-o-liu-va-dau-thuc-vat-loai-nao-tot-cho-suc-khoe-hon/</loc>
+		<lastmod>2020-09-01T04:49:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/dau-oliu.jpg</image:loc>
+			<image:title><![CDATA[dau-oliu]]></image:title>
+			<image:caption><![CDATA[Dầu thực vật và dầu ô liu đều được sử dụng rộng rãi trong nấu ăn]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
