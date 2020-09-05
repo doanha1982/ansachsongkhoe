@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-09-04T16:20:58+00:00</lastmod>
+		<lastmod>2020-09-05T04:21:33+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hoi-mieng-halitosis/</loc>
@@ -3338,21 +3338,30 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/suc-khoe-duong-ruot-anh-huong-den-ban-nhu-the-nao/</loc>
-		<lastmod>2020-09-04T16:20:18+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/suc-khoe-duong-ruot.jpg</image:loc>
-			<image:title><![CDATA[suc-khoe-duong-ruot]]></image:title>
-			<image:caption><![CDATA[Sức khỏe đường ruột ảnh hưởng đến bạn như thế nào]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/tu-su-ra-di-cua-chien-binh-bao-den-chadwick-boseman-canh-bao-su-gia-tang-cua-benh-ung-thu-ruot-ket-o-nhung-nguoi-tre-tuoi/</loc>
 		<lastmod>2020-09-04T16:20:58+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/09/Chadwick_Boseman-scaled.jpg</image:loc>
 			<image:title><![CDATA[Chadwick_Boseman]]></image:title>
 			<image:caption><![CDATA[Ngôi sao “Black Panther” Chadwick Boseman đã qua đời vào tuần trước 4 năm sau khi được chẩn đoán mắc bệnh ung thư ruột kết.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/moi-lien-he-giua-benh-tim-va-benh-tieu-duong/</loc>
+		<lastmod>2020-09-05T04:20:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/moi-lien-he-benh-tim-va-benh-tieu-duong.jpg</image:loc>
+			<image:title><![CDATA[moi-lien-he-benh-tim-va-benh-tieu-duong]]></image:title>
+			<image:caption><![CDATA[nếu bạn bị tiểu đường, nguy cơ mắc bệnh tim mạch của bạn cao hơn gấp đôi]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/suc-khoe-duong-ruot-anh-huong-den-ban-nhu-the-nao/</loc>
+		<lastmod>2020-09-05T04:21:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/suc-khoe-duong-ruot.jpg</image:loc>
+			<image:title><![CDATA[suc-khoe-duong-ruot]]></image:title>
+			<image:caption><![CDATA[Sức khỏe đường ruột ảnh hưởng đến bạn như thế nào]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
