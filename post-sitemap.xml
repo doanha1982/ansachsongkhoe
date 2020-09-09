@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-09-05T04:21:33+00:00</lastmod>
+		<lastmod>2020-09-09T05:14:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hoi-mieng-halitosis/</loc>
@@ -3362,6 +3362,24 @@
 			<image:loc>https://yeusong.com/static/uploads/2020/09/suc-khoe-duong-ruot.jpg</image:loc>
 			<image:title><![CDATA[suc-khoe-duong-ruot]]></image:title>
 			<image:caption><![CDATA[Sức khỏe đường ruột ảnh hưởng đến bạn như thế nào]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/che-do-an-kieng-cho-nguoi-benh-tieu-duong-loai-1/</loc>
+		<lastmod>2020-09-09T04:36:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-kieng-cho-nguoi-benh-tieu-duong-loai-1.jpg</image:loc>
+			<image:title><![CDATA[che-do-an-kieng-cho-nguoi-benh-tieu-duong-loai-1]]></image:title>
+			<image:caption><![CDATA[Chế độ ăn kiêng tiểu đường loại 1]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/nguoi-bi-benh-tieu-duong-nen-tao-cac-thoi-quen-tot-truoc-khi-di-ngu/</loc>
+		<lastmod>2020-09-09T05:14:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/thoi-quen-truoc-khi-di-ngu.jpg</image:loc>
+			<image:title><![CDATA[thoi-quen-truoc-khi-di-ngu]]></image:title>
+			<image:caption><![CDATA[Người bị tiểu đường nên tạo dựng các thói quen trước khi đi ngủ để kiểm soát tình trạng đường huyết tốt hơn.]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
