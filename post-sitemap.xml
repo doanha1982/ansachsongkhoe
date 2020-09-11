@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-09-10T04:51:41+00:00</lastmod>
+		<lastmod>2020-09-11T03:24:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/hoi-mieng-halitosis/</loc>
@@ -3383,8 +3383,50 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://yeusong.com/6-cach-pho-bien-de-thuc-hien-nhin-an-gian-doan/</loc>
+		<lastmod>2020-09-10T04:51:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/6-cach-pho-bien-nhin-an-gian-doan.jpg</image:loc>
+			<image:title><![CDATA[6-cach-pho-bien-nhin-an-gian-doan]]></image:title>
+			<image:caption><![CDATA[6 cách phổ biến để thực hiện nhịn ăn gián đoạn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/nhin-an-gian-doan-16-8.jpg</image:loc>
+			<image:caption><![CDATA[Phương pháp nhịn ăn gián đoạn 16/8]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/nhin-an-gian-doan-5-2.jpg</image:loc>
+			<image:caption><![CDATA[Chế độ ăn uống 5:2 liên quan đến việc ăn uống bình thường 5 ngày trong tuần trong khi hạn chế lượng calo trong khoảng từ 500 đến 600 vào 2 ngày còn lại.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/nhin-an-gian-doan-24h.jpg</image:loc>
+			<image:caption><![CDATA[Phương pháp nhịn ăn 24 giờ một hoặc hai lần mỗi tuần.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/nhin-an-gian-doan-xen-ke.jpg</image:loc>
+			<image:caption><![CDATA[Nhịn ăn xen kẽ là phương pháp nhịn ăn cách ngày]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/nhin-an-gian-doan-warrior.jpg</image:loc>
+			<image:caption><![CDATA[Chế độ ăn kiêng Warrior ăn một lượng nhỏ trái cây và rau sống vào ban ngày và ăn một bữa chính vào buổi chiều.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/nhin-an-gian-doan-ngat-quang.jpg</image:loc>
+			<image:caption><![CDATA[Phương pháp nhịn ăn gián đoạn ngắt quãng]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/huong-dan-day-du-cho-nguoi-moi-bat-dau-ve-che-do-an-kieng-dash/</loc>
+		<lastmod>2020-09-11T03:21:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-kieng-dash.jpg</image:loc>
+			<image:title><![CDATA[che-do-an-kieng-dash]]></image:title>
+			<image:caption><![CDATA[DASH tập trung vào trái cây, rau, ngũ cốc nguyên hạt và thịt nạc.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://yeusong.com/8-che-do-an-kieng-da-duoc-chung-minh-tot-nhat/</loc>
-		<lastmod>2020-09-10T04:48:27+00:00</lastmod>
+		<lastmod>2020-09-11T03:24:36+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/09/ke-hoach-giam-can.jpg</image:loc>
 			<image:title><![CDATA[ke-hoach-giam-can]]></image:title>
@@ -3421,39 +3463,6 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-DASH.jpg</image:loc>
 			<image:caption><![CDATA[DASH là một kế hoạch ăn uống được thiết kế để giúp điều trị hoặc ngăn ngừa tình trạng huyết áp cao, hay được gọi lâm sàng là tăng huyết áp]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/6-cach-pho-bien-de-thuc-hien-nhin-an-gian-doan/</loc>
-		<lastmod>2020-09-10T04:51:41+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/6-cach-pho-bien-nhin-an-gian-doan.jpg</image:loc>
-			<image:title><![CDATA[6-cach-pho-bien-nhin-an-gian-doan]]></image:title>
-			<image:caption><![CDATA[6 cách phổ biến để thực hiện nhịn ăn gián đoạn]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/nhin-an-gian-doan-16-8.jpg</image:loc>
-			<image:caption><![CDATA[Phương pháp nhịn ăn gián đoạn 16/8]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/nhin-an-gian-doan-5-2.jpg</image:loc>
-			<image:caption><![CDATA[Chế độ ăn uống 5:2 liên quan đến việc ăn uống bình thường 5 ngày trong tuần trong khi hạn chế lượng calo trong khoảng từ 500 đến 600 vào 2 ngày còn lại.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/nhin-an-gian-doan-24h.jpg</image:loc>
-			<image:caption><![CDATA[Phương pháp nhịn ăn 24 giờ một hoặc hai lần mỗi tuần.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/nhin-an-gian-doan-xen-ke.jpg</image:loc>
-			<image:caption><![CDATA[Nhịn ăn xen kẽ là phương pháp nhịn ăn cách ngày]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/nhin-an-gian-doan-warrior.jpg</image:loc>
-			<image:caption><![CDATA[Chế độ ăn kiêng Warrior ăn một lượng nhỏ trái cây và rau sống vào ban ngày và ăn một bữa chính vào buổi chiều.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/nhin-an-gian-doan-ngat-quang.jpg</image:loc>
-			<image:caption><![CDATA[Phương pháp nhịn ăn gián đoạn ngắt quãng]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
