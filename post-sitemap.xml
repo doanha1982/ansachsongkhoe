@@ -2,24 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-09-11T03:24:36+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/hoi-mieng-halitosis/</loc>
-		<lastmod>2020-07-23T08:55:42+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/tipsandadvice_2000x1047_halitosis.jpg</image:loc>
-			<image:title><![CDATA[chứng hôi miệng và nguyên nhân]]></image:title>
-			<image:caption><![CDATA[hôi miệng]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/giup-con-danh-rang-dung-cach/</loc>
-		<lastmod>2020-07-23T08:56:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/tipsandadvice_2000x1047_toothbrushing.jpg</image:loc>
-			<image:title><![CDATA[tipsandadvice_2000x1047_toothbrushing]]></image:title>
-		</image:image>
+		<lastmod>2020-09-18T04:20:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/thuc-an-cho-xuong-chac-khoe/</loc>
@@ -28,14 +11,6 @@
 			<image:loc>https://yeusong.com/static/uploads/2020/07/1140-fruits-vegetables-food-for-strong-bones.jpg</image:loc>
 			<image:title><![CDATA[Eat for Bone Health]]></image:title>
 			<image:caption><![CDATA[thức phẩm tốt cho xương]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/benh-bach-hau/</loc>
-		<lastmod>2020-07-23T10:20:54+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/15116-scaled.jpg</image:loc>
-			<image:title><![CDATA[Dissatisfied blonde female model frowns face, has disgusting expression, shows tongue, expresses non-compliance, irritated with somebody, rejects do something. People and negative facial expressions]]></image:title>
 		</image:image>
 	</url>
 	<url>
@@ -133,30 +108,6 @@
 	<url>
 		<loc>https://yeusong.com/u-hat-nhiem-khuan/</loc>
 		<lastmod>2020-07-29T07:21:29+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://yeusong.com/benh-cham/</loc>
-		<lastmod>2020-07-29T07:21:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/benh-cham-1.jpg</image:loc>
-			<image:caption><![CDATA[Chàm]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/benh-cham-5.jpg</image:loc>
-			<image:caption><![CDATA[bệnh chàm vi khuẩn]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/benh-cham-4.jpg</image:loc>
-			<image:caption><![CDATA[bệnh chàm đồng tiền]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/benh-cham-3.jpg</image:loc>
-			<image:caption><![CDATA[Chàm thể tạng]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/benh-cham-2.jpg</image:loc>
-			<image:caption><![CDATA[Chàm tiếp xúc]]></image:caption>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://yeusong.com/men-gan/</loc>
@@ -2177,14 +2128,6 @@
 		<lastmod>2020-08-15T10:42:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://yeusong.com/tang-can/</loc>
-		<lastmod>2020-08-16T04:04:51+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/collage-before-after-loosing-weight_93267-1027.jpg</image:loc>
-			<image:title><![CDATA[collage-before-after-loosing-weight_93267-1027]]></image:title>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/tu-the-ngoi-xep-canh-buom-butterfly-pose/</loc>
 		<lastmod>2020-08-16T08:17:05+00:00</lastmod>
 		<image:image>
@@ -2783,28 +2726,12 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/giam-can/</loc>
-		<lastmod>2020-08-26T08:18:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/workout-composition-with-healthy-food_23-2147692092.jpg</image:loc>
-			<image:title><![CDATA[workout-composition-with-healthy-food_23-2147692092]]></image:title>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/dau-hieu-mang-thai-som/</loc>
 		<lastmod>2020-08-26T08:18:56+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/07/pregnancy-newborn-cartoon-characters-set_1284-23942.jpg</image:loc>
 			<image:title><![CDATA[pregnancy-newborn-cartoon-characters-set_1284-23942]]></image:title>
 			<image:caption><![CDATA[mang thai]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/cam-nang-tang-can-hieu-qua/</loc>
-		<lastmod>2020-08-26T08:18:57+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/07/woman-standing-scale_53876-15132.jpg</image:loc>
-			<image:title><![CDATA[Woman standing on a scale]]></image:title>
 		</image:image>
 	</url>
 	<url>
@@ -3416,15 +3343,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/huong-dan-day-du-cho-nguoi-moi-bat-dau-ve-che-do-an-kieng-dash/</loc>
-		<lastmod>2020-09-11T03:21:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-kieng-dash.jpg</image:loc>
-			<image:title><![CDATA[che-do-an-kieng-dash]]></image:title>
-			<image:caption><![CDATA[DASH tập trung vào trái cây, rau, ngũ cốc nguyên hạt và thịt nạc.]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/8-che-do-an-kieng-da-duoc-chung-minh-tot-nhat/</loc>
 		<lastmod>2020-09-11T03:24:36+00:00</lastmod>
 		<image:image>
@@ -3463,6 +3381,154 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-DASH.jpg</image:loc>
 			<image:caption><![CDATA[DASH là một kế hoạch ăn uống được thiết kế để giúp điều trị hoặc ngăn ngừa tình trạng huyết áp cao, hay được gọi lâm sàng là tăng huyết áp]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/giup-con-danh-rang-dung-cach/</loc>
+		<lastmod>2020-09-11T03:54:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/tipsandadvice_2000x1047_toothbrushing.jpg</image:loc>
+			<image:title><![CDATA[tipsandadvice_2000x1047_toothbrushing]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/hoi-mieng-halitosis/</loc>
+		<lastmod>2020-09-11T03:59:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/tipsandadvice_2000x1047_halitosis.jpg</image:loc>
+			<image:title><![CDATA[chứng hôi miệng và nguyên nhân]]></image:title>
+			<image:caption><![CDATA[hôi miệng]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-bach-hau/</loc>
+		<lastmod>2020-09-11T04:07:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/15116-scaled.jpg</image:loc>
+			<image:title><![CDATA[Dissatisfied blonde female model frowns face, has disgusting expression, shows tongue, expresses non-compliance, irritated with somebody, rejects do something. People and negative facial expressions]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cam-nang-tang-can-hieu-qua/</loc>
+		<lastmod>2020-09-11T04:21:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/woman-standing-scale_53876-15132.jpg</image:loc>
+			<image:title><![CDATA[Woman standing on a scale]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/tang-can/</loc>
+		<lastmod>2020-09-11T04:23:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/collage-before-after-loosing-weight_93267-1027.jpg</image:loc>
+			<image:title><![CDATA[collage-before-after-loosing-weight_93267-1027]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/phuong-phap-giam-can-hieu-qua/</loc>
+		<lastmod>2020-09-11T04:35:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/workout-composition-with-healthy-food_23-2147692092.jpg</image:loc>
+			<image:title><![CDATA[workout-composition-with-healthy-food_23-2147692092]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/close-up-hand-holding-water-glass_23-2148504561.jpg</image:loc>
+			<image:caption><![CDATA[Phương pháp giảm cân: Uống nhiều nước]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/man-holding-beef-burger-lettuce-cheese-tomato-cucumber-egg-side-view_141793-12296.jpg</image:loc>
+			<image:caption><![CDATA[phương pháp giảm cân: Hạn chế chất béo gây hại]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/green-vegie.jpg</image:loc>
+			<image:caption><![CDATA[phương pháp giảm cân: Ăn nhiều rau cải xanh chứa nhiều chất xơ]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/nuoc-co-tinh-axit-rui-ro-loi-ich-va-hon-the-nua/</loc>
+		<lastmod>2020-09-18T03:29:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/rua-rau-bang-nuoc-co-tinh-axit.jpg</image:loc>
+			<image:title><![CDATA[rua-rau-bang-nuoc-co-tinh-axit]]></image:title>
+			<image:caption><![CDATA[Nước có tính axit là nước có độ pH nhỏ hơn 7]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/thang-do-ph-1.png</image:loc>
+			<image:caption><![CDATA[Nước có tính axit đã được khẳng định là có tác dụng kháng khuẩn, có khả năng có lợi cho da, tóc và sản phẩm giặt tẩy.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/nuoc-nhiem-kim-loai-nang.jpg</image:loc>
+			<image:caption><![CDATA[nước có tính axit có thể chứa nhiều chì, asen, đồng, niken, cadimi, crom và kẽm]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-cham/</loc>
+		<lastmod>2020-09-18T03:33:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/benh-cham-1.jpg</image:loc>
+			<image:caption><![CDATA[Chàm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/benh-cham-5.jpg</image:loc>
+			<image:caption><![CDATA[bệnh chàm vi khuẩn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/benh-cham-4.jpg</image:loc>
+			<image:caption><![CDATA[bệnh chàm đồng tiền]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/benh-cham-3.jpg</image:loc>
+			<image:caption><![CDATA[Chàm thể tạng]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/benh-cham-2.jpg</image:loc>
+			<image:caption><![CDATA[Chàm tiếp xúc]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/huong-dan-day-du-cho-nguoi-moi-bat-dau-ve-che-do-an-kieng-dash/</loc>
+		<lastmod>2020-09-18T03:35:25+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-kieng-dash.jpg</image:loc>
+			<image:title><![CDATA[che-do-an-kieng-dash]]></image:title>
+			<image:caption><![CDATA[DASH tập trung vào trái cây, rau, ngũ cốc nguyên hạt và thịt nạc.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/7-loai-tra-giup-giam-hen-suyen/</loc>
+		<lastmod>2020-09-18T04:20:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/tra-thao-moc-giam-hen-suyen.jpg</image:loc>
+			<image:title><![CDATA[tra-thao-moc-giam-hen-suyen]]></image:title>
+			<image:caption><![CDATA[7 loại trà thảo mộc có thể giúp giảm hen suyễn]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/tra-gung.jpg</image:loc>
+			<image:caption><![CDATA[Các nghiên cứu trong phòng thí nghiệm chỉ ra rằng các hợp chất của gừng, chẳng hạn như gingerols và shogaols, có thể làm giảm các triệu chứng hen suyễn nhờ tác dụng giảm viêm đường thở.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-chanh.jpg</image:loc>
+			<image:caption><![CDATA[nghiên cứu cho thấy rằng trà xanh có thể làm giảm các triệu chứng hen suyễn.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/tra-den.jpg</image:loc>
+			<image:caption><![CDATA[trà đen có chứa caffeine, có thể giúp thư giãn đường hô hấp và cải thiện chức năng phổi. Điều này có thể giúp giảm tạm thời các triệu chứng hen suyễn.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/tra-bach-dan.jpg</image:loc>
+			<image:caption><![CDATA[Trà bạch đàn làm giảm viêm, giảm sản xuất chất nhầy và mở rộng các tiểu phế quản của bạn - các đường dẫn bên trong phổi.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/tra-cam-thao.jpg</image:loc>
+			<image:caption><![CDATA[Trà cam thảo làm giảm các triệu chứng của bệnh hen suyễn, đặc biệt khi kết hợp với các phương pháp điều trị hen suyễn thông thường như salbutamol (albuterol).]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/tra-mullein.jpg</image:loc>
+			<image:caption><![CDATA[Trà Mullein là một loại trà thơm và đậm đà được làm từ lá của cây mullein, có nguồn gốc từ Châu Âu, Châu Á và Châu Phi.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/tra-breathe-easy.jpg</image:loc>
+			<image:caption><![CDATA[Trà Breathe Easy có nguồn gốc từ một công thức thảo dược]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
