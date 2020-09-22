@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-09-18T04:20:32+00:00</lastmod>
+		<lastmod>2020-09-22T02:08:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/thuc-an-cho-xuong-chac-khoe/</loc>
@@ -3495,8 +3495,44 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://yeusong.com/6-loi-ich-hang-dau-cua-viec-bo-sung-collagen/</loc>
+		<lastmod>2020-09-22T02:04:06+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/collagen-cai-thien-suc-khoe-lan-da.jpg</image:loc>
+			<image:title><![CDATA[collagen-cai-thien-suc-khoe-lan-da]]></image:title>
+			<image:caption><![CDATA[6 lợi ích hàng đầu của việc bổ sung Collagen]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/5-cach-de-tang-cuong-collagen/</loc>
+		<lastmod>2020-09-22T02:05:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/5-cach-tang-cuong-collagent-co-da-khoe-manh.jpg</image:loc>
+			<image:title><![CDATA[5-cach-tang-cuong-collagent-co-da-khoe-manh]]></image:title>
+			<image:caption><![CDATA[5 cách để tăng cường Collagen]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/collagen-thuy-phan-co-phai-la-phuong-phap-chua-benh-than-ky-khong/</loc>
+		<lastmod>2020-09-22T02:07:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/collagen-thuy-phan-giup-tre-hoa-lan-da.jpg</image:loc>
+			<image:title><![CDATA[collagen-thuy-phan-giup-tre-hoa-lan-da]]></image:title>
+			<image:caption><![CDATA[Collagen thủy phân có phải là phương pháp chữa bệnh thần kỳ không?]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/collagen-la-gi-tai-sao-nen-bo-sung-hang-ngay/</loc>
+		<lastmod>2020-09-22T02:07:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/collagen-la-gi.jpg</image:loc>
+			<image:title><![CDATA[collagen-la-gi]]></image:title>
+			<image:caption><![CDATA[Collagen là gì]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://yeusong.com/7-loai-tra-giup-giam-hen-suyen/</loc>
-		<lastmod>2020-09-18T04:20:32+00:00</lastmod>
+		<lastmod>2020-09-22T02:08:42+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/09/tra-thao-moc-giam-hen-suyen.jpg</image:loc>
 			<image:title><![CDATA[tra-thao-moc-giam-hen-suyen]]></image:title>
