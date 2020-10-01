@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-09-22T02:08:42+00:00</lastmod>
+		<lastmod>2020-10-01T04:36:33+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/thuc-an-cho-xuong-chac-khoe/</loc>
@@ -2735,67 +2735,11 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/6-loi-ich-suc-khoe-cua-rau-bina/</loc>
-		<lastmod>2020-08-26T08:19:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/raubina-la-gi.jpg</image:loc>
-			<image:title><![CDATA[raubina-la-gi]]></image:title>
-			<image:caption><![CDATA[Rau bina là gì? 6 lợi ích sức khỏe của rau bina]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/axit-beo-omega-3/</loc>
-		<lastmod>2020-08-26T08:19:34+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/omega-3-la-gi.jpg</image:loc>
-			<image:title><![CDATA[omega-3-la-gi]]></image:title>
-			<image:caption><![CDATA[Axit béo Omega-3]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/che-do-an-ketogenic-huong-dan-chi-tiet-cho-nguoi-moi-bat-dau-voi-keto/</loc>
 		<lastmod>2020-08-26T08:19:34+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/ketogenic-moi-dieu-can-biet.jpg</image:loc>
 			<image:caption><![CDATA[Ketogenic tất cả mọi điều bạn cần biết]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/sai-lam-khi-an-gia-do-gay-nguy-co-trung-doc-mac-ung-thu/</loc>
-		<lastmod>2020-08-26T08:20:22+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/gia-do-feature.jpg</image:loc>
-			<image:title><![CDATA[Giá đỗ rất giàu vitamin đặc biệt là vitamin C cùng các khoáng chất amino acid, protein và chất có nguồn gốc thực vật (phytochemicals) rất bổ dưỡng cho con người.]]></image:title>
-			<image:caption><![CDATA[Giá đỗ tuy rất bổ dưỡng nhưng nếu không hiểu biết mà dùng tùy tiện thì cũng lợi bất cập hại cho sức khỏe.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/gia-do.jpg</image:loc>
-			<image:caption><![CDATA[nhiều người bán hàng tham lợi đã dùng những loại hóa chất như thuốc kích thích, ure... để ủ giá nhằm làm cho chúng mập mạp, bắt mắt.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/anh-huong-gia-do.jpg</image:loc>
-			<image:caption><![CDATA[Giá đỗ rất bổ nhưng mọi người không nên ăn quá 550g giá sống mỗi ngày.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/khong-an-gia-khi-uong-thuoc.jpg</image:loc>
-			<image:caption><![CDATA[Giá đỗ có tính giải các chất độc nhưng nó cũng giải luôn tác dụng của thuốc]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/bi-viem-gan-sieu-vi-b-nen-an-gi-kieng-gi/</loc>
-		<lastmod>2020-08-26T08:20:23+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/suckhoe584hinh_abdu.jpg</image:loc>
-			<image:title><![CDATA[suckhoe584hinh_abdu]]></image:title>
-			<image:caption><![CDATA[Bệnh viêm gan siêu vi B]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/ngu-coc-nguyen-hat.jpg</image:loc>
-			<image:caption><![CDATA[Ngũ cốc nguyên chất rất giàu vitamin B, chất xơ, carbohydrate, khoáng chất và protein, và các chất dinh dưỡng thiết yếu như vitamin B6, vitamin E, magiê, kẽm và đồng.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/dau-oliu.jpg</image:loc>
-			<image:caption><![CDATA[Các bác sĩ khuyên nên tiêu thụ ít nhất 2-3 muỗng dầu ô liu mỗi ngày.]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -2854,51 +2798,6 @@
 			<image:loc>https://yeusong.com/static/uploads/2020/08/co-lua-mach.jpg</image:loc>
 			<image:title><![CDATA[co-lua-mach]]></image:title>
 			<image:caption><![CDATA[Cỏ lúa mạch là gì? Thành phần dinh dưỡng và tác dụng giảm cân?]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/tra-thao-moc-lieu-phap-tri-benh-tu-tu-nhien/</loc>
-		<lastmod>2020-08-28T04:54:41+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-thao-moc.jpg</image:loc>
-			<image:title><![CDATA[tra-thao-moc]]></image:title>
-			<image:caption><![CDATA[10 loại trà thảo mộc tốt cho sức khỏe bạn nên thử]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-hoa-cuc.jpg</image:loc>
-			<image:caption><![CDATA[Trà thảo mộc hoa cúc tác dụng làm dịu và thường được sử dụng như một loại thuốc hỗ trợ giấc ngủ]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-bac-ha.jpg</image:loc>
-			<image:caption><![CDATA[Trà bạc hà là một trong những loại trà thảo mộc được sử dụng phổ biến nhất trên thế giới.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-gung.jpg</image:loc>
-			<image:caption><![CDATA[Trà gừng là một thức uống có vị cay và có hương vị, chứa nhiều chất chống oxy hóa lành mạnh, chống lại bệnh tật]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-atiso-do.jpg</image:loc>
-			<image:caption><![CDATA[Trà atiso đỏ được làm từ những bông hoa nhiều màu sắc của cây Roselle]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-hoc-cuc-gai-tim.jpg</image:loc>
-			<image:caption><![CDATA[Trà cúc dại là một phương thuốc cực kỳ phổ biến được cho là có tác dụng ngăn ngừa và rút ngắn cảm lạnh thông thường]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-roobios.jpg</image:loc>
-			<image:caption><![CDATA[Rooibos là một loại trà thảo mộc có xuất xứ từ Nam Phi,  được làm từ lá của cây rooibos hoặc cây bụi đỏ]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-xo-thom.jpg</image:loc>
-			<image:caption><![CDATA[Trà xô thơm nổi tiếng với các đặc tính chữa bệnh, đặc biệt là đối với sức khỏe não bộ]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-chanh.jpg</image:loc>
-			<image:caption><![CDATA[uống trà chanh cải thiện độ đàn hồi của động mạch]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-tam-xuan.jpg</image:loc>
-			<image:caption><![CDATA[Trà thảo mộc tầm xuân chứa nhiều vitamin C và các hợp chất thực vật có lợi.]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -2962,15 +2861,6 @@
 			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-tram-cam-la-gi.jpg</image:loc>
 			<image:title><![CDATA[Bệnh trầm cảm là gì?]]></image:title>
 			<image:caption><![CDATA[Trầm cảm được xếp vào nhóm rối loạn tâm trạng]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/dau-o-liu-va-dau-thuc-vat-loai-nao-tot-cho-suc-khoe-hon/</loc>
-		<lastmod>2020-09-01T04:49:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/dau-oliu.jpg</image:loc>
-			<image:title><![CDATA[dau-oliu]]></image:title>
-			<image:caption><![CDATA[Dầu thực vật và dầu ô liu đều được sử dụng rộng rãi trong nấu ăn]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -3153,15 +3043,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/che-do-an-dia-trung-hai-huong-dan-cho-nguoi-moi-bat-dau/</loc>
-		<lastmod>2020-09-03T03:34:23+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-dia-trung-hai.jpg</image:loc>
-			<image:title><![CDATA[che-do-an-dia-trung-hai]]></image:title>
-			<image:caption><![CDATA[Chế độ ăn Địa Trung Hải hướng dẫn cho người mới bắt đầu]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/nhung-loi-ich-suc-khoe-tu-dau-o-liu/</loc>
 		<lastmod>2020-09-03T03:35:46+00:00</lastmod>
 		<image:image>
@@ -3274,30 +3155,12 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/moi-lien-he-giua-benh-tim-va-benh-tieu-duong/</loc>
-		<lastmod>2020-09-05T04:20:58+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/moi-lien-he-benh-tim-va-benh-tieu-duong.jpg</image:loc>
-			<image:title><![CDATA[moi-lien-he-benh-tim-va-benh-tieu-duong]]></image:title>
-			<image:caption><![CDATA[nếu bạn bị tiểu đường, nguy cơ mắc bệnh tim mạch của bạn cao hơn gấp đôi]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/suc-khoe-duong-ruot-anh-huong-den-ban-nhu-the-nao/</loc>
 		<lastmod>2020-09-05T04:21:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/09/suc-khoe-duong-ruot.jpg</image:loc>
 			<image:title><![CDATA[suc-khoe-duong-ruot]]></image:title>
 			<image:caption><![CDATA[Sức khỏe đường ruột ảnh hưởng đến bạn như thế nào]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/che-do-an-kieng-cho-nguoi-benh-tieu-duong-loai-1/</loc>
-		<lastmod>2020-09-09T04:36:49+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-kieng-cho-nguoi-benh-tieu-duong-loai-1.jpg</image:loc>
-			<image:title><![CDATA[che-do-an-kieng-cho-nguoi-benh-tieu-duong-loai-1]]></image:title>
-			<image:caption><![CDATA[Chế độ ăn kiêng tiểu đường loại 1]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -3340,47 +3203,6 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/09/nhin-an-gian-doan-ngat-quang.jpg</image:loc>
 			<image:caption><![CDATA[Phương pháp nhịn ăn gián đoạn ngắt quãng]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/8-che-do-an-kieng-da-duoc-chung-minh-tot-nhat/</loc>
-		<lastmod>2020-09-11T03:24:36+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/ke-hoach-giam-can.jpg</image:loc>
-			<image:title><![CDATA[ke-hoach-giam-can]]></image:title>
-			<image:caption><![CDATA[8 kế hoạch ăn kiêng tốt nhất - Bền vững, Giảm cân và hơn thế nữa]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-kieng-gian-doan.png</image:loc>
-			<image:caption><![CDATA[Nhịn ăn gián đoạn là một chiến lược ăn kiêng xoay vòng giữa các giai đoạn nhịn ăn và ăn uống.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-thuan-chay.jpeg</image:loc>
-			<image:caption><![CDATA[Ăn chay và thuần chay là các phiên bản phổ biến nhất, hạn chế các sản phẩm động vật vì lý do sức khỏe, đạo đức và môi trường.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-low-carbs.jpg</image:loc>
-			<image:caption><![CDATA[Chế độ ăn kiêng low-carb là một trong những chế độ ăn kiêng phổ biến nhất để giảm cân]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-paleo.jpg</image:loc>
-			<image:caption><![CDATA[Những người theo đuỗi chế độ ăn kiêng Paleo chỉ ăn các loại thực phẩm sạch, không qua chế biến.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-it-chat-beo.jpg</image:loc>
-			<image:caption><![CDATA[chế độ ăn ít chất béo bao gồm việc hạn chế lượng chất béo tiêu thụ ở mức 30% lượng calo hàng ngày]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-dia-trung-hai.jpg</image:loc>
-			<image:caption><![CDATA[chế độ ăn uống Địa Trung Hải được dựa trên các loại thực phẩm mà mọi người ở các nước như Ý và Hy Lạp sử dụng để ăn.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/Weight-Watchers.jpg</image:loc>
-			<image:caption><![CDATA[WW, trước đây là Weight Watchers , là một trong những chương trình giảm cân phổ biến nhất trên toàn thế giới.]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-DASH.jpg</image:loc>
-			<image:caption><![CDATA[DASH là một kế hoạch ăn uống được thiết kế để giúp điều trị hoặc ngăn ngừa tình trạng huyết áp cao, hay được gọi lâm sàng là tăng huyết áp]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -3486,24 +3308,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/huong-dan-day-du-cho-nguoi-moi-bat-dau-ve-che-do-an-kieng-dash/</loc>
-		<lastmod>2020-09-18T03:35:25+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-kieng-dash.jpg</image:loc>
-			<image:title><![CDATA[che-do-an-kieng-dash]]></image:title>
-			<image:caption><![CDATA[DASH tập trung vào trái cây, rau, ngũ cốc nguyên hạt và thịt nạc.]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/6-loi-ich-hang-dau-cua-viec-bo-sung-collagen/</loc>
-		<lastmod>2020-09-22T02:04:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/collagen-cai-thien-suc-khoe-lan-da.jpg</image:loc>
-			<image:title><![CDATA[collagen-cai-thien-suc-khoe-lan-da]]></image:title>
-			<image:caption><![CDATA[6 lợi ích hàng đầu của việc bổ sung Collagen]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/5-cach-de-tang-cuong-collagen/</loc>
 		<lastmod>2020-09-22T02:05:45+00:00</lastmod>
 		<image:image>
@@ -3565,6 +3369,211 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/09/tra-breathe-easy.jpg</image:loc>
 			<image:caption><![CDATA[Trà Breathe Easy có nguồn gốc từ một công thức thảo dược]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/phan-biet-collagen-va-gelatin/</loc>
+		<lastmod>2020-10-01T04:29:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/10/collagen-vs-gelatin.jpg</image:loc>
+			<image:title><![CDATA[collagen-vs-gelatin]]></image:title>
+			<image:caption><![CDATA[Collagen và gelatin]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/8-che-do-an-kieng-da-duoc-chung-minh-tot-nhat/</loc>
+		<lastmod>2020-10-01T04:31:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/ke-hoach-giam-can.jpg</image:loc>
+			<image:title><![CDATA[ke-hoach-giam-can]]></image:title>
+			<image:caption><![CDATA[8 kế hoạch ăn kiêng tốt nhất - Bền vững, Giảm cân và hơn thế nữa]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-kieng-gian-doan.png</image:loc>
+			<image:caption><![CDATA[Nhịn ăn gián đoạn là một chiến lược ăn kiêng xoay vòng giữa các giai đoạn nhịn ăn và ăn uống.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-thuan-chay.jpeg</image:loc>
+			<image:caption><![CDATA[Ăn chay và thuần chay là các phiên bản phổ biến nhất, hạn chế các sản phẩm động vật vì lý do sức khỏe, đạo đức và môi trường.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-low-carbs.jpg</image:loc>
+			<image:caption><![CDATA[Chế độ ăn kiêng low-carb là một trong những chế độ ăn kiêng phổ biến nhất để giảm cân]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-paleo.jpg</image:loc>
+			<image:caption><![CDATA[Những người theo đuỗi chế độ ăn kiêng Paleo chỉ ăn các loại thực phẩm sạch, không qua chế biến.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-it-chat-beo.jpg</image:loc>
+			<image:caption><![CDATA[chế độ ăn ít chất béo bao gồm việc hạn chế lượng chất béo tiêu thụ ở mức 30% lượng calo hàng ngày]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-dia-trung-hai.jpg</image:loc>
+			<image:caption><![CDATA[chế độ ăn uống Địa Trung Hải được dựa trên các loại thực phẩm mà mọi người ở các nước như Ý và Hy Lạp sử dụng để ăn.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/Weight-Watchers.jpg</image:loc>
+			<image:caption><![CDATA[WW, trước đây là Weight Watchers , là một trong những chương trình giảm cân phổ biến nhất trên toàn thế giới.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-DASH.jpg</image:loc>
+			<image:caption><![CDATA[DASH là một kế hoạch ăn uống được thiết kế để giúp điều trị hoặc ngăn ngừa tình trạng huyết áp cao, hay được gọi lâm sàng là tăng huyết áp]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/6-loi-ich-hang-dau-cua-viec-bo-sung-collagen/</loc>
+		<lastmod>2020-10-01T04:32:56+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/collagen-cai-thien-suc-khoe-lan-da.jpg</image:loc>
+			<image:title><![CDATA[collagen-cai-thien-suc-khoe-lan-da]]></image:title>
+			<image:caption><![CDATA[6 lợi ích hàng đầu của việc bổ sung Collagen]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/moi-lien-he-giua-benh-tim-va-benh-tieu-duong/</loc>
+		<lastmod>2020-10-01T04:33:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/moi-lien-he-benh-tim-va-benh-tieu-duong.jpg</image:loc>
+			<image:title><![CDATA[moi-lien-he-benh-tim-va-benh-tieu-duong]]></image:title>
+			<image:caption><![CDATA[nếu bạn bị tiểu đường, nguy cơ mắc bệnh tim mạch của bạn cao hơn gấp đôi]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/tra-thao-moc-lieu-phap-tri-benh-tu-tu-nhien/</loc>
+		<lastmod>2020-10-01T04:34:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-thao-moc.jpg</image:loc>
+			<image:title><![CDATA[tra-thao-moc]]></image:title>
+			<image:caption><![CDATA[10 loại trà thảo mộc tốt cho sức khỏe bạn nên thử]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-hoa-cuc.jpg</image:loc>
+			<image:caption><![CDATA[Trà thảo mộc hoa cúc tác dụng làm dịu và thường được sử dụng như một loại thuốc hỗ trợ giấc ngủ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-bac-ha.jpg</image:loc>
+			<image:caption><![CDATA[Trà bạc hà là một trong những loại trà thảo mộc được sử dụng phổ biến nhất trên thế giới.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-gung.jpg</image:loc>
+			<image:caption><![CDATA[Trà gừng là một thức uống có vị cay và có hương vị, chứa nhiều chất chống oxy hóa lành mạnh, chống lại bệnh tật]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-atiso-do.jpg</image:loc>
+			<image:caption><![CDATA[Trà atiso đỏ được làm từ những bông hoa nhiều màu sắc của cây Roselle]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-hoc-cuc-gai-tim.jpg</image:loc>
+			<image:caption><![CDATA[Trà cúc dại là một phương thuốc cực kỳ phổ biến được cho là có tác dụng ngăn ngừa và rút ngắn cảm lạnh thông thường]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-roobios.jpg</image:loc>
+			<image:caption><![CDATA[Rooibos là một loại trà thảo mộc có xuất xứ từ Nam Phi,  được làm từ lá của cây rooibos hoặc cây bụi đỏ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-xo-thom.jpg</image:loc>
+			<image:caption><![CDATA[Trà xô thơm nổi tiếng với các đặc tính chữa bệnh, đặc biệt là đối với sức khỏe não bộ]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-chanh.jpg</image:loc>
+			<image:caption><![CDATA[uống trà chanh cải thiện độ đàn hồi của động mạch]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tra-tam-xuan.jpg</image:loc>
+			<image:caption><![CDATA[Trà thảo mộc tầm xuân chứa nhiều vitamin C và các hợp chất thực vật có lợi.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/huong-dan-day-du-cho-nguoi-moi-bat-dau-ve-che-do-an-kieng-dash/</loc>
+		<lastmod>2020-10-01T04:34:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-kieng-dash.jpg</image:loc>
+			<image:title><![CDATA[che-do-an-kieng-dash]]></image:title>
+			<image:caption><![CDATA[DASH tập trung vào trái cây, rau, ngũ cốc nguyên hạt và thịt nạc.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/che-do-an-kieng-cho-nguoi-benh-tieu-duong-loai-1/</loc>
+		<lastmod>2020-10-01T04:34:52+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-kieng-cho-nguoi-benh-tieu-duong-loai-1.jpg</image:loc>
+			<image:title><![CDATA[che-do-an-kieng-cho-nguoi-benh-tieu-duong-loai-1]]></image:title>
+			<image:caption><![CDATA[Chế độ ăn kiêng tiểu đường loại 1]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/che-do-an-dia-trung-hai-huong-dan-cho-nguoi-moi-bat-dau/</loc>
+		<lastmod>2020-10-01T04:35:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/che-do-an-dia-trung-hai.jpg</image:loc>
+			<image:title><![CDATA[che-do-an-dia-trung-hai]]></image:title>
+			<image:caption><![CDATA[Chế độ ăn Địa Trung Hải hướng dẫn cho người mới bắt đầu]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/dau-o-liu-va-dau-thuc-vat-loai-nao-tot-cho-suc-khoe-hon/</loc>
+		<lastmod>2020-10-01T04:35:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/dau-oliu.jpg</image:loc>
+			<image:title><![CDATA[dau-oliu]]></image:title>
+			<image:caption><![CDATA[Dầu thực vật và dầu ô liu đều được sử dụng rộng rãi trong nấu ăn]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/6-loi-ich-suc-khoe-cua-rau-bina/</loc>
+		<lastmod>2020-10-01T04:35:44+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/raubina-la-gi.jpg</image:loc>
+			<image:title><![CDATA[raubina-la-gi]]></image:title>
+			<image:caption><![CDATA[Rau bina là gì? 6 lợi ích sức khỏe của rau bina]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/bi-viem-gan-sieu-vi-b-nen-an-gi-kieng-gi/</loc>
+		<lastmod>2020-10-01T04:35:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/suckhoe584hinh_abdu.jpg</image:loc>
+			<image:title><![CDATA[suckhoe584hinh_abdu]]></image:title>
+			<image:caption><![CDATA[Bệnh viêm gan siêu vi B]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ngu-coc-nguyen-hat.jpg</image:loc>
+			<image:caption><![CDATA[Ngũ cốc nguyên chất rất giàu vitamin B, chất xơ, carbohydrate, khoáng chất và protein, và các chất dinh dưỡng thiết yếu như vitamin B6, vitamin E, magiê, kẽm và đồng.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/dau-oliu.jpg</image:loc>
+			<image:caption><![CDATA[Các bác sĩ khuyên nên tiêu thụ ít nhất 2-3 muỗng dầu ô liu mỗi ngày.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/sai-lam-khi-an-gia-do-gay-nguy-co-trung-doc-mac-ung-thu/</loc>
+		<lastmod>2020-10-01T04:35:45+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/gia-do-feature.jpg</image:loc>
+			<image:title><![CDATA[Giá đỗ rất giàu vitamin đặc biệt là vitamin C cùng các khoáng chất amino acid, protein và chất có nguồn gốc thực vật (phytochemicals) rất bổ dưỡng cho con người.]]></image:title>
+			<image:caption><![CDATA[Giá đỗ tuy rất bổ dưỡng nhưng nếu không hiểu biết mà dùng tùy tiện thì cũng lợi bất cập hại cho sức khỏe.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/gia-do.jpg</image:loc>
+			<image:caption><![CDATA[nhiều người bán hàng tham lợi đã dùng những loại hóa chất như thuốc kích thích, ure... để ủ giá nhằm làm cho chúng mập mạp, bắt mắt.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/anh-huong-gia-do.jpg</image:loc>
+			<image:caption><![CDATA[Giá đỗ rất bổ nhưng mọi người không nên ăn quá 550g giá sống mỗi ngày.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/khong-an-gia-khi-uong-thuoc.jpg</image:loc>
+			<image:caption><![CDATA[Giá đỗ có tính giải các chất độc nhưng nó cũng giải luôn tác dụng của thuốc]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/axit-beo-omega-3/</loc>
+		<lastmod>2020-10-01T04:36:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/omega-3-la-gi.jpg</image:loc>
+			<image:title><![CDATA[omega-3-la-gi]]></image:title>
+			<image:caption><![CDATA[Axit béo Omega-3]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
