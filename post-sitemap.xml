@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-10-02T04:43:27+00:00</lastmod>
+		<lastmod>2020-10-05T04:08:35+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/thuc-an-cho-xuong-chac-khoe/</loc>
@@ -3658,6 +3658,42 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/10/Chasteberry-1-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/sorbitol-la-gi-loi-ich-cong-dung-tac-dung-phu/</loc>
+		<lastmod>2020-10-05T03:48:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/10/sorbitol-la-gi.jpg</image:loc>
+			<image:title><![CDATA[sorbitol-la-gi]]></image:title>
+			<image:caption><![CDATA[Sorbitol là gì?]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/maltitol-co-phai-la-chat-thay-the-duong-an-toan-khong/</loc>
+		<lastmod>2020-10-05T03:49:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/10/maltitol-la-gi.jpg</image:loc>
+			<image:title><![CDATA[maltitol-la-gi]]></image:title>
+			<image:caption><![CDATA[Maltitol là gì?]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/xylitol-la-gi-chi-so-duong-huyet-thap-va-su-lien-quan-den-suc-khoe-rang-mieng/</loc>
+		<lastmod>2020-10-05T04:07:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/10/xylitol-la-gi.jpg</image:loc>
+			<image:title><![CDATA[xylitol-la-gi]]></image:title>
+			<image:caption><![CDATA[Xylitol là gì: Mọi thứ bạn cần biết]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/ruou-duong-co-than-thien-voi-keto-khong/</loc>
+		<lastmod>2020-10-05T04:08:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/10/ruou-duong-v%C3%A0-keto.jpg</image:loc>
+			<image:title><![CDATA[ruou-duong-và-keto]]></image:title>
+			<image:caption><![CDATA[Rượu đường và keto]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
