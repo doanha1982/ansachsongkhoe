@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-10-05T04:08:35+00:00</lastmod>
+		<lastmod>2020-10-13T08:59:47+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/thuc-an-cho-xuong-chac-khoe/</loc>
@@ -2706,7 +2706,7 @@
 		<lastmod>2020-08-26T08:18:55+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/dau-lung-duoi1.jpg</image:loc>
-			<image:title><![CDATA[dau-lung-duoi1]]></image:title>
+			<image:caption><![CDATA[8 thực phẩm và đồ uống nên tránh khi bị viêm khớp]]></image:caption>
 		</image:image>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/Ly-do-luoi-luyen-tap-the-duc.jpeg</image:loc>
@@ -2798,15 +2798,6 @@
 			<image:loc>https://yeusong.com/static/uploads/2020/08/co-lua-mach.jpg</image:loc>
 			<image:title><![CDATA[co-lua-mach]]></image:title>
 			<image:caption><![CDATA[Cỏ lúa mạch là gì? Thành phần dinh dưỡng và tác dụng giảm cân?]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/viem-khop/</loc>
-		<lastmod>2020-08-30T17:04:01+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/viem-khop-la-gi.jpg</image:loc>
-			<image:title><![CDATA[viem-khop-la-gi]]></image:title>
-			<image:caption><![CDATA[Viêm khớp là gì?]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -3235,7 +3226,7 @@
 		<lastmod>2020-09-11T04:21:47+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/07/woman-standing-scale_53876-15132.jpg</image:loc>
-			<image:title><![CDATA[Woman standing on a scale]]></image:title>
+			<image:caption><![CDATA[Đạt được và duy trì cân nặng hợp lý có thể giúp giảm bớt các triệu chứng mãn kinh]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -3526,7 +3517,7 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/raubina-la-gi.jpg</image:loc>
 			<image:title><![CDATA[raubina-la-gi]]></image:title>
-			<image:caption><![CDATA[Rau bina là gì? 6 lợi ích sức khỏe của rau bina]]></image:caption>
+			<image:caption><![CDATA[rau bina có chứa nhiều chất chống oxy hóa cũng như các hợp chất thực vật có thể làm giảm viêm]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -3674,8 +3665,7 @@
 		<lastmod>2020-10-05T03:49:12+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/10/maltitol-la-gi.jpg</image:loc>
-			<image:title><![CDATA[maltitol-la-gi]]></image:title>
-			<image:caption><![CDATA[Maltitol là gì?]]></image:caption>
+			<image:caption><![CDATA[Nếu bạn bị viêm khớp thì không nên ăn đồ ngọt]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -3694,6 +3684,105 @@
 			<image:loc>https://yeusong.com/static/uploads/2020/10/ruou-duong-v%C3%A0-keto.jpg</image:loc>
 			<image:title><![CDATA[ruou-duong-và-keto]]></image:title>
 			<image:caption><![CDATA[Rượu đường và keto]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/11-cach-tu-nhien-de-giam-cac-trieu-chung-cua-thoi-ky-man-kinh/</loc>
+		<lastmod>2020-10-07T02:57:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/10/11-cach-giam-trieu-chung-thoi-ky-man-kinh.jpg</image:loc>
+			<image:title><![CDATA[11-cach-giam-trieu-chung-thoi-ky-man-kinh]]></image:title>
+			<image:caption><![CDATA[11 cách tự nhiên để giảm các triệu chứng của thời kỳ mãn kinh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/realistic-set-two-blank-pots-with-open-foil-lids-plastic-containers-jars-with-spoons_1441-1852.jpg</image:loc>
+			<image:caption><![CDATA[Nhiều loại thực phẩm giàu canxi , bao gồm các sản phẩm từ sữa như sữa chua , sữa và pho mát]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/07/woman-standing-scale_53876-15132.jpg</image:loc>
+			<image:caption><![CDATA[Đạt được và duy trì cân nặng hợp lý có thể giúp giảm bớt các triệu chứng mãn kinh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/14_4.jpg</image:loc>
+			<image:caption><![CDATA[Tập thể dục thường xuyên có thể giúp giảm bớt các triệu chứng mãn kinh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/khong-nen-ket-hop-mat-ong-voi-cac-thuc-pham-sau-de-tranh-gay-hai-suc-khoe-4.jpg</image:loc>
+			<image:caption><![CDATA[Thực phẩm giàu phytoestrogen có thể có lợi ích khiêm tốn đối với các cơn bốc hỏa và nguy cơ bệnh tim]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/10/maltitol-la-gi.jpg</image:loc>
+			<image:caption><![CDATA[Chế độ ăn nhiều thực phẩm chế biến sẵn và tinh bột có liên quan đến nguy cơ trầm cảm cao hơn và sức khỏe xương kém hơn ở phụ nữ sau mãn kinh.]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/X_tri_khi_b_tao_bon__resize.jpg</image:loc>
+			<image:caption><![CDATA[Thường xuyên bổ sung protein chất lượng cao có thể ngăn ngừa mất cơ nạc, hỗ trợ giảm cân và giúp điều chỉnh tâm trạng và giấc ngủ]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/viem-khop/</loc>
+		<lastmod>2020-10-13T08:53:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/viem-khop-la-gi.jpg</image:loc>
+			<image:title><![CDATA[viem-khop-la-gi]]></image:title>
+			<image:caption><![CDATA[Viêm khớp là gì?]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/8-thuc-pham-va-do-uong-nen-tranh-khi-bi-viem-khop/</loc>
+		<lastmod>2020-10-13T08:53:54+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/dau-lung-duoi1.jpg</image:loc>
+			<image:caption><![CDATA[8 thực phẩm và đồ uống nên tránh khi bị viêm khớp]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/10/maltitol-la-gi.jpg</image:loc>
+			<image:caption><![CDATA[Nếu bạn bị viêm khớp thì không nên ăn đồ ngọt]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tasting-illustration-concept_114360-774.jpg</image:loc>
+			<image:caption><![CDATA[Không nên uống rượu, vì rượu có thể làm trầm trọng thêm các triệu chứng viêm khớp]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/10/pizza-slices.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/dau-hieu-som-cua-benh-viem-khop-dang-thap/</loc>
+		<lastmod>2020-10-13T08:57:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/10/viem-khop-dang-thap.jpg</image:loc>
+			<image:title><![CDATA[viem-khop-dang-thap]]></image:title>
+			<image:caption><![CDATA[Dấu hiệu sớm của bệnh viêm khớp dạng thấp]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/10-loai-thuc-pham-tot-nhat-nen-an-neu-ban-bi-viem-khop/</loc>
+		<lastmod>2020-10-13T08:59:47+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/cook-cooking-carp-fish_1398-4455.jpg</image:loc>
+			<image:title><![CDATA[cook-cooking-carp-fish_1398-4455]]></image:title>
+			<image:caption><![CDATA[10 loại thực phẩm tốt nhất nên ăn nếu bạn bị viêm khớp]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/ca-hoi-chua-nhieu-vitamin-d.jpg</image:loc>
+			<image:caption><![CDATA[Các loại cá béo như cá hồi , cá thu, cá mòi và cá hồi có nhiều axit béo omega-3, đã được chứng minh là có tác dụng chống viêm mạnh]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/vo-hanh-tay.jpg</image:loc>
+			<image:caption><![CDATA[tỏi và các thành phần của nó đã được chứng minh là có đặc tính chống ung thư]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/bong-cai-xanh.jpg</image:loc>
+			<image:caption><![CDATA[việc tiêu thụ các loại rau họ cải như bông cải xanh có liên quan đến việc giảm mức độ các dấu hiệu viêm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/raubina-la-gi.jpg</image:loc>
+			<image:caption><![CDATA[rau bina có chứa nhiều chất chống oxy hóa cũng như các hợp chất thực vật có thể làm giảm viêm]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/green-olives-oil_144627-26921.jpg</image:loc>
+			<image:caption><![CDATA[Nổi tiếng với đặc tính chống viêm, dầu ô liu có thể có tác dụng thuận lợi đối với các triệu chứng viêm khớp]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
