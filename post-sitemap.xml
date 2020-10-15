@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-10-13T08:59:47+00:00</lastmod>
+		<lastmod>2020-10-15T14:39:18+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/thuc-an-cho-xuong-chac-khoe/</loc>
@@ -39,10 +39,6 @@
 			<image:title><![CDATA[boy-measured-height-with-blackboard_1150-19697]]></image:title>
 			<image:caption><![CDATA[chiều cao trẻ]]></image:caption>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/neat/</loc>
-		<lastmod>2020-07-26T10:58:51+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/phong-tap-gym-di-dong/</loc>
@@ -2249,50 +2245,12 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/suy-giam-tuan-hoan-mau/</loc>
-		<lastmod>2020-08-17T11:54:50+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/suy-giam-tuan-hoan.jpg</image:loc>
-			<image:title><![CDATA[suy-giam-tuan-hoan]]></image:title>
-			<image:caption><![CDATA[Suy giảm tuần hoàn máu]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/hep-dong-mach-ngoai-vi.jpg</image:loc>
-			<image:caption><![CDATA[Bệnh động mạch ngoại biên (PAD) là một tình trạng tuần hoàn gây ra thu hẹp các mạch máu và động mạch]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/photo1523432946668-15234329466681799151617.jpg</image:loc>
-			<image:caption><![CDATA[cục máu đông  sẽ làm tắt nghẽn dòng chảy của máu trong cơ thể]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/suy-gian-tinh-mach-chan.jpeg</image:loc>
-			<image:caption><![CDATA[Giãn tĩnh mạch thừng tinh là hiện tượng tĩnh mạch bị giãn nở do suy van]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/5-nhom-benh-tieu-duong.jpg</image:loc>
-			<image:caption><![CDATA[Bệnh tiểu đường có thể gây ra chuột rút ở chân, cũng như đau bắp chân, đùi hoặc mông]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-raynaud.jpg</image:loc>
-			<image:caption><![CDATA[Căn bệnh Raynaud này khiến các động mạch nhỏ ở bàn tay và ngón chân bị thu hẹp]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/4-cong-thuc-salad-rau-bina-cuc-ngon/</loc>
 		<lastmod>2020-08-25T16:26:32+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/salad-rau-bina.jpg</image:loc>
 			<image:title><![CDATA[salad-rau-bina]]></image:title>
 			<image:caption><![CDATA[4 công thức salad với rau bina tuyệt đỉnh]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/thoai-hoa-diem-vang-amd/</loc>
-		<lastmod>2020-08-25T16:33:28+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/thoai-hoa-diem-vamg-amd-la-gi.jpg</image:loc>
-			<image:title><![CDATA[thoai-hoa-diem-vamg-amd-la-gi]]></image:title>
-			<image:caption><![CDATA[Thoái hóa điểm vàng liên quan đến tuổi tác]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -2306,14 +2264,6 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/yoga.jpg</image:loc>
 			<image:caption><![CDATA[9 bài tập Yoga giúp bạn có giấc ngủ ngon]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/moi-dieu-can-biet-ve-benh-cao-huyet-ap-huyet-ap-cao/</loc>
-		<lastmod>2020-08-25T16:47:26+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/may-do-huyet-ap.jpg</image:loc>
-			<image:caption><![CDATA[Máy đo huyết áp]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -2451,15 +2401,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/keratin-la-gi/</loc>
-		<lastmod>2020-08-26T03:33:28+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/keratin-phuc-hoi-toc.jpg</image:loc>
-			<image:title><![CDATA[keratin-phuc-hoi-toc]]></image:title>
-			<image:caption><![CDATA[Keratin là một loại protein tạo nên tóc, da và móng tay của bạn]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/10-loai-thuc-pham-bo-sung-keratin-cho-co-the-ngan-rung-toc/</loc>
 		<lastmod>2020-08-26T03:37:47+00:00</lastmod>
 		<image:image>
@@ -2502,24 +2443,6 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/ca-rot.jpg</image:loc>
 			<image:caption><![CDATA[Cà rốt chứa nhiều provitamin A]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/alzheimer-anh-huong-tieu-cuc-den-tri-nho-suy-nghi-va-hanh-vi/</loc>
-		<lastmod>2020-08-26T03:39:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/alzheimer-suy-giam-tri-nho.jpg</image:loc>
-			<image:title><![CDATA[alzheimer-suy-giam-tri-nho]]></image:title>
-			<image:caption><![CDATA[Alzheimer bệnh suy giảm trí nhớ]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/su-thieu-hut-selen/</loc>
-		<lastmod>2020-08-26T03:45:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/selen-rat-can-thiet-cho-co-the.jpg</image:loc>
-			<image:title><![CDATA[selen-rat-can-thiet-cho-co-the]]></image:title>
-			<image:caption><![CDATA[Selen là một khoáng chất quan trọng]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -2590,55 +2513,6 @@
 			<image:loc>https://yeusong.com/static/uploads/2020/08/qua-ho-dao.jpg</image:loc>
 			<image:title><![CDATA[qua-ho-dao]]></image:title>
 			<image:caption><![CDATA[Hạt hồ đào]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/hoi-chung-loi-thoat-nguc/</loc>
-		<lastmod>2020-08-26T03:54:14+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/hoi-chung-loi-thoat-nguc.jpg</image:loc>
-			<image:title><![CDATA[hoi-chung-loi-thoat-nguc]]></image:title>
-			<image:caption><![CDATA[Hội chứng lối thoát ngực]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/mun-trung-ca/</loc>
-		<lastmod>2020-08-26T03:55:46+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/mun-trung-ca-xay-ra-moi-lua-tuoi.jpg</image:loc>
-			<image:title><![CDATA[mun-trung-ca-xay-ra-moi-lua-tuoi]]></image:title>
-			<image:caption><![CDATA[Mụn trứng cá là tình trạng da phổ biến]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/mun-trung-ca-dang-nhe-dieu-tri-boi-gel-1.jpg</image:loc>
-			<image:caption><![CDATA[Kem và sữa dưỡng là tốt nhất cho da nhạy cảm]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/benh-tieu-duong-loai-1/</loc>
-		<lastmod>2020-08-26T08:13:14+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/tieu-duong-loai-1.jpg</image:loc>
-			<image:title><![CDATA[tieu-duong-loai-1]]></image:title>
-			<image:caption><![CDATA[Tiểu đường loại 1: mọi thứ bạn cần biết]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/moi-dieu-can-biet-ve-benh-tieu-duong-loai-2/</loc>
-		<lastmod>2020-08-26T08:14:20+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-tieu-duong-loai-2.jpg</image:loc>
-			<image:title><![CDATA[benh-tieu-duong-loai-2]]></image:title>
-			<image:caption><![CDATA[Hiểu biết về bệnh tiểu đường loại 2]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/insulin-la-gi/</loc>
-		<lastmod>2020-08-26T08:16:31+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/insuline-dieu-tri-benh-tieu-duong.jpg</image:loc>
-			<image:title><![CDATA[insuline-dieu-tri-benh-tieu-duong]]></image:title>
-			<image:caption><![CDATA[Insulin là một loại hormone được tạo ra trong tuyến tụy]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -2801,15 +2675,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/hen-suyen/</loc>
-		<lastmod>2020-08-31T04:19:58+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-hen-suyen-la-gi.jpg</image:loc>
-			<image:title><![CDATA[benh-hen-suyen-la-gi]]></image:title>
-			<image:caption><![CDATA[Bạn muốn biết gì về bệnh hen suyễn?]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/moi-dieu-can-biet-ve-benh-tieu-duong/</loc>
 		<lastmod>2020-08-31T04:28:07+00:00</lastmod>
 		<image:image>
@@ -2825,24 +2690,6 @@
 			<image:loc>https://yeusong.com/static/uploads/2020/08/thuc-pham-giup-giam-cang-thang.jpg</image:loc>
 			<image:title><![CDATA[thuc-pham-giup-giam-cang-thang]]></image:title>
 			<image:caption><![CDATA[20 thực phẩm giúp giảm căng thẳng]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/benh-beo-phi/</loc>
-		<lastmod>2020-09-01T04:15:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/benh-beo-phi.jpg</image:loc>
-			<image:title><![CDATA[benh-beo-phi]]></image:title>
-			<image:caption><![CDATA[Béo phì có liên quan đến nguy cơ cao mắc các bệnh nghiêm trọng]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/benh-tim-mach/</loc>
-		<lastmod>2020-09-01T04:15:29+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/benh-tim-moi-dieu-can-biet.jpg</image:loc>
-			<image:title><![CDATA[benh-tim-moi-dieu-can-biet]]></image:title>
-			<image:caption><![CDATA[Mọi thứ bạn cần biết về bệnh tim]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -3125,15 +2972,6 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/mat-ong-bi-dong-duong.jpg</image:loc>
 			<image:caption><![CDATA[Đường + mật ong + dầu ô liu + chiết xuất vani]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/ung-thu-dai-truc-trang-ruot-ket/</loc>
-		<lastmod>2020-09-04T13:52:40+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/09/ung-thu-dai-truc-trang.jpg</image:loc>
-			<image:title><![CDATA[ung-thu-dai-truc-trang]]></image:title>
-			<image:caption><![CDATA[Ung thư đại trực tràng là bệnh ung thư bắt đầu ở ruột kết (ruột già) hoặc trực tràng]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -3559,15 +3397,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/axit-beo-omega-3/</loc>
-		<lastmod>2020-10-01T04:36:33+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/omega-3-la-gi.jpg</image:loc>
-			<image:title><![CDATA[omega-3-la-gi]]></image:title>
-			<image:caption><![CDATA[Axit béo Omega-3]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/10-loai-thao-moc-va-thuc-pham-bo-sung-cho-thoi-ky-man-kinh/</loc>
 		<lastmod>2020-10-02T04:43:27+00:00</lastmod>
 		<image:image>
@@ -3652,32 +3481,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/sorbitol-la-gi-loi-ich-cong-dung-tac-dung-phu/</loc>
-		<lastmod>2020-10-05T03:48:39+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/10/sorbitol-la-gi.jpg</image:loc>
-			<image:title><![CDATA[sorbitol-la-gi]]></image:title>
-			<image:caption><![CDATA[Sorbitol là gì?]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/maltitol-co-phai-la-chat-thay-the-duong-an-toan-khong/</loc>
-		<lastmod>2020-10-05T03:49:12+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/10/maltitol-la-gi.jpg</image:loc>
-			<image:caption><![CDATA[Nếu bạn bị viêm khớp thì không nên ăn đồ ngọt]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yeusong.com/xylitol-la-gi-chi-so-duong-huyet-thap-va-su-lien-quan-den-suc-khoe-rang-mieng/</loc>
-		<lastmod>2020-10-05T04:07:59+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/10/xylitol-la-gi.jpg</image:loc>
-			<image:title><![CDATA[xylitol-la-gi]]></image:title>
-			<image:caption><![CDATA[Xylitol là gì: Mọi thứ bạn cần biết]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/ruou-duong-co-than-thien-voi-keto-khong/</loc>
 		<lastmod>2020-10-05T04:08:35+00:00</lastmod>
 		<image:image>
@@ -3720,15 +3523,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yeusong.com/viem-khop/</loc>
-		<lastmod>2020-10-13T08:53:11+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yeusong.com/static/uploads/2020/08/viem-khop-la-gi.jpg</image:loc>
-			<image:title><![CDATA[viem-khop-la-gi]]></image:title>
-			<image:caption><![CDATA[Viêm khớp là gì?]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yeusong.com/8-thuc-pham-va-do-uong-nen-tranh-khi-bi-viem-khop/</loc>
 		<lastmod>2020-10-13T08:53:54+00:00</lastmod>
 		<image:image>
@@ -3748,8 +3542,35 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://yeusong.com/15-chat-bo-sung-tot-nhat-de-tang-cuong-he-thong-mien-dich/</loc>
+		<lastmod>2020-10-15T10:32:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/10/tang-cuong-he-thong-mien-dich.jpg</image:loc>
+			<image:title><![CDATA[tang-cuong-he-thong-mien-dich]]></image:title>
+			<image:caption><![CDATA[15 chất bổ sung tốt nhất để tăng cường hệ thống miễn dịch]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/3-loi-ich-bat-ngo-cua-vitamin-d/</loc>
+		<lastmod>2020-10-15T10:42:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/10/loi-ich-tu-vitamin-d.jpg</image:loc>
+			<image:title><![CDATA[loi-ich-tu-vitamin-d]]></image:title>
+			<image:caption><![CDATA[Vitamin D là một chất dinh dưỡng hòa tan trong chất béo cần thiết cho sức khỏe và hoạt động của hệ thống miễn dịch của bạn.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/vitamin-d-co-the-lam-giam-nguy-co-mac-benh-covid-19-khong/</loc>
+		<lastmod>2020-10-15T10:55:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/10/vitamin-d-tang-cuong-he-mien-dich-chong-lai-covid-19.jpg</image:loc>
+			<image:title><![CDATA[vitamin-d-tang-cuong-he-mien-dich-chong-lai-covid-19]]></image:title>
+			<image:caption><![CDATA[Vitamin D có thể làm giảm nguy cơ mắc bệnh COVID-19 không?]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://yeusong.com/dau-hieu-som-cua-benh-viem-khop-dang-thap/</loc>
-		<lastmod>2020-10-13T08:57:27+00:00</lastmod>
+		<lastmod>2020-10-15T10:55:48+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/10/viem-khop-dang-thap.jpg</image:loc>
 			<image:title><![CDATA[viem-khop-dang-thap]]></image:title>
@@ -3757,8 +3578,188 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://yeusong.com/ung-thu-dai-truc-trang-ruot-ket/</loc>
+		<lastmod>2020-10-15T10:58:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/ung-thu-dai-truc-trang.jpg</image:loc>
+			<image:title><![CDATA[ung-thu-dai-truc-trang]]></image:title>
+			<image:caption><![CDATA[Ung thư đại trực tràng là bệnh ung thư bắt đầu ở ruột kết (ruột già) hoặc trực tràng]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-beo-phi/</loc>
+		<lastmod>2020-10-15T10:59:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/benh-beo-phi.jpg</image:loc>
+			<image:title><![CDATA[benh-beo-phi]]></image:title>
+			<image:caption><![CDATA[Béo phì có liên quan đến nguy cơ cao mắc các bệnh nghiêm trọng]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-tim-mach/</loc>
+		<lastmod>2020-10-15T11:00:49+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/benh-tim-moi-dieu-can-biet.jpg</image:loc>
+			<image:title><![CDATA[benh-tim-moi-dieu-can-biet]]></image:title>
+			<image:caption><![CDATA[Mọi thứ bạn cần biết về bệnh tim]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/hen-suyen/</loc>
+		<lastmod>2020-10-15T11:02:19+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-hen-suyen-la-gi.jpg</image:loc>
+			<image:title><![CDATA[benh-hen-suyen-la-gi]]></image:title>
+			<image:caption><![CDATA[Bạn muốn biết gì về bệnh hen suyễn?]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/viem-khop/</loc>
+		<lastmod>2020-10-15T11:02:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/viem-khop-la-gi.jpg</image:loc>
+			<image:title><![CDATA[viem-khop-la-gi]]></image:title>
+			<image:caption><![CDATA[Viêm khớp là gì?]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/benh-tieu-duong-loai-1/</loc>
+		<lastmod>2020-10-15T11:03:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/tieu-duong-loai-1.jpg</image:loc>
+			<image:title><![CDATA[tieu-duong-loai-1]]></image:title>
+			<image:caption><![CDATA[Tiểu đường loại 1: mọi thứ bạn cần biết]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/moi-dieu-can-biet-ve-benh-tieu-duong-loai-2/</loc>
+		<lastmod>2020-10-15T11:04:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-tieu-duong-loai-2.jpg</image:loc>
+			<image:title><![CDATA[benh-tieu-duong-loai-2]]></image:title>
+			<image:caption><![CDATA[Hiểu biết về bệnh tiểu đường loại 2]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/thoai-hoa-diem-vang-amd/</loc>
+		<lastmod>2020-10-15T11:04:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/thoai-hoa-diem-vamg-amd-la-gi.jpg</image:loc>
+			<image:title><![CDATA[thoai-hoa-diem-vamg-amd-la-gi]]></image:title>
+			<image:caption><![CDATA[Thoái hóa điểm vàng liên quan đến tuổi tác]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/keratin-la-gi/</loc>
+		<lastmod>2020-10-15T11:04:43+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/keratin-phuc-hoi-toc.jpg</image:loc>
+			<image:title><![CDATA[keratin-phuc-hoi-toc]]></image:title>
+			<image:caption><![CDATA[Keratin là một loại protein tạo nên tóc, da và móng tay của bạn]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/alzheimer-anh-huong-tieu-cuc-den-tri-nho-suy-nghi-va-hanh-vi/</loc>
+		<lastmod>2020-10-15T11:05:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/alzheimer-suy-giam-tri-nho.jpg</image:loc>
+			<image:title><![CDATA[alzheimer-suy-giam-tri-nho]]></image:title>
+			<image:caption><![CDATA[Alzheimer bệnh suy giảm trí nhớ]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/axit-beo-omega-3/</loc>
+		<lastmod>2020-10-15T11:06:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/omega-3-la-gi.jpg</image:loc>
+			<image:title><![CDATA[omega-3-la-gi]]></image:title>
+			<image:caption><![CDATA[Axit béo Omega-3]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/moi-dieu-can-biet-ve-benh-cao-huyet-ap-huyet-ap-cao/</loc>
+		<lastmod>2020-10-15T14:19:24+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/may-do-huyet-ap.jpg</image:loc>
+			<image:caption><![CDATA[Máy đo huyết áp]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/su-thieu-hut-selen/</loc>
+		<lastmod>2020-10-15T14:20:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/selen-rat-can-thiet-cho-co-the.jpg</image:loc>
+			<image:title><![CDATA[selen-rat-can-thiet-cho-co-the]]></image:title>
+			<image:caption><![CDATA[Selen là một khoáng chất quan trọng]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/insulin-la-gi/</loc>
+		<lastmod>2020-10-15T14:20:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/insuline-dieu-tri-benh-tieu-duong.jpg</image:loc>
+			<image:title><![CDATA[insuline-dieu-tri-benh-tieu-duong]]></image:title>
+			<image:caption><![CDATA[Insulin là một loại hormone được tạo ra trong tuyến tụy]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/hoi-chung-loi-thoat-nguc/</loc>
+		<lastmod>2020-10-15T14:20:59+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hoi-chung-loi-thoat-nguc.jpg</image:loc>
+			<image:title><![CDATA[hoi-chung-loi-thoat-nguc]]></image:title>
+			<image:caption><![CDATA[Hội chứng lối thoát ngực]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/mun-trung-ca/</loc>
+		<lastmod>2020-10-15T14:21:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mun-trung-ca-xay-ra-moi-lua-tuoi.jpg</image:loc>
+			<image:title><![CDATA[mun-trung-ca-xay-ra-moi-lua-tuoi]]></image:title>
+			<image:caption><![CDATA[Mụn trứng cá là tình trạng da phổ biến]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/mun-trung-ca-dang-nhe-dieu-tri-boi-gel-1.jpg</image:loc>
+			<image:caption><![CDATA[Kem và sữa dưỡng là tốt nhất cho da nhạy cảm]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/suy-giam-tuan-hoan-mau/</loc>
+		<lastmod>2020-10-15T14:22:26+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/suy-giam-tuan-hoan.jpg</image:loc>
+			<image:title><![CDATA[suy-giam-tuan-hoan]]></image:title>
+			<image:caption><![CDATA[Suy giảm tuần hoàn máu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/hep-dong-mach-ngoai-vi.jpg</image:loc>
+			<image:caption><![CDATA[Bệnh động mạch ngoại biên (PAD) là một tình trạng tuần hoàn gây ra thu hẹp các mạch máu và động mạch]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/photo1523432946668-15234329466681799151617.jpg</image:loc>
+			<image:caption><![CDATA[cục máu đông  sẽ làm tắt nghẽn dòng chảy của máu trong cơ thể]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/suy-gian-tinh-mach-chan.jpeg</image:loc>
+			<image:caption><![CDATA[Giãn tĩnh mạch thừng tinh là hiện tượng tĩnh mạch bị giãn nở do suy van]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/5-nhom-benh-tieu-duong.jpg</image:loc>
+			<image:caption><![CDATA[Bệnh tiểu đường có thể gây ra chuột rút ở chân, cũng như đau bắp chân, đùi hoặc mông]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/08/benh-raynaud.jpg</image:loc>
+			<image:caption><![CDATA[Căn bệnh Raynaud này khiến các động mạch nhỏ ở bàn tay và ngón chân bị thu hẹp]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/neat/</loc>
+		<lastmod>2020-10-15T14:23:29+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://yeusong.com/10-loai-thuc-pham-tot-nhat-nen-an-neu-ban-bi-viem-khop/</loc>
-		<lastmod>2020-10-13T08:59:47+00:00</lastmod>
+		<lastmod>2020-10-15T14:32:30+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/cook-cooking-carp-fish_1398-4455.jpg</image:loc>
 			<image:title><![CDATA[cook-cooking-carp-fish_1398-4455]]></image:title>
@@ -3783,6 +3784,32 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/08/green-olives-oil_144627-26921.jpg</image:loc>
 			<image:caption><![CDATA[Nổi tiếng với đặc tính chống viêm, dầu ô liu có thể có tác dụng thuận lợi đối với các triệu chứng viêm khớp]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/xylitol-la-gi-chi-so-duong-huyet-thap-va-su-lien-quan-den-suc-khoe-rang-mieng/</loc>
+		<lastmod>2020-10-15T14:38:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/10/xylitol-la-gi.jpg</image:loc>
+			<image:title><![CDATA[xylitol-la-gi]]></image:title>
+			<image:caption><![CDATA[Xylitol là gì: Mọi thứ bạn cần biết]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/maltitol-co-phai-la-chat-thay-the-duong-an-toan-khong/</loc>
+		<lastmod>2020-10-15T14:39:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/10/maltitol-la-gi.jpg</image:loc>
+			<image:caption><![CDATA[Nếu bạn bị viêm khớp thì không nên ăn đồ ngọt]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/sorbitol-la-gi-loi-ich-cong-dung-tac-dung-phu/</loc>
+		<lastmod>2020-10-15T14:39:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/10/sorbitol-la-gi.jpg</image:loc>
+			<image:title><![CDATA[sorbitol-la-gi]]></image:title>
+			<image:caption><![CDATA[Sorbitol là gì?]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
