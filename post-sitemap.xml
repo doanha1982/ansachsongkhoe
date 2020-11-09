@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://static.yeusong.com/static/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https//static.yeusong.com/static/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-10-22T04:33:57+00:00</lastmod>
+		<lastmod>2020-11-09T04:40:30+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/thuc-an-cho-xuong-chac-khoe/</loc>
@@ -3832,6 +3832,18 @@
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/09/tra-breathe-easy.jpg</image:loc>
 			<image:caption><![CDATA[Trà Breathe Easy có nguồn gốc từ một công thức thảo dược]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/thuc-pham-nen-va-khong-nen-an-sau-khi-trai-qua-con-dau-tim/</loc>
+		<lastmod>2020-11-09T04:40:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/11/thuc-pham-tot-va-khong-tot-cho-tim-mach.jpg</image:loc>
+			<image:title><![CDATA[thuc-pham-tot-va-khong-tot-cho-tim-mach]]></image:title>
+			<image:caption><![CDATA[Thực phẩm nên ăn và tránh sau cơn đau tim]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/11/an-nhieu-rau-ca-beo.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
