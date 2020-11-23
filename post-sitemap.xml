@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https//static.yeusong.com/static/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//yeusong.com/static/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://yeusong.com/</loc>
-		<lastmod>2020-11-09T04:40:30+00:00</lastmod>
+		<lastmod>2020-11-22T16:32:14+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yeusong.com/thuc-an-cho-xuong-chac-khoe/</loc>
@@ -3844,6 +3844,63 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://yeusong.com/static/uploads/2020/11/an-nhieu-rau-ca-beo.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/cach-chon-thuc-pham-bo-sung-probiotics-tot-nhat/</loc>
+		<lastmod>2020-11-22T16:28:27+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/11/cach-chon-thuc-pham-bo-sung-probiotics.jpg</image:loc>
+			<image:title><![CDATA[cach-chon-thuc-pham-bo-sung-probiotics]]></image:title>
+			<image:caption><![CDATA[Cách chọn Thực phẩm bổ sung Probiotic tốt nhất]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/probiotics-la-gi/</loc>
+		<lastmod>2020-11-22T16:29:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/09/sua-chua-hy-lap.jpg</image:loc>
+			<image:title><![CDATA[probiotics]]></image:title>
+			<image:caption><![CDATA[Probiotics là những vi sinh vật sống, khi ăn vào sẽ mang lại nhiều lợi ích cho sức khỏe]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/11/he-vi-sinh-vat.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/probiotics-va-prebiotics-su-khac-biet-la-gi/</loc>
+		<lastmod>2020-11-22T16:30:39+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/11/probiotics-vs-prebiotics.jpg</image:loc>
+			<image:title><![CDATA[probiotics-vs-prebiotics]]></image:title>
+			<image:caption><![CDATA[Probiotics và Prebiotics: Sự khác biệt là gì?]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/11-thuc-pham-chua-probiotic-sieu-tot-cho-suc-khoe/</loc>
+		<lastmod>2020-11-22T16:31:13+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/11/thuc-pham-chua-probiotics.jpg</image:loc>
+			<image:title><![CDATA[fermented food collection]]></image:title>
+			<image:caption><![CDATA[Có rất nhiều loại thực phẩm chứa probiotic rất tốt cho sức khỏe mà bạn có thể ăn.]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/probiotics-co-the-giup-ban-giam-can-va-mo-bung-nhu-the-nao/</loc>
+		<lastmod>2020-11-22T16:31:50+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/11/probiotics-giam-mo-can-giam-mo-bung.jpg</image:loc>
+			<image:title><![CDATA[probiotics-giam-mo-can-giam-mo-bung]]></image:title>
+			<image:caption><![CDATA[Probiotics ảnh hưởng đến trọng lượng cơ thể như thế nào]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yeusong.com/5-tac-dung-phu-co-the-xay-ra-cua-probiotics/</loc>
+		<lastmod>2020-11-22T16:32:14+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yeusong.com/static/uploads/2020/11/tac-dung-phu-probiotics-gay-day-hoi-tao-bon.jpg</image:loc>
+			<image:title><![CDATA[tac-dung-phu-probiotics-gay-day-hoi-tao-bon]]></image:title>
+			<image:caption><![CDATA[Probiotics an toàn cho phần lớn dân số, nhưng các tác dụng phụ có thể xảy ra]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
